@@ -1,22 +1,22 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+- name: Facebook
+  url: http://www.facebook.com/samofthex
+  class: icon-facebook
+  title: Follow us on Facebook!
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/samofthex
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Over 300 glorious videos of covers & originals"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/samofthex
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Tweet me right"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+- name: Soundcloud
+  url: http://www.soundcloud.com/samharrisonmusic
   class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: "High Quality Mixes"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
