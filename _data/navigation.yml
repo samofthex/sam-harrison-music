@@ -60,11 +60,11 @@
     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
+  url: "http://samharrisonlives.blogspot.co.uk/"
   side: left
   dropdown:
   - title: "Blog Archive"
-    url: "/blog/archive/"
+    url: "http://samharrisonlives.blogspot.co.uk"
 
 - title: "Search"
   url: "/search/"
