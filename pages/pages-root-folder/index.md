@@ -16,7 +16,7 @@ widget2:
   title: "Watch & Listen"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://samofthex.github.io/feeling-responsive/images/sam-harrison-music/images/widgetmedia.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://samofthex.github.io/sam-harrison-music/images/widgetmedia.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Get Involved"
   url: 'https://github.com/Phlow/feeling-responsive'
