@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About Sam Harrison"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: widgetgetinvolved.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Watch & Listen"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Get Involved"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: sam-harrison-music/images/widgetgetinvolved.jpg
+  image: widgetgetinvolved.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
 #
 # Use the call for action to show a button on the frontpage
