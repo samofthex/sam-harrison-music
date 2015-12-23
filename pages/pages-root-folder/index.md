@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About Sam Harrison"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widgetgetinvolved.jpg
+  image: widgetaboutsam.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Watch & Listen"
