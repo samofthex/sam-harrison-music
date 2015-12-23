@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: firstbannerattempt.jpg
 widget1:
   title: "About Sam Harrison"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
