@@ -26,10 +26,10 @@ video:
 ---
 <!--more-->
 
-## About the video by Kutiman
+## About the video...
 
-> Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. <cite>[Wikipedia](http://en.wikipedia.org/wiki/Kutiman)</cite>
+> This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
 
 
 
-Source: [Kutiman – Thru You Too – »Give It Up«](https://www.youtube.com/watch?v=XR3S80yDGvY)
+Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=XR3S80yDGvY)
