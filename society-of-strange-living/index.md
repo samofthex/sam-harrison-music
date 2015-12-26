@@ -23,16 +23,6 @@ video:
     embedURL: "https://www.youtube.com/embed/XR3S80yDGvY"
     contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
----
-<!--more-->
-
-## About the video...
-
-> This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
-
-
-
-{% raw %}{% include gallery %}{% endraw %}
 image:
    thumb: "socity-of-strange-living/Strange Living 1-thumb.jpg"
 gallery:
@@ -53,8 +43,18 @@ gallery:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
       
-    
 ---
+<!--more-->
+
+## About the video...
+
+> This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
+
+
+
+{% raw %}{% include gallery %}{% endraw %}
+
+
 
 You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
 <!--more-->
