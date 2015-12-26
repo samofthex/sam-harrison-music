@@ -1,38 +1,35 @@
 ---
-layout: default
-format: video
+layout: video
+show_meta: false
+title: "Video Template"
+subheadline: "Templates"
+teaser: "If you want to show videos in a large manner, the video template is the right choice."
+tags:
+    - post format
+categories:
+    - design
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+#
+# These video settings are totally optional. It's only purpose
+# is SEO, so that videos show up in Google hopefully with a 
+# thumbnail.
+# More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
+#
+# embedURL – A URL pointing to a player for the specific video.
+# contentURL – A URL pointing to the actual video media file
+# thumbnailUrl – A URL pointing to the video thumbnail image file.
+#
+video:
+    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
+    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
+    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
 ---
-<div class="row">
-	<div class="small-12 columns">
-		<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
-			<div class="flex-video">
-				{{ page.iframe}}
-			</div>
+<!--more-->
 
-			<div class="row">
-				<div class="medium-offset-2 medium-8 end columns">
-					<header>
-						{% if page.subheadline %}<p class="subheadline t30">{{ page.subheadline }}</p>{% endif %}
-						<h1 itemprop="name">{{ page.title }}</h1>
-					</header>
+## About the video by Kutiman
 
-					{% if page.video.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video.thumbnailUrl }}" />{% endif %}
-					{% if page.video.contentURL %}<meta itemprop="contentURL" content="{{ page.video.contentURL }}" />{% endif %}
-					{% if page.video.embedURL %}<meta itemprop="embedURL" content="{{ page.video.embedURL }}" />{% endif %}
+> Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. <cite>[Wikipedia](http://en.wikipedia.org/wiki/Kutiman)</cite>
 
-					{% if page.teaser %}
-					<p class="teaser" itemprop="description">
-						{{ page.teaser }}
-					</p>
-					{% endif %}
 
-					{{ content }}
-					{% if page.show_meta == true %}
-					{% include _meta_information.html %}
-					{% endif %}
-				</div><!-- /.medium-8.columns -->
-			</div><!-- /.row -->
-		</article>
 
-	</div><!-- /.small-12.columns -->
-</div><!-- /.row -->
+Source: [Kutiman – Thru You Too – »Give It Up«](https://www.youtube.com/watch?v=WoHxoz_0ykI)
