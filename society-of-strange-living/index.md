@@ -20,7 +20,7 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/XR3S80yDG
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://youtu.be/XR3S80yDGvY"
+    embedURL: "https://www.youtube.com/embed/XR3S80yDGvY"
     contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
 ---
