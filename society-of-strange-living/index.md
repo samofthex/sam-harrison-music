@@ -30,7 +30,7 @@ video:
 
 > This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
 
-{% raw %}{% include gallery %}
+{% raw %}{% include gallery %}{% endraw %}
 image:
    thumb: "gallery-example-1-thumb.jpg"
 gallery:
@@ -51,7 +51,7 @@ gallery:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
-{% endraw %}
+
 You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
 <!--more-->
 
