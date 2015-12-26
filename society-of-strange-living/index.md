@@ -1,9 +1,9 @@
 ---
 layout: video
 show_meta: false
-title: "Video Template"
-subheadline: "Templates"
-teaser: "If you want to show videos in a large manner, the video template is the right choice."
+title: "The Society of Strange Living"
+subheadline: "Introducing..."
+teaser: "Music starting to sound the same to you? Relax, here's a band with a new take on just about everything. Strange by name and nature - not only is their drum kit made from a washing machine, these lovely guys are about the most rock 'n' roll people you'll meet, on or off stage. "
 tags:
     - post format
 categories:
