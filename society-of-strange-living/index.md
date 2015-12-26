@@ -52,7 +52,7 @@ gallery:
 
 
 
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
 
 
 Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=XR3S80yDGvY)
