@@ -55,7 +55,7 @@
   side: left
   dropdown:
   - title: "Society of Strange Living"
-    url: "https://samofthex.github.io/sam-harrison-music/societyofstrangeliving.md/"
+    url: "/pages/societyofstrangeliving/"
   - title: "Roadmap"
     url: "/roadmap/"
 
