@@ -29,6 +29,9 @@ video:
 ## About the video...
 
 > This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
+
+
+
 {% raw %}{% include gallery %}{% endraw %}
 image:
    thumb: "socity-of-strange-living/Strange Living 1-thumb.jpg"
