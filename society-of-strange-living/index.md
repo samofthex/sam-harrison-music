@@ -30,7 +30,7 @@ video:
 
 > This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
 
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
 image:
    thumb: "gallery-example-1-thumb.jpg"
 gallery:
