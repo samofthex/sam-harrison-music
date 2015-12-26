@@ -24,7 +24,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
 image:
-   thumb: "socity-of-strange-living/Strange Living 1-thumb.jpg"
+   thumb: "Strange Living 1-thumb.jpg"
 gallery:
     - image_url: socity-of-strange-living/Strange Living 1.jpg
       caption: Great images by Unsplash.com
