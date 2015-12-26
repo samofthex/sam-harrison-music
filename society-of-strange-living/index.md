@@ -32,7 +32,7 @@ video:
 
 {% include gallery %}
 image:
-   thumb: "gallery-example-1-thumb.jpg"
+   thumb: "Strange Living 1-thumb.jpg"
 gallery:
     - image_url: Strange Living 1.jpg
       caption: Great images by Unsplash.com
