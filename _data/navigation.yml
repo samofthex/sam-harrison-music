@@ -55,7 +55,7 @@
   side: left
   dropdown:
   - title: "Society of Strange Living"
-    url: "/pages/societyofstrangeliving/"
+    url: "/design/societyofstrangeliving/"
   - title: "Roadmap"
     url: "/roadmap/"
 
