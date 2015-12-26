@@ -21,7 +21,7 @@ iframe: "<iframe width='970' height='546' src='//https://youtu.be/XR3S80yDGvY' f
 #
 video:
     embedURL: "https://youtu.be/XR3S80yDGvY"
-    contentURL: "https://youtu.be/watch?v=XR3S80yDGvY"
+    contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
 ---
 <!--more-->
