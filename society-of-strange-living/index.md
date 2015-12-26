@@ -24,13 +24,13 @@ video:
     contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
 image:
-   thumb: "socity-of-strange-living/Strange Living 1-thumb.jpg"
+   thumb: "socity-of-strange-living/StrangeLiving1-thumb.jpg"
 gallery:
-    - image_url: socity-of-strange-living/Strange Living 1.jpg
+    - image_url: StrangeLiving1.jpg
       caption: Great images by Unsplash.com
-    - image_url: Strange Living 2.jpg
+    - image_url: StrangeLiving2.jpg
       caption: Great images by Unsplash.com
-    - image_url: Strange Living 3.jpg
+    - image_url: StrangeLiving3.jpg
       caption: Great images by Unsplash.com
     - image_url: gallery-example-4.jpg
       caption: Great images by Unsplash.com
