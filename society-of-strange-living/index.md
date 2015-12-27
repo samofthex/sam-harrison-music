@@ -23,10 +23,8 @@ video:
     embedURL: "https://www.youtube.com/embed/XR3S80yDGvY"
     contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
-image:
-   thumb: "socity-of-strange-living/StrangeLiving1-thumb.jpg"
 gallery:
-    - image_url: StrangeLiving1.jpg
+    - image_url: society-of-strange-living/StrangeLiving1.jpg
       caption: Great images by Unsplash.com
     - image_url: StrangeLiving2.jpg
       caption: Great images by Unsplash.com
