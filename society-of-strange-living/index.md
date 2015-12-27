@@ -24,23 +24,30 @@ video:
     contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
     thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
 gallery:
-    - image_url: society-of-strange-living/StrangeLiving1.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic1.jpg
       caption: Great images by Unsplash.com
-    - image_url: StrangeLiving2.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic2.jpg
       caption: Great images by Unsplash.com
-    - image_url: StrangeLiving3.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic3.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-4.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic4.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-5.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic5.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-6.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic6.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-7.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic7.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-8.jpg
+    - image_url: society-of-strange-living/societyofstrangelivingpic8.jpg
       caption: Great images by Unsplash.com
-      
+    - image_url: society-of-strange-living/societyofstrangelivingpic9.jpg
+      caption: Great images by Unsplash.com
+    - image_url: society-of-strange-living/societyofstrangelivingpic10.jpg
+      caption: Great images by Unsplash.com
+    - image_url: society-of-strange-living/societyofstrangelivingpic11.jpg
+      caption: Great images by Unsplash.com
+    - image_url: society-of-strange-living/societyofstrangelivingpic12.jpg
+      caption: Great images by Unsplash.com      
 ---
 <!--more-->
 
