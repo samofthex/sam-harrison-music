@@ -8,7 +8,7 @@ tags:
     - post format
 categories:
     - design
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/XR3S80yDGvY' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/z5NtUWZCbQ4' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -20,9 +20,9 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/XR3S80yDG
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/XR3S80yDGvY"
-    contentURL: "https://www.youtube.com/watch?v=XR3S80yDGvY"
-    thumbnailUrl: "http://img.youtube.com/vi/XR3S80yDGvY/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/z5NtUWZCbQ4"
+    contentURL: "https://www.youtube.com/watch?v=z5NtUWZCbQ4"
+    thumbnailUrl: "http://img.youtube.com/vi/z5NtUWZCbQ4/maxresdefault.jpg"
 gallery:
     - image_url: society-of-strange-living/societyofstrangelivingpic1.jpg
       caption: Great images by Unsplash.com
@@ -60,4 +60,4 @@ gallery:
 {% include gallery %}
 
 
-Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=XR3S80yDGvY)
+Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
