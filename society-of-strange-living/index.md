@@ -51,9 +51,9 @@ gallery:
 ---
 <!--more-->
 
-## About the video...
+## About the band...
 
-> This video is a quick mash up of some of our shows so far. It's far from perfect, but we're a fairly new band and there's new things on the way! :-)</cite>
+> The Society of Strange Living are: Sam Harrison, Lee Wilcox and Danny Krash - 'We want to do something really different. We've not been together long, but we make every show a real party - We play from the heart, and we've got a strong following already!'
 
 
 
