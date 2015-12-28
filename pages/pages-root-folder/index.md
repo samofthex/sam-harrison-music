@@ -7,7 +7,6 @@
 layout: frontpage
 header:
   image_fullwidth: firstbannerattempt2.jpg
-  
 widget1:
   title: "About Sam Harrison"
   url: 'http://eepurl.com/bLaXTL'
