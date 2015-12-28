@@ -1,15 +1,13 @@
---
+---
 
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-
 layout: frontpage
 header:
   image_fullwidth: firstbannerattempt2.jpg
-include: mailinglist
 
 widget1:
   title: "About Sam Harrison"
@@ -26,8 +24,6 @@ widget3:
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widgetgetinvolved.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-
-
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
