@@ -1,11 +1,10 @@
 ---
 layout: video
 header:
-    title: .
+    title: H
     image_fullwidth: StrangeLivingHeader3.jpg
     caption: 
     caption_url: https://unsplash.com/
-    <br>
 show_meta: false
 title: "The Society of Strange Living"
 subheadline: "Introducing..."
