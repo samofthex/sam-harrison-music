@@ -1,7 +1,7 @@
 ---
 layout: video
 header:
-    title: H
+    title: .
     image_fullwidth: StrangeLivingHeader3.jpg
     caption: 
     caption_url: https://unsplash.com/
