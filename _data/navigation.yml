@@ -28,8 +28,8 @@
     url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Landing Page"
+    url: "/samlander/"
 
 - title: "Cool Stuff"
   url: "/headers/"
