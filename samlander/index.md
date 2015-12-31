@@ -8,7 +8,7 @@ header:
 show_meta: false
 title: "Sam Harrison"
 subheadline: "Introducing..."
-teaser: "Music starting to sound the same to you? Relax, here's a band with a new take on just about everything. Strange by name and nature - not only is their drum kit made from a washing machine, these lovely guys are about the most rock 'n' roll people you'll meet, on or off stage. "
+teaser: "Sam’s reputation as a different, maverick songwriter has been cemented by his debut album ‘Yes Hard Feelings’ and two follow up E.P.s ‘Aurora’ and ‘The Wish’. He spent four years and made four albums with DIY acoustic punk outfit ‘The Breakfast Club’ as a drummer, guitarist, producer and singer. In 2015 he formed his own band ‘the Society of Strange Living’. While cutting his teeth as a solo entertainer on cruise ships, Sam lives a split life of international travel, gigging and recording. His exploits include playing the 2012 Olympics, the Edinburgh Fringe and Glastonbury festival (naked). His parchant for the unusual is reflected in his band’s name, which implies his highly unauthadox lifestyle and unruly reputation."
 tags:
     - post format
 categories:
@@ -29,36 +29,36 @@ video:
     contentURL: "https://www.youtube.com/watch?v=Asn0sb6FpK8"
     thumbnailUrl: "http://img.youtube.com/vi/Asn0sb6FpK8/maxresdefault.jpg"
 gallery:
-    - image_url: society-of-strange-living/societyofstrangelivingpic1.jpg
+    - image_url: samlandergallery/samharrisonmusiclander01.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic2.jpg
+    - image_url: samlandergallery/samharrisonmusiclander02.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic3.jpg
+    - image_url: samlandergallery/samharrisonmusiclander03.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic4.jpg
+    - image_url: samlandergallery/samharrisonmusiclander04.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic5.jpg
+    - image_url: samlandergallery/samharrisonmusiclander05.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic6.jpg
+    - image_url: samlandergallery/samharrisonmusiclander06.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic7.jpg
+    - image_url: samlandergallery/samharrisonmusiclander07.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic8.jpg
+    - image_url: samlandergallery/samharrisonmusiclander08.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic9.jpg
+    - image_url: samlandergallery/samharrisonmusiclander09.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic10.jpg
+    - image_url: samlandergallery/samharrisonmusiclander10.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic11.jpg
+    - image_url: samlandergallery/samharrisonmusiclander11.jpg
       caption: Great images by Unsplash.com
-    - image_url: society-of-strange-living/societyofstrangelivingpic12.jpg
+    - image_url: samlandergallery/samharrisonmusiclander12.jpg
       caption: Great images by Unsplash.com      
 ---
 <!--more-->
 
-## About the band...
+## About the film...
 
-> The Society of Strange Living are: Sam Harrison, Lee Wilcox and Danny Krash - 'We want to do something really different. We've not been together long, but we make every show a real party - We play from the heart, and we've got a strong following already!'
+>  The video was filmed at the launch of Sam's 'The Wish' EP at Lincoln's Jolly Brewer pub, a Sam's home stomping ground. The EP was released on vinyl & digital download (no CD), and was recorded on a 1960's 8-track Scully tape machine (i.e. Hendrix, Zeppelin, Beach Boys). The pub was decorated by a team of volunteers, filled with candy to be eaten from bowls made of recylcled CDs, with facepainting, hidden prizes, and a vinyl DJ. Supported and filmed by a wonderful group of friends, it was an amazing night for all :)
 
 
 
