@@ -10,54 +10,34 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "Music"
     url: "/blog/"
-  - title: "Video"
+  - title: "Videos"
     url: "/design/video/"
   - title: "Gallery"
-    url: "/design/gallery/"
+    url: "/pages/gallery/"
   - title: "Landing Page"
     url: "/samlander/"
 
-- title: "Cool Stuff"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+#- title: "Discography"
+  #url: "/headers/"
+  #side: left
+  #dropdown:
+  #- title: "The Wish EP"
+ #   url: "/design/header-full-width-image/"
+  #- title: "Aurora EP"
+ #   url: "/design/header-image-pattern/"
+#  - title: "Yes Hard Feelings LP"
+ #   url: "/design/header-image-color/"
 
 - title: Gigs & Projects
-  url: "/documentation/"
+  url: "/gigs/"
   side: left
   dropdown:
-  - title: "Society of Strange Living"
-    url: "/society-of-strange-living/"
   - title: "Gigs"
     url: "/gigs/"
+  - title: "Society of Strange Living"
+    url: "/society-of-strange-living/"
 
 - title: Blog
   url: "http://samharrisonlives.blogspot.co.uk/"
