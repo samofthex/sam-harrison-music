@@ -58,7 +58,7 @@ gallery:
 
 ## About the film...
 
->  The video was filmed at the launch of Sam's 'The Wish' EP at Lincoln's Jolly Brewer pub, a Sam's home stomping ground. The EP was released on vinyl & digital download (no CD), and was recorded on a 1960's 8-track Scully tape machine (i.e. Hendrix, Zeppelin, Beach Boys). The pub was decorated by a team of volunteers, filled with candy to be eaten from bowls made of recylcled CDs, with facepainting, hidden prizes, and a vinyl DJ. Supported and filmed by a wonderful group of friends, it was an amazing night for all :)
+>  The video was filmed at the launch of Sam's 'The Wish' EP at Lincoln's Jolly Brewer pub, Sam's home stomping ground. The EP was released on vinyl & digital download (no CD), and was recorded on a 1960's 8-track Scully tape machine (i.e. Hendrix, Zeppelin, Beach Boys). The pub was decorated by a team of volunteers, filled with candy to be eaten from bowls made of recylcled CDs, with facepainting, hidden prizes, and a vinyl DJ. Supported and filmed by a wonderful group of friends, it was an amazing night for all :)
 
 
 
