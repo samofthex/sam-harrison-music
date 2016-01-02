@@ -1,0 +1,3 @@
+<br/>2. It's different - but actually in a good way. Super shiny fresh!<br/>3. It's independant - for once you can know about something cool before your annoying hipster friends<br/>4. It will immediately make you more attractive to the opposite sex<br/>5. It will re-align your zen and make you more friendly to strangers'
+
+Because it's different - but actually in a good way. Super shiny fresh! Because it's independant - for once you can know about something cool before your annoying hipster friends. Because it will immediately make you more attractive to the opposite sex. Because it will re-align your zen and make you more friendly to strangers. Get on it brothers and sisters!'

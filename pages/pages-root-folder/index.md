@@ -9,19 +9,19 @@ header:
   image_fullwidth: firstbannerattempt2.jpg
 widget1:
   title: "About Sam Harrison"
-  url: 'http://eepurl.com/bLaXTL'
+  url: '/getting-started/'
   image: widgetaboutsam.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Every nutter has a story. Join Sam for a cider, tune in and drop out for a deep discussion and journey through the expanded collective consciousness, from the ice-age to the dole-age. Actually, second thoughts, just visit our about page.'
 widget2:
   title: "Watch & Listen"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://samofthex.github.io/sam-harrison-music/images/widgetmedia.jpg" width="302" height="182" alt=""/></a>'
+  url: '/getting-started/'
+  text: '<em>Sam Harrison</em> is is an artist you should be listening to. Why?'
+  video: '<img src="http://samofthex.github.io/sam-harrison-music/images/widgetmedia.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Get Involved"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'http://eepurl.com/bLaXTL'
   image: widgetgetinvolved.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '<em>Wanna be part of something?</em> Then tell me via Twitter <a href="http://twitter.com/samofthex">@samofthex</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -50,3 +50,6 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+
+#<a href="#" data-reveal-id="videoModal">
