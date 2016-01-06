@@ -3,7 +3,7 @@ layout: page
 title: "Music"
 teaser: "Some tasty oscillations for your lovely ears..."
 header:
-    image_fullwidth: "bannermedia1.jpg"
+    image_fullwidth: "Bannermedia1.jpg"
     permalink: /blog/
 ---
 
