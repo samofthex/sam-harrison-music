@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Music"
-    url: "/pages/music/index.html"
+    url: "/pages/music/"
   - title: "Videos"
     url: "/design/video/"
   - title: "Gallery"
