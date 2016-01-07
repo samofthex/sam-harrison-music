@@ -1,12 +1,17 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Give us a bell..."
+subheadline: "Don't be shy, get in touch. Ask anything. Be wide open :-)"
+teaser: "Email: sam @ samharrisonmusic.com (remove spaces)"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+Facebook:
+www.facebook.com/samofthex
 
- [1]: http://www.wufoo.com/
+Twitter:
+www.twitter.com/samofthex
+
+Youtube:
+www.youtube.com/samofthex
