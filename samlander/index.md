@@ -1,7 +1,6 @@
 ---
 layout: video
 header:
-    title: .
     image_fullwidth: Bannergigs1.jpg
     caption: 
     caption_url: https://unsplash.com/
