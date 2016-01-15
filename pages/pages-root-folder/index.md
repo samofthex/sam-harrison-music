@@ -11,17 +11,18 @@ widget1:
   title: "About Sam Harrison"
   url: '/getting-started/'
   image: widgetaboutsam.jpg
-  text: 'Every nutter has a story. Join Sam for a cider, tune in and drop out for a deep discussion and journey through the expanded collective consciousness, from the ice-age to the dole-age. Actually, second thoughts, just visit our about page.'
+  text: 'Every nutter has a story. Join Sam for a biscuit, tune in and drop out for a deep discussion and journey through the expanded collective consciousness, from the ice-age to the dole-age. Actually, second thoughts, just visit our about page.'
 widget2:
   title: "Watch & Listen"
-  url: '/getting-started/'
-  text: '<em>Sam Harrison</em> is is an artist you should be listening to. Why?'
-  video: '<img src="http://samofthex.github.io/sam-harrison-music/images/widgetmedia.jpg" width="302" height="182" alt=""/></a>'
+  url: '/pages/videos/'
+  image: widgetmedia.jpg
+  text: 'Sam is making new music every single week, see the best of our <a href="/pages/music/">Music</a> & <a href="/pages/videos/">Videos</a> by clicking here... Check out our <a href="https://www.facebook.com/samofthex/">Facebook Feed</a> for the absolute latest!'
+  
 widget3:
   title: "Get Involved"
   url: 'http://eepurl.com/bLaXTL'
   image: widgetgetinvolved.jpg
-  text: '<em>Wanna be part of something?</em> Then tell me via Twitter <a href="http://twitter.com/samofthex">@samofthex</a>.'
+  text: '<em>Wanna be part of something?</em> Get in touch from our <a href="http://samharrisonmusic.com/contact/">Contact Page!</a> Join our <a href="http://samharrisonmusic.us12.list-manage1.com/subscribe?u=bdb758a69c11780dc26ae7581&id=0f979f44e4">Mailing List!</a> Check out our <a href="https://www.facebook.com/samofthex/">Facebook</a>, our <a href="https://twitter.com/samofthex">Twitter</a>, our <a href="https://www.youtube.com/user/samofthex">Youtube</a>, & our <a href="https://soundcloud.com/samharrisonmusic">Soundcloud</a>... Thankyou for the support, with lots of love! xxx'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -37,10 +38,6 @@ callforaction:
   text: Join our mailing list xxx ›
   style: alert
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
 homepage: true
 ---
 
