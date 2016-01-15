@@ -48,5 +48,7 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
+<meta name="google-site-verification" content="4jMZNCSzgiM_zWCS-Vh1K_9u1evPRwZsJO5_P6038qo" />
+
 
 #<a href="#" data-reveal-id="videoModal">
