@@ -25,7 +25,7 @@ Hear Sam playing on Linx County Radio:
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fcountylinxradio%2Flobsters-singer-songwriter-acoustic-show-oct-2014-ft-sam-harisson%2F&hide_cover=1&mini=1&light=1" frameborder="0"></iframe>
 <br>
 <a href="http://nijimagazine.com/2014/02/musician-sam-harrison-started-writing-songs-at-the-age-of-nine"/>Click here to read an interview with Sam in Niji Magazine...</a>
-
+http://nijimagazine.com/2014/02/musician-sam-harrison-started-writing-songs-at-the-age-of-nine
 
 Sam also features here on the 'Association of Music Podcasting' Show <br>
 http://musicpodcasting.org/2014/02/03/amped-show-425/
