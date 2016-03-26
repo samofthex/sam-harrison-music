@@ -17,7 +17,7 @@ Sam's reputation as a different, maverick songwriter has been cemented by his de
 <br>
 Hear about Sam's E.P. 'The Wish' on the Audio Gumshoe podcast:
 <iframe style="border: solid 1px #dedede;"  src="http://app.stitcher.com/splayer/f/16832/32135726" width="220" height="150" frameborder="0" scrolling="no"></iframe>
-<br><br>
+<br>
 Hear Sam choosing some records on Greg's Afternoon Record Club on Cabridge 105fm:
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fgregbutler1%2Fsam-harrison-on-gregs-afternoon-record-club-cambridge-105-26th-oct-2014%2F&amp;hide_cover=1&amp;light=1" frameborder="0"></iframe>
 <br>
