@@ -17,5 +17,7 @@ Sam's reputation as a different, maverick songwriter has been cemented by his de
 <br>
 Hear about Sam's E.P. 'The Wish' on the Audio Gumshoe podcast:
 <iframe style="border: solid 1px #dedede;"  src="http://app.stitcher.com/splayer/f/16832/32135726" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+<br>
+<a href="http://nijimagazine.com/2014/02/musician-sam-harrison-started-writing-songs-at-the-age-of-nine/>Click here to read an interview with Sam in Niji Magazine...</a>
 
  [1]: {{ site.url }}/documentation/
