@@ -21,7 +21,7 @@ Hear about Sam's E.P. 'The Wish' on the Audio Gumshoe podcast:
 Hear Sam choosing some records on Greg's Afternoon Record Club on Cabridge 105fm:
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fgregbutler1%2Fsam-harrison-on-gregs-afternoon-record-club-cambridge-105-26th-oct-2014%2F&amp;hide_cover=1&amp;light=1" frameborder="0"></iframe>
 <br>
-<a href="http://nijimagazine.com/2014/02/musician-sam-harrison-started-writing-songs-at-the-age-of-nine"/>Click here to read an interview with Sam in Niji Magazine...</a>
+<a href="http://nijimagazine.com/2014/02/musician-sam-harrison-started-writing-songs-at-the-age-of-nine"/>Click here to read an interview with Sam in Niji Magazine...</a><br>
 http://nijimagazine.com/2014/02/musician-sam-harrison-started-writing-songs-at-the-age-of-nine
 
  [1]: {{ site.url }}/documentation/
