@@ -19,9 +19,9 @@
   - title: "Landing Page"
     url: "/samlander/"
 
-#- title: "Discography"
-  #url: "/headers/"
-  #side: left
+- title: "Discography"
+  url: "/Discog/"
+  side: left
   #dropdown:
   #- title: "The Wish EP"
  #   url: "/design/header-full-width-image/"
