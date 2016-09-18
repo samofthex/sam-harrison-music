@@ -20,7 +20,7 @@
     url: "/samlander/"
 
 - title: "Discography"
-  url: "/Discog/"
+  url: "/discog/"
   side: left
   #dropdown:
   #- title: "The Wish EP"
