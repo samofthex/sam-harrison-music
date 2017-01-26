@@ -13,7 +13,7 @@ tags:
     - post format
 categories:
     - design
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/qAygs2TmrfY' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/viif2vhaSUM' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -25,9 +25,9 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/qAygs2Tmr
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/qAygs2TmrfY"
-    contentURL: "https://www.youtube.com/watch?v=qAygs2TmrfY"
-    thumbnailUrl: "http://img.youtube.com/vi/qAygs2TmrfY/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/viif2vhaSUM"
+    contentURL: "https://www.youtube.com/watch?v=viif2vhaSUM"
+    thumbnailUrl: "http://img.youtube.com/vi/viif2vhaSUM/maxresdefault.jpg"
 gallery:
     - image_url: society-of-strange-living/societyofstrangelivingpic1.jpg
       caption: Great images by Unsplash.com
