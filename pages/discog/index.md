@@ -26,6 +26,8 @@ The Breakfast Club - Surrounded by Autism & Comforting Lights<br>
 Nick William - Self Telepathy<br>
 Tom Cairns - The Stand EP<br>
 Helen Francis - live @ Xclamation Music EP<br>
+Red Light Return EP <br>
+Good Effort EP <br>
 Arnie Weavers - Apart From Their Hearts (single)<br>
 Toxic Graffiti - Yesterday's Gone EP<br>
 Si Pillinger - Angels & Halos EP<br>
