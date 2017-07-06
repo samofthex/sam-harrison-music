@@ -1,4 +1,4 @@
-Discography
+
 ---
 layout: page
 show_meta: false
@@ -13,3 +13,4 @@ Hey there! This is my discography page- still under construction as the crow fli
   <a href="http://samharrisonmusic.com/pages/videos/">Videos</a><br>
  <a href="http://samharrisonmusic.com/pages/Gallery/">Gallery</a><br>
   <a href="http://samharrisonmusic.com/samlander/">Landing Page</a><br>
+  Discog
