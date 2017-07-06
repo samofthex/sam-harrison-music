@@ -1,4 +1,3 @@
-Discography
 ---
 layout: page
 show_meta: false
