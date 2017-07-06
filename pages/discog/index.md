@@ -3,7 +3,7 @@ header:
    image_fullwidth: "Bannergigs1.jpg"
 layout: page
 show_meta: false
-title: Discography"
+title: Discography
 subheadline: "The freaky and fabulous folio of Sam Harrison Music"
 teaser: "Hey there! This is my discography page- still under construction as the crow flies, but on the way!!! "
 tags:
