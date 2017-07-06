@@ -19,7 +19,12 @@ categories:
   <a href="https://itunes.apple.com/us/album/salome-remastered/id784573815">Aurora (2012)</a><br><br>
   <a href="https://itunes.apple.com/us/album/petrol-money/id807599434">Petrol Money (The Breakfast Club 2014)</a><br>
     <a href="https://longhairedmusic.bandcamp.com/album/live-at-long-haired-music">Live @ Long Haired Music (The Breakfast Club 2013)</a><br>
-  
+<br><br><br>
+Production Credits:
+The Breakfast Club - Car Crashes & Part Time Lesbians
+The Breakfast Club - Surrounded by Autism & Comforting Lights
+Nick William - Self Telepathy
+Tom Cairns - The Stand EP
   
 
 Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
