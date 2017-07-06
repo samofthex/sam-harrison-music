@@ -25,6 +25,9 @@ The Breakfast Club - Car Crashes & Part Time Lesbians<br>
 The Breakfast Club - Surrounded by Autism & Comforting Lights<br>
 Nick William - Self Telepathy<br>
 Tom Cairns - The Stand EP<br>
+Helen Francis - live @ Xclamation Music EP
+Arnie Weavers - Apart From Their Hearts (single)
+Si Pillinger - Angels & Halos EP
   
 
 Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
