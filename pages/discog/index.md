@@ -15,7 +15,7 @@ categories:
  <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">The Consumerist Prt. 1 (2017)</a><br>
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">The Wish (2015)</a><br>
  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Yes Hard Feelings (2012)</a><br>
-  <a href="https://itunes.apple.com/us/album/i-feel-like-jeremy-corbyn/id1133993821>Jeremy Corbyn Single (2016)</a><br>
-  <a href="http://samharrisonmusic.com/samlander/">Aurora (2015)</a><br>
+  <a href="https://itunes.apple.com/us/album/i-feel-like-jeremy-corbyn/id1133993821">Jeremy Corbyn Single (2016)</a><br>
+  <a href="https://itunes.apple.com/us/album/salome-remastered/id784573815">Aurora (2015)</a><br>
 
 Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
