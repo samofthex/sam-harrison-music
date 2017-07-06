@@ -1,5 +1,3 @@
-
-{{ page.iframe}}
 		<div class="row">
 			<div class="medium-offset-2 medium-8 end columns">
 				<header>
