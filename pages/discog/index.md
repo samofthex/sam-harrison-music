@@ -12,9 +12,10 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="http://samharrisonmusic.com/pages/music/">Music</a><br>
-  <a href="http://samharrisonmusic.com/pages/videos/">Videos</a><br>
- <a href="http://samharrisonmusic.com/pages/Gallery/">Gallery</a><br>
-  <a href="http://samharrisonmusic.com/samlander/">Landing Page</a><br>
+ <a href="http://samharrisonmusic.com/pages/music/">The Consumerist Prt. 1 (2017)</a><br>
+  <a href="http://samharrisonmusic.com/pages/videos/">The Wish (2015)</a><br>
+ <a href="http://samharrisonmusic.com/pages/Gallery/">Yes Hard Feelings (2012)</a><br>
+  <a href="http://samharrisonmusic.com/samlander/">Jeremy Corbyn Single (2016)</a><br>
+  <a href="http://samharrisonmusic.com/samlander/">Aurora (2015)</a><br>
 
 Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
