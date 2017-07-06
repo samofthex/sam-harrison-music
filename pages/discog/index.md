@@ -1,3 +1,4 @@
+Hey there! This is my discography page- still under construction as the crow flies, but on the way!!!
 ---
 layout: page
 show_meta: false
