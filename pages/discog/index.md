@@ -31,6 +31,7 @@ Good Effort EP <br>
 Arnie Weavers - Apart From Their Hearts (single)<br>
 Toxic Graffiti - Yesterday's Gone EP<br>
 Si Pillinger - Angels & Halos EP<br>
+Hex - World of Confusion<br>
   
 
 Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
