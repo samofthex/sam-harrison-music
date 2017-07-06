@@ -1,5 +1,7 @@
 
 ---
+header:
+   image_fullwidth: "Bannermedia1.jpg"
 layout: page
 show_meta: false
 title: "Discography!"
