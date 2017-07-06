@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Discography"
 subheadline: "The freaky and fabulous folio of Sam Harrison Music"
-teaser: "'Here's my gig diary!!! There's some crazy stuff going down. Scroll through and see if I'm playing near you - if not, let me know where I should be playing, and I'll hook something up!.' "
+teaser: "Hey there! This is my discography page- still under construction as the crow flies, but on the way!!! "
 tags:
     - post format
 categories:
