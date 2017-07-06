@@ -20,7 +20,7 @@
     url: "/samlander/"
 
 - title: "Discography"
-  url: "/discog/"
+  url: "/pages/discog/"
   side: left
   
   #dropdown:
