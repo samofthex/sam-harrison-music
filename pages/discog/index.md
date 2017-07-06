@@ -1,18 +1,17 @@
-
 ---
 header:
-   image_fullwidth: "Bannermedia1.jpg"
+   image_fullwidth: "Bannergigs1.jpg"
 layout: page
 show_meta: false
-title: "Discography!"
-subheadline: "The freaky and fabulous folio of Sam Harrison Music"
-header:
-   image_fullwidth: "Bannermedia1.jpg"
-permalink: "/discog/"
+title: "Gig Diary"
+subheadline: "The totally freakishly awesome..."
+teaser: "'Here's my gig diary!!! There's some crazy stuff going down. Scroll through and see if I'm playing near you - if not, let me know where I should be playing, and I'll hook something up!.' "
+tags:
+    - post format
+categories:
+    - design 
 ---
-Hey there! This is my discography page- still under construction as the crow flies, but on the way!!!<br><br>
- <a href="http://samharrisonmusic.com/pages/music/">Music</a><br>
-  <a href="http://samharrisonmusic.com/pages/videos/">Videos</a><br>
- <a href="http://samharrisonmusic.com/pages/Gallery/">Gallery</a><br>
-  <a href="http://samharrisonmusic.com/samlander/">Landing Page</a><br>
-  Discog
+<!--more-->
+<iframe src="https://calendar.google.com/calendar/embed?src=samharrisonlincoln%40gmail.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
