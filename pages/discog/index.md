@@ -1,28 +1,16 @@
 		Hey there! This is my discography page- still under construction as the crow flies, but on the way!!!
-		
-		<div class="row">
-			<div class="medium-offset-2 medium-8 end columns">
-				<header>
-					{% if page.subheadline %}<p class="subheadline t30">{{ page.subheadline }}</p>{% endif %}
-					<h1 itemprop="name">{{ page.title }}</h1>
-				</header>
-
-				{% if page.video.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video.thumbnailUrl }}" />{% endif %}
-				{% if page.video.contentURL %}<meta itemprop="contentURL" content="{{ page.video.contentURL }}" />{% endif %}
-				{% if page.video.embedURL %}<meta itemprop="embedURL" content="{{ page.video.embedURL }}" />{% endif %}
-
-				{% if page.teaser %}
-				<p class="teaser" itemprop="description">
-					{{ page.teaser }}
-				</p>
-				{% endif %}
-
-				{{ content }}
-				{% if page.show_meta == true %}
-				{% include _meta_information.html %}
-				{% endif %}
-			</div><!-- /.medium-8.columns -->
-		</div><!-- /.row -->
-	</article>
-
-</div><!-- /.small-12.columns -->
+---
+layout: page
+show_meta: false
+title: "Discography!"
+subheadline: "The freaky and fabulous folio of Sam Harrison Music"
+header:
+   image_fullwidth: "Bannermedia1.jpg"
+permalink: "/design/"
+---
+This bits still under construction...
+Go on! Fill ye boots with this musical booty!<br><br>
+ <a href="http://samharrisonmusic.com/pages/music/">Music</a><br>
+  <a href="http://samharrisonmusic.com/pages/videos/">Videos</a><br>
+ <a href="http://samharrisonmusic.com/pages/Gallery/">Gallery</a><br>
+  <a href="http://samharrisonmusic.com/samlander/">Landing Page</a><br>
