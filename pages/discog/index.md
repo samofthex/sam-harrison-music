@@ -6,7 +6,7 @@ title: "Discography!"
 subheadline: "The freaky and fabulous folio of Sam Harrison Music"
 header:
    image_fullwidth: "Bannermedia1.jpg"
-permalink: "/design/"
+permalink: "/discog/"
 ---
 Hey there! This is my discography page- still under construction as the crow flies, but on the way!!!<br><br>
  <a href="http://samharrisonmusic.com/pages/music/">Music</a><br>
