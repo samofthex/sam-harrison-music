@@ -1,4 +1,3 @@
-		Hey there! This is my discography page- still under construction as the crow flies, but on the way!!!
 ---
 layout: page
 show_meta: false
@@ -8,8 +7,7 @@ header:
    image_fullwidth: "Bannermedia1.jpg"
 permalink: "/design/"
 ---
-This bits still under construction...
-Go on! Fill ye boots with this musical booty!<br><br>
+Hey there! This is my discography page- still under construction as the crow flies, but on the way!!!<br><br>
  <a href="http://samharrisonmusic.com/pages/music/">Music</a><br>
   <a href="http://samharrisonmusic.com/pages/videos/">Videos</a><br>
  <a href="http://samharrisonmusic.com/pages/Gallery/">Gallery</a><br>
