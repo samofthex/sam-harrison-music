@@ -12,12 +12,14 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="">1. Intro</a><br>
- <a href="">2. Let's Pretend</a><br>
- <a href="">3. Ketamine Kim</a><br>
- <a href="">4. Lying on Your Bed</a><br>
- <a href="">5. Rockstar</a><br>
+ <a href="https://longhairedmusic.bandcamp.com/album/the-wish">1. Intro</a><br>
+ <a href="https://longhairedmusic.bandcamp.com/album/the-wish">2. Let's Pretend</a><br>
+ <a href="https://longhairedmusic.bandcamp.com/album/the-wish">3. Ketamine Kim</a><br>
+ <a href="https://youtu.be/Tmn6Moxiw5M">4. Lying on Your Bed</a><br>
+ <a href="https://longhairedmusic.bandcamp.com/album/the-wish">5. Rockstar</a><br>
 
 Buy Links:
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
-  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br>
+  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br><br>
+  Lying On Your Bed (Music Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tmn6Moxiw5M" frameborder="0" allowfullscreen></iframe>
