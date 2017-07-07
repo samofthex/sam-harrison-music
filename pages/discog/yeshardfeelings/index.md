@@ -25,10 +25,9 @@ categories:
 
 Buy Links:<br>
   <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">iTunes</a><br>
-   <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Amazon</a><br>
-    <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Kickstarter Project</a><br>
-     <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Kickstarter Project</a><br>
-      <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Kickstarter Project</a><br>
+   <a href="https://www.amazon.com/Yes-Hard-Feelings-Sam-Harrison/dp/B0072T94RC">Amazon</a><br>
+    <a href="https://play.google.com/store/music/album/Sam_Harrison_Yes_Hard_Feelings?id=B7s7v42eln6xa6jmyf36ucvdqqi">Google Play</a><br>
+     <a href="http://www.deezer.com/album/1337551">Deezer</a><br>
 <br>
  Kickstarter Video:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nUOizyHPPg4" frameborder="0" allowfullscreen></iframe>
