@@ -12,16 +12,16 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">1. Life's Kills</a><br>
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">2. The Charlatan</a><br>
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">3. Better Than Me</a><br>
- <a href="https://youtu.be/Tmn6Moxiw5M">4. Remember</a><br>
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">5. Bottle It Up</a><br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">6. Morbid Town</a><br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">7. Jackie D</a><br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">8. Pray, Pray, Pray</a><br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">9. Elusive Love</a><br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">10. Good Unclean Fun</a><br>
+ <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">1. Life's Kills</a><br>
+ <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">2. The Charlatan</a><br>
+ <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">3. Better Than Me</a><br>
+ <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">4. Remember</a><br>
+ <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">5. Bottle It Up</a><br>
+  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">6. Morbid Town</a><br>
+  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">7. Jackie D</a><br>
+  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">8. Pray, Pray, Pray</a><br>
+  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">9. Elusive Love</a><br>
+  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">10. Good Unclean Fun</a><br>
 
 Buy Links:<br>
   <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">iTunes</a><br>
