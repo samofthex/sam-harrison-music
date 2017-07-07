@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: The Wish
 subheadline: "2012"
-teaser: "The Wish was recorded on a 1960's  Scully 8-Track Tape Machine, using old school recording techniques. Published  only  on vinyl & digital download."
+teaser: "The Wish was recorded on a 1960's  Scully 8-Track Tape Machine, using old school recording techniques. Available on Vinyl..."
 tags:
     - post format
 categories:
