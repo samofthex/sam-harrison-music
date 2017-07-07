@@ -16,7 +16,7 @@ categories:
  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">2. The Charlatan</a><br>
  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">3. Better Than Me</a><br>
  <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">4. Remember</a><br>
- <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">5. Bottle It Up</a><br>
+ <a href="https://youtu.be/hSCAlEAoMeE">5. Bottle It Up</a><br>
   <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">6. Morbid Town</a><br>
   <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">7. Jackie D</a><br>
   <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">8. Pray, Pray, Pray</a><br>
@@ -29,5 +29,9 @@ Buy Links:<br>
     <a href="https://play.google.com/store/music/album/Sam_Harrison_Yes_Hard_Feelings?id=B7s7v42eln6xa6jmyf36ucvdqqi">Google Play</a><br>
      <a href="http://www.deezer.com/album/1337551">Deezer</a><br>
 <br>
- Kickstarter Video:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nUOizyHPPg4" frameborder="0" allowfullscreen></iframe>
+Bottle It Up (Music Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hSCAlEAoMeE" frameborder="0" allowfullscreen></iframe><br><br>
+  Better Than Me (live @ YHF Launch Party):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WKmRCFuqpUM" frameborder="0" allowfullscreen></iframe><br><br>
+  Morbid Town (Music Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_Smb3X_RC4" frameborder="0" allowfullscreen></iframe><br>
