@@ -3,9 +3,9 @@ header:
    image_fullwidth: "Bannergigs1.jpg"
 layout: page
 show_meta: false
-title: Yes Hard Feelings
-subheadline: "2011"
-teaser: "Sam's first fully published album - recorded at age 18,  published fully aged 21, this debut record is unique, powerful and sounds fantastic..."
+title: Aurora
+subheadline: "2012"
+teaser: "Featuring Sam's Christmas song, which became a local hit, and three more cracking numbers, including the awesome Salome..."
 tags:
     - post format
 categories:
