@@ -27,7 +27,7 @@ Nick William - Self Telepathy<br>
 Sunshine Poet - Colour Surround<br>
 Tom Cairns - The Stand EP<br>
 Helen Francis - live @ Xclamation Music EP<br>
-Steph Summerfield EP
+Steph Summerfield EP<br>
 Red Light Return EP <br>
 Good Effort EP <br>
 Arnie Weavers - Apart From Their Hearts (single)<br>
