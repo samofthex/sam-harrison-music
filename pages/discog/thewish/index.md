@@ -18,4 +18,6 @@ categories:
  <a href="">4. Lying on Your Bed</a><br>
  <a href="">5. Rockstar</a><br>
 
+Buy Links:
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
+  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br>
