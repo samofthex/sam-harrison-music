@@ -12,8 +12,8 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">The Consumerist Prt. 1 (2017)</a><br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">The Wish (2013)</a><br>
+ <a href="http://samharrisonmusic.com/pages/discog/theconsumerist/">The Consumerist Prt. 1 (2017)</a><br>
+  <a href="http://samharrisonmusic.com/pages/discog/thewish/">The Wish (2013)</a><br>
  <a href="http://samharrisonmusic.com/pages/discog/yeshardfeelings/">Yes Hard Feelings (2011)</a><br>
   <a href="http://samharrisonmusic.com/pages/discog/ifeellikejeremycorbyn/">Jeremy Corbyn Single (2016)</a><br>
   <a href="https://itunes.apple.com/us/album/salome-remastered/id784573815">Aurora (2012)</a><br><br>
