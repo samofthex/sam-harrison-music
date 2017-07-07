@@ -30,8 +30,8 @@ Buy Links:<br>
      <a href="http://www.deezer.com/album/1337551">Deezer</a><br>
 <br>
 Bottle It Up (Music Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hSCAlEAoMeE" frameborder="0" allowfullscreen></iframe><br><br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hSCAlEAoMeE" frameborder="0" allowfullscreen></iframe><br>
   Better Than Me (live @ YHF Launch Party):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WKmRCFuqpUM" frameborder="0" allowfullscreen></iframe><br><br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WKmRCFuqpUM" frameborder="0" allowfullscreen></iframe><br>
   Morbid Town (Music Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/F_Smb3X_RC4" frameborder="0" allowfullscreen></iframe><br>
