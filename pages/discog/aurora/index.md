@@ -1,3 +1,4 @@
+---
 header:
    image_fullwidth: "Bannergigs1.jpg"
 layout: page
