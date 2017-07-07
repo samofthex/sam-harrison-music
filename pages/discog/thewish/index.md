@@ -18,7 +18,7 @@ categories:
  <a href="https://youtu.be/Tmn6Moxiw5M">4. Lying on Your Bed</a><br>
  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">5. Rockstar</a><br>
 
-Buy Links:
+Buy Links:<br>
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
   <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br><br>
   Lying On Your Bed (Music Video):<br>
