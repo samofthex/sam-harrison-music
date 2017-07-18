@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "Bannergigs1.jpg"
+   image_fullwidth: "thewishbanner.jpg"
 layout: page
 show_meta: false
 title: The Wish
