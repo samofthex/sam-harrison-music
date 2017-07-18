@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Car Crashes & Part Time Lesbians - The Breakfast Club
 subheadline: "2011"
-teaser: "The Breakfast Club's final album, and the only one to contain songs by all three members. Recorded over five days at Long Haired Music, this is the band's finest hour..."
+teaser: "After the success of the first Ian Brough album, 'The Breakfast Club' were officially formed to be his backing band. Riding high on his first album, Brow's writing was on fire for this period, with Ciaran Grant on bass, Sam playing drums (just about), guitars, keys and producing, a storming Sophmore album was born..."
 tags:
     - post format
 categories:
@@ -26,10 +26,8 @@ categories:
   <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">12. Gasp (Secret Track)</a><br>
 
 Buy Links:<br>
-  <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">iTunes</a><br>
-   <a href="https://www.amazon.com/Petrol-Money-Explicit-Breakfast-Club/dp/B00I3KQ8FK">Amazon</a><br>
-    <a href="https://play.google.com/music/preview/Bxtitv2sqajfpau25qbojx6axvi?u=0#">Google Play</a><br>
-     <a href="https://www.deezer.com/us/?redirect_type=page&redirect_link=%2Fus%2Falbum%2F7372307">Deezer</a><br>
+  <a href="http://www.allmusic.com/album/car-crashes-and-part-time-lesbians-mw0002974709">Allmusic</a><br>
+  
 <br>
 Ciaran's Hair (Music Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aa3fQ4DJp2c" frameborder="0" allowfullscreen></iframe><br>
