@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "ifeellikejeremybanner.jpg"
+   image_fullwidth: "ifeellikejeremycorbynbanner.jpg"
 layout: page
 show_meta: false
 title: I Feel Like Jeremy Corbyn (Single)
