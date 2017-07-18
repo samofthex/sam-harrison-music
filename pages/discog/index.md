@@ -17,8 +17,15 @@ categories:
  <a href="http://samharrisonmusic.com/pages/discog/yeshardfeelings/">Yes Hard Feelings (2011)</a><br>
   <a href="http://samharrisonmusic.com/pages/discog/ifeellikejeremycorbyn/">Jeremy Corbyn Single (2016)</a><br>
   <a href="http://samharrisonmusic.com/pages/discog/aurora/">Aurora (2012)</a><br><br>
-  <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/petrolmoney/">Petrol Money (The Breakfast Club 2014)</a><br>
-    <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/liveatlonghairedmusic/">Live @ Long Haired Music (The Breakfast Club 2013)</a><br>
+  with the Breakfast Club:<br>
+  <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/petrolmoney/">Petrol Money (2014)</a><br>
+    <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/liveatlonghairedmusic/">Live @ Long Haired Music (2013)</a><br>
+  <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/carcrashes/">Car Crashes & Part Time Lesbians (2012)</a><br>
+  <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">Surrounded by Autism & Comforting Lights (2011)</a><br><br>
+   with The Satisfaction:<br>
+   <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/">The Satisfaction (2009)</a><br>
+   
+   
 <br><br><br>
 Production Credits:<br><br>
 The Breakfast Club - Car Crashes & Part Time Lesbians<br>
