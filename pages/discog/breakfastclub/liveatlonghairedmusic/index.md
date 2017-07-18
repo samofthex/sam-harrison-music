@@ -12,13 +12,13 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">1. Emma Taylor</a><br>
+ <a href="https://www.youtube.com/watch?v=Zh0B5DRxZPM">1. Emma Taylor*</a><br>
  <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">2. Maggie</a><br>
- <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">3. She's So Depressed</a><br>
+ <a href="https://youtu.be/HiKTbgnlUOA">3. She's So Depressed</a><br>
  <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">4. Girl What I Am In Love With</a><br>
  <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">5. Cinnamon</a><br>
   <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">6. Bodies</a><br>
-    <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">6. Topshop</a><br>
+    <a href="https://www.youtube.com/watch?v=7Iypgtv5WOU">6. Topshop</a><br>
 
 Buy Links:<br>
   <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">iTunes</a><br>
@@ -26,7 +26,7 @@ Buy Links:<br>
 <br>
 Topshop (Music Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/7Iypgtv5WOU" frameborder="0" allowfullscreen></iframe><br>
-  She's So Depressed (Pics Video):<br>
+  She's So Depressed (Record Company Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HiKTbgnlUOA" frameborder="0" allowfullscreen></iframe><br>
-Emma Taylor (Pics Video):<br>
+Emma Taylor (Record Company Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Zh0B5DRxZPM" frameborder="0" allowfullscreen></iframe><br>
