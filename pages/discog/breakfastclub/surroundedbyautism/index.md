@@ -1,4 +1,3 @@
-
 ---
 header:
    image_fullwidth: "surroundedbyautismbanner.jpg"
@@ -34,4 +33,3 @@ Louis Lane (@ Lincoln Christmas Market):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/O1_EwWi4j94" frameborder="0" allowfullscreen></iframe><br>
  Emily (@ Maui Waui Festival):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8p1seAQgTzE" frameborder="0" allowfullscreen></iframe><br>
-
