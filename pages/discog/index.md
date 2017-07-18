@@ -18,7 +18,7 @@ categories:
   <a href="http://samharrisonmusic.com/pages/discog/ifeellikejeremycorbyn/">Jeremy Corbyn Single (2016)</a><br>
   <a href="http://samharrisonmusic.com/pages/discog/aurora/">Aurora (2012)</a><br><br>
   <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/petrolmoney/">Petrol Money (The Breakfast Club 2014)</a><br>
-    <a href="https://longhairedmusic.bandcamp.com/album/live-at-long-haired-music">Live @ Long Haired Music (The Breakfast Club 2013)</a><br>
+    <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/liveatlonghairedmusic/">Live @ Long Haired Music (The Breakfast Club 2013)</a><br>
 <br><br><br>
 Production Credits:<br><br>
 The Breakfast Club - Car Crashes & Part Time Lesbians<br>
