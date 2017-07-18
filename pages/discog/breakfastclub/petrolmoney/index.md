@@ -14,12 +14,12 @@ categories:
 <!--more-->
  <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">1. 43 GnTs</a><br>
  <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">2. Ciaran's Hair</a><br>
- <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">3. Gir What I am in Love With</a><br>
- <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">4. She's So Depressed</a><br>
- <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">5. Pushing Up the Daisies</a><br>
+ <a href="https://youtu.be/vKRi4HDoTyE">3. Girl What I am in Love With</a><br>
+ <a href="https://youtu.be/rwKUEaKdkAs">4. She's So Depressed</a><br>
+ <a href="https://youtu.be/T9Ca9r9wjVQ">5. Pushing Up the Daisies</a><br>
   <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">6. Don't Look Down</a><br>
   <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">7. Squeeze</a><br>
-  <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">8. Sue</a><br>
+  <a href="https://youtu.be/fuddPhawaec">8. Sue</a><br>
   <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">9. Amy</a><br>
   <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">10. Miss You More Than Woolworths</a><br>
   <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">11. Cocktails</a><br>
