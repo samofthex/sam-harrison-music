@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: The Breakfast Club - Live @ Long Haired Music
 subheadline: "2013"
-teaser: "After the Breakfast Club returned, hot from their 2012 Olympic gigs, they went straight into the Long Haired Music studio to capture their live show. This record introduced the BC to the US, with "She's So Depressed' played on the popular Justin Wayne Show..."
+teaser: "After the Breakfast Club returned, hot from their 2012 Olympic gigs, they went straight into the Long Haired Music studio to capture their live show. This record introduced the BC to the US, with 'She's So Depressed' played on the popular Justin Wayne Show..."
 tags:
     - post format
 categories:
