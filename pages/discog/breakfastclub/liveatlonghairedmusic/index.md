@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "liveatlonghairedmusic.jpg"
+   image_fullwidth: "liveatlonghairedmusicbanner.jpg"
 layout: page
 show_meta: false
 title: The Breakfast Club - Live @ Long Haired Music
