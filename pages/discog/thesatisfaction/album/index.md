@@ -24,16 +24,15 @@ categories:
   <a href="">12. Darkness</a><br>
 
 Buy Links:<br>
- # <a href="https://itunes.apple.com/gb/album/petrol-money/id807599434">iTunes</a><br>
-  # <a href="https://www.amazon.com/Petrol-Money-Explicit-Breakfast-Club/dp/B00I3KQ8FK">Amazon</a><br>
-   # <a href="https://play.google.com/music/preview/Bxtitv2sqajfpau25qbojx6axvi?u=0#">Google Play</a><br>
-    # <a href="https://www.deezer.com/us/?redirect_type=page&redirect_link=%2Fus%2Falbum%2F7372307">Deezer</a><br>
+This album is not available anywhere... sowi :o yet ;)
 <br>
-Ciaran's Hair (Music Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aa3fQ4DJp2c" frameborder="0" allowfullscreen></iframe><br>
-  Squeeze (Music Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/h7Drfh6NcBM" frameborder="0" allowfullscreen></iframe><br>
- She's So Depressed (Audio Only):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rwKUEaKdkAs" frameborder="0" allowfullscreen></iframe><br>
+Kinks & Tickles Demo (Recording @ Fortress Pics):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lDR38hQd1J4" frameborder="0" allowfullscreen></iframe><br>
+ Darkness (Rehearshal Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1dDFtZtcXaY" frameborder="0" allowfullscreen></iframe><br>
+ Blue Murder (Rehearshal Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4_uAGa85Bjw" frameborder="0" allowfullscreen></iframe><br>
+  
+
 
 
