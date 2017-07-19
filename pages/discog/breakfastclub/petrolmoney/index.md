@@ -1,6 +1,6 @@
 ---
 header:
-
+   image_fullwidth: "petrolmoneybanner.jpg"
 title: Petrol Money - The Breakfast Club
 subheadline: "2014"
 teaser: "The Breakfast Club's final album, and the only one to contain songs by all three members. Recorded over five days at Long Haired Music, this is the band's finest hour..."
