@@ -23,7 +23,7 @@ categories:
   <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/carcrashes/">Car Crashes & Part Time Lesbians (2012)</a><br>
   <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">Surrounded by Autism & Comforting Lights (2011)</a><br><br>
    with The Satisfaction:<br>
-   <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/">The Satisfaction (2009)</a><br>
+   <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/album/">The Satisfaction (2009)</a><br>
    
    
 <br><br><br>
