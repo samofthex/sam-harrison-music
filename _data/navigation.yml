@@ -22,27 +22,24 @@
 - title: "Discography"
   url: "/pages/discog/"
   side: left
-  
-  #dropdown:
-  #- title: "The Wish EP"
- #   url: "/design/header-full-width-image/"
-  #- title: "Aurora EP"
- #   url: "/design/header-image-pattern/"
-#  - title: "Yes Hard Feelings LP"
- #   url: "/design/header-image-color/"
+  dropdown:
+  - title: "Discography"
+    url: "/pages/discog/"
+  - title: "Long Haired Music"
+    url: "/pages/longhairedmusic/"
 
 - title: Gigs & Projects
   url: "/gigs/"
   side: left
   dropdown:
-  - title: "Gigs"
+  - title: "Gig Diary"
     url: "/gigs/"
   - title: "Society of Strange Living"
     url: "/society-of-strange-living/"
   - title: "The Breakfast Club"
-    url: "/discog/breakfastclub/petrolmoney/"
+    url: "/pages/discog/breakfastclub/petrolmoney/"
   - title: "The Satisfaction"
-    url: "/discog/thesatisfaction/album/"
+    url: "/pages/discog/thesatisfaction/album/"
 
 - title: Blog
   url: "http://samharrisonlives.blogspot.co.uk/"
