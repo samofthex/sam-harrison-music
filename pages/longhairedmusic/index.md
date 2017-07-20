@@ -1,34 +1,32 @@
 ---
 header:
-   image_fullwidth: "Long Haired Music banner.jpg"
+   image_fullwidth: "petrolmoneybanner.jpg"
 title: Long Haired Music
-subheadline: "Social Enterprise Record Label"
-teaser: "My quite incredible brother left his job as a studio engineer in London and spent a year building and running a social enterprise recording studio and record label. In this time, he made some truelly fantastic records, and there are more to come in the future..."
+subheadline: "Social Enterprise Record Company"
+teaser: "My incredible brother Rob Harrison built this social enterprise record label, and a beautiful recording studio in Spilsby, Lincolnshire. Over the period of a year and a half, he recorded and released a number of incredible unsigned artists on a 50:50 split of royalties. These records are a testiment to his skill and devotion to young musicians. Buy them all - seriously, you wont regret it!!!"
 tags:
     - post format
 categories:
     - design 
 ---
 <!--more-->
- <a href="">Midnight High</a><br>
-  <a href=""Black Dolphins - The Devils Music</a><br>
-    <a href="">That's Not Me EP</a><br>
-  <a href="">Lizzy Sawyer</a><br>
-  <a href="">The Breakfast Club - Live @ Long Haired Music</a><br>
-  <a href="">Sam Harrison - The Wish</a><br>
-  <a href="">Kinves In - Borrowed Time</a><br><br>
-   <a href="">That's Not Me - The Road Ahead is at My Feet</a><br>
+ <a href="https://itunes.apple.com/gb/album/midnight-high-ep/id596081778">Midnight High</a><br>
+ <a href="https://itunes.apple.com/gb/album/lizzy-sawyer-ep/id615171487">Lizzy Sawyer</a><br>
+<a href="https://itunes.apple.com/gb/album/the-wish-ep/id688008076">Sam Harrison - The Wish</a><br>
+<a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">The Breakfast Club live @ Long Haired Music</a><br>
+ <a href="https://itunes.apple.com/gb/album/thats-not-me-ep/id611328962">That's Not Me EP</a><br>
+  <a href="https://itunes.apple.com/gb/album/borrowed-time-ep/id736261208">Knives In - Borrowed Time</a><br>
+  <a href="https://itunes.apple.com/gb/album/the-road-ahead-is-at-my-feet/id629338191">That's Not Me - The Road Ahead is At My Feet</a><br>
+ <a href="https://itunes.apple.com/gb/album/the-devils-music-ep/id596236289">Black Dolphins - The Devils Music</a><br>
 
-Buy Links:<br>
-This album is not available anywhere... sowi :o yet ;)
 <br>
-Kinks & Tickles Demo (Recording @ Fortress Pics):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lDR38hQd1J4" frameborder="0" allowfullscreen></iframe><br>
- Darkness (Rehearshal Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1dDFtZtcXaY" frameborder="0" allowfullscreen></iframe><br>
- Blue Murder (Rehearshal Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4_uAGa85Bjw" frameborder="0" allowfullscreen></iframe><br>
-  
+Ciaran's Hair (Music Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aa3fQ4DJp2c" frameborder="0" allowfullscreen></iframe><br>
+  Squeeze (Music Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h7Drfh6NcBM" frameborder="0" allowfullscreen></iframe><br>
+ She's So Depressed (Audio Only):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rwKUEaKdkAs" frameborder="0" allowfullscreen></iframe><br>
+
 
 
 
