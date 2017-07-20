@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "longhairedmusicbanner.jpg"
+   image_fullwidth: "longhairedmusicbannernew.jpg"
 title: Long Haired Music
 subheadline: "Social Enterprise Record Company"
 teaser: "My incredible brother Rob Harrison built this social enterprise record label, and a beautiful recording studio in Spilsby, Lincolnshire. Over the period of a year and a half, he recorded and released a number of incredible unsigned artists on a 50:50 split of royalties. These records are a testiment to his skill and devotion to young musicians. Buy them all - seriously, you wont regret it!!!"
