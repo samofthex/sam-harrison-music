@@ -39,6 +39,10 @@
     url: "/gigs/"
   - title: "Society of Strange Living"
     url: "/society-of-strange-living/"
+          - title: "The Breakfast Club"
+    url: "/discog/breakfastclub/petrolmoney/"
+      - title: "The Satisfaction"
+    url: "/discog/thesatisfaction/album/"
 
 - title: Blog
   url: "http://samharrisonlives.blogspot.co.uk/"
