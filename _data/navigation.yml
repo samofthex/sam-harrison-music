@@ -25,8 +25,6 @@
   dropdown:
   - title: "Discography"
     url: "/pages/discog/"
-  - title: "Long Haired Music"
-    url: "/pages/longhairedmusic/"
 
 - title: Gigs & Projects
   url: "/gigs/"
