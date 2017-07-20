@@ -10,22 +10,24 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="">1. Oxana</a><br>
- <a href="">2. The Hawk</a><br>
- <a href="">3. Kiddo</a><br>
- <a href="">4. She's Easy</a><br>
- <a href="">5. Happiness</a><br>
-  <a href="">6. Lemonade</a><br>
-  <a href="">7. Kinks & Tickles</a><br>
-  <a href="">8. Subterfuge</a><br>
-  <a href="">9. Satisfaction Blues</a><br>
-  <a href="">10. Marco Polo</a><br>
-  <a href="">11. Blue Murder</a><br>
-  <a href="">12. Darkness</a><br><br>
+ <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">1. Oxana</a><br>
+ <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">2. The Hawk</a><br>
+ <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">3. Kiddo</a><br>
+ <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">4. She's Easy</a><br>
+ <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">5. Happiness</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">6. Lemonade</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">7. Kinks & Tickles</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">8. Subterfuge</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">9. Satisfaction Blues</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">10. Marco Polo</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">11. Blue Murder</a><br>
+  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">12. Darkness</a><br><br>
 
 Buy Links:<br>
-This album is not available anywhere... sowi :o yet ;)
+This album is not available to purchase, but you can listen to the album in full below ;)<br>
 <br>
+The Satisfaction Album - Listen in full!:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4T5B_NnM_z8" frameborder="0" allowfullscreen></iframe><br>
 Kinks & Tickles Demo (Recording @ Fortress Pics):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lDR38hQd1J4" frameborder="0" allowfullscreen></iframe><br>
  Darkness (Rehearshal Video):<br>
