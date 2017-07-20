@@ -20,7 +20,7 @@ image:
     title: mediaplayer_js-title.jpg
     thumb: mediaplayer_js-thumb.jpg
     homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
+    caption: Graphics by Strange Living HQ
     caption_url: https://blaz.photography/
 mediaplayer: true
 ---
