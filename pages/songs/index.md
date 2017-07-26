@@ -54,6 +54,8 @@ categories:
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit</a><br>
 <a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
+<a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
+<a href="https://youtu.be/XR3S80yDGvY">Shawty & the Yayo*</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
