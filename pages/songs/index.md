@@ -44,7 +44,7 @@ categories:
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Oxana</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray</a><br>
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
-<a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Remember</a><br>
+<a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Rockstar</a><br>
 <a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
