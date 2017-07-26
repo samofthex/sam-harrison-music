@@ -36,6 +36,7 @@ categories:
 <a href="https://youtu.be/wX5XT4RO9s8">Good Time</a><br>
 <a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love</a><br>
 <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Good Unclean Fun</a><br>
+<a href="https://youtu.be/fFsNwcpCrH0">Half a Hero</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Happiness</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
@@ -46,6 +47,7 @@ categories:
 <a href="https://youtu.be/DIbetXWhsYQ">Innocence Song*</a><br>
 <a href="https://youtu.be/uDboi2GO7Mc">Instant Noodles*</a><br>
 <a href="https://youtu.be/w6Lwj_k5woU">Jackie D*</a><br>
+<a href="https://youtu.be/u2Y9kdNbKhg">Jen's Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
@@ -83,6 +85,7 @@ categories:
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
+<a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
 <a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
 <a href="https://youtu.be/I2RMlIEexhY">You Cant Resist It *</a><br>
