@@ -12,6 +12,7 @@ categories:
 <!--more-->
 <a href="https://itunes.apple.com/us/album/id784573815">A Tiger Named Tamara</a><br>
 <a href="https://youtu.be/1KsYno1_i2Y">Anastasiia's Lullaby (Song to help you sleep)*</a><br>
+ <a href="https://youtu.be/ccnQQqgBffM">Babylon Express*</a><br>
  <a href="https://youtu.be/WKmRCFuqpUM">Better Than Me*</a><br>
    <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Blue Murder*</a><br>
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
@@ -23,6 +24,7 @@ categories:
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
+<a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
   <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
@@ -46,7 +48,9 @@ categories:
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
+<a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Oxana</a><br>
+ <a href="https://youtu.be/HqFzWuamPdU">Pepper's Ghost</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray</a><br>
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
@@ -55,6 +59,7 @@ categories:
 <a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
 <a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
+<a href="https://youtu.be/RU9xW6M8WoA">Sexy Baby Blues*</a><br>
 <a href="https://youtu.be/XR3S80yDGvY">Shawty & the Yayo*</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
