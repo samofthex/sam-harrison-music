@@ -18,6 +18,7 @@ categories:
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up*</a><br>
 <a href="https://youtu.be/aa3fQ4DJp2c">Ciaran's Hair *</a><br>
 <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">The Charlatan</a><br>
+<a href="https://youtu.be/Qlum8PiD8lw">Cheese On Toast</a><br>
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
@@ -29,6 +30,7 @@ categories:
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Happiness</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
+<a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="https://www.youtube.com/watch?v=1NwS1Ebb8-s">I Feel Like Jeremy Corbyn*</a><br>
 <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Jackie D*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
