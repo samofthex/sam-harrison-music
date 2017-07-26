@@ -16,12 +16,11 @@ categories:
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up</a><br>
-
 <a href="https://youtu.be/aa3fQ4DJp2c">Ciaran's Hair *</a><br>
 <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">The Charlatan</a><br>
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
-<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br><br>
+<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
   <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
@@ -46,7 +45,7 @@ categories:
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Rockstar</a><br>
-<a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br
+<a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
