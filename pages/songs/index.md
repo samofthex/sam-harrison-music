@@ -24,7 +24,6 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
-
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
   <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
@@ -56,7 +55,8 @@ categories:
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
-<a href="https://youtu.be/ydXzz7c-Cy8">Showdown</a><br>
+<a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
+<a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Subterfuge</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
