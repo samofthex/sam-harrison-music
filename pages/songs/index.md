@@ -42,23 +42,3 @@ categories:
 <a href="https://itunes.apple.com/us/album/id784573815">Showdown</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
-
-
-
- 
-
- 
-
- 
-
-
-
-
-
-<br>
-#The Breakfast Club - Topshop:<br>
-#  <iframe width="560" height="315" src="https://www.youtube.com/embed/7Iypgtv5WOU" frameborder="0" allowfullscreen></iframe><br>
-#Knives In - Trend:<br>
-#  <iframe width="560" height="315" src="https://www.youtube.com/embed/8i4aoIFoyk8" frameborder="0" allowfullscreen></iframe><br>
-#Lizzy Sawyer - You, the Ghost:<br>
-#  <iframe width="560" height="315" src="https://www.youtube.com/embed/PcFocisU9ig" frameborder="0" allowfullscreen></iframe><br>
