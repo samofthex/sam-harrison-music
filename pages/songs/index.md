@@ -57,6 +57,7 @@ categories:
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
+<a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
 <a href="https://youtu.be/7zW2UKTn-gM">Young At Heart *</a><br>
 
 
