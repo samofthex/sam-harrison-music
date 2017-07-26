@@ -28,6 +28,7 @@ categories:
   <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
+<a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love</a><br>
 <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Good Unclean Fun</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Happiness</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
@@ -62,6 +63,7 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
 <a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
+<a href="https://youtu.be/I2RMlIEexhY">You Cant Resist It *</a><br>
 <a href="https://youtu.be/7zW2UKTn-gM">Young At Heart *</a><br>
 
 
