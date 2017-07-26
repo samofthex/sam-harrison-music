@@ -27,7 +27,8 @@ categories:
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
-  <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
+<a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
+<a href="https://youtu.be/OeMMpBmCI8I">Emily*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
 <a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love</a><br>
@@ -46,6 +47,7 @@ categories:
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kinks & Tickles</a><br>
   <a href="https://youtu.be/tFQ7KxajRg8">Koshechka, Pirate Queen</a><br>
+   <a href="https://youtu.be/GpVycO3qD4Q">The L Word</a><br>
   <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Lemonade</a><br>
   <a href="https://www.youtube.com/watch?v=QYsAunmdxAU">Left Behind</a><br>
 <a href="https://youtu.be/5DGYQ5tHVKQ">Let's Pretend*</a><br>
@@ -53,6 +55,7 @@ categories:
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
+<a href="https://youtu.be/xEyFe7wwdbk">Music Women & Wine*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Oxana</a><br>
  <a href="https://youtu.be/HqFzWuamPdU">Pepper's Ghost</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray</a><br>
@@ -69,6 +72,7 @@ categories:
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
 <a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
+<a href="https://youtu.be/q03ZkePc_k0">Subscribe Song</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Subterfuge</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
