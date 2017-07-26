@@ -25,6 +25,7 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
+<a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
 <a href="https://youtu.be/4dhIjAe8h1c">The Dream Song</a><br>
@@ -55,6 +56,7 @@ categories:
   <a href="https://www.youtube.com/watch?v=QYsAunmdxAU">Left Behind</a><br>
 <a href="https://youtu.be/5DGYQ5tHVKQ">Let's Pretend*</a><br>
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
+<a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
