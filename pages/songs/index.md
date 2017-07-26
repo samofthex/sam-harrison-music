@@ -19,7 +19,7 @@ categories:
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up*</a><br>
 <a href="https://youtu.be/aa3fQ4DJp2c">Ciaran's Hair *</a><br>
-<a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">The Charlatan</a><br>
+<a href="https://www.youtube.com/watch?v=B_l6jh4y2sM">The Charlatan</a><br>
 <a href="https://youtu.be/Qlum8PiD8lw">Cheese On Toast</a><br>
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
