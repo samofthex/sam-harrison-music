@@ -47,6 +47,7 @@ categories:
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Rockstar</a><br>
+<a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit</a><br>
 <a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
@@ -56,4 +57,6 @@ categories:
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
+<a href="https://youtu.be/7zW2UKTn-gM">Young At Heart *</a><br>
+
 
