@@ -35,7 +35,7 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="https://www.youtube.com/watch?v=1NwS1Ebb8-s">I Feel Like Jeremy Corbyn*</a><br>
-<a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Jackie D*</a><br>
+<a href="https://youtu.be/w6Lwj_k5woU">Jackie D*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
