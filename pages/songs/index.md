@@ -37,6 +37,9 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="https://www.youtube.com/watch?v=1NwS1Ebb8-s">I Feel Like Jeremy Corbyn*</a><br>
+<a href="https://youtu.be/Hb0kHBryApk">The Imposter*</a><br>
+<a href="https://youtu.be/DIbetXWhsYQ">Innocence Song*</a><br>
+<a href="https://youtu.be/uDboi2GO7Mc">Instant Noodles*</a><br>
 <a href="https://youtu.be/w6Lwj_k5woU">Jackie D*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
@@ -55,7 +58,7 @@ categories:
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray</a><br>
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
-<a href="https://longhairedmusic.bandcamp.com/album/the-wish">Rockstar</a><br>
+<a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit</a><br>
 <a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
