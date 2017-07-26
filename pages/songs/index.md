@@ -27,15 +27,18 @@ categories:
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
+<a href="https://youtu.be/4dhIjAe8h1c">The Dream Song</a><br>
 <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://youtu.be/OeMMpBmCI8I">Emily*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
+<a href="https://youtu.be/wX5XT4RO9s8">Good Time</a><br>
 <a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love</a><br>
 <a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Good Unclean Fun</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Happiness</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
+<a href="https://youtu.be/QtD6LdpgI8A">Holy Dancer</a><br>
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="https://www.youtube.com/watch?v=1NwS1Ebb8-s">I Feel Like Jeremy Corbyn*</a><br>
 <a href="https://youtu.be/Hb0kHBryApk">The Imposter*</a><br>
@@ -63,7 +66,7 @@ categories:
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit</a><br>
-<a href="https://itunes.apple.com/us/album/id784573815">Salome</a><br>
+<a href="https://youtu.be/0v8bAcP_V5o">Salome</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
 <a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
 <a href="https://youtu.be/RU9xW6M8WoA">Sexy Baby Blues*</a><br>
@@ -71,10 +74,12 @@ categories:
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
+<a href="https://youtu.be/svz8T0zjqjw">Smile*</a><br>
 <a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
 <a href="https://youtu.be/q03ZkePc_k0">Subscribe Song</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Subterfuge</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
+<a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
 <a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
