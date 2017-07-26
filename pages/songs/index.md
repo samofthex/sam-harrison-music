@@ -22,6 +22,8 @@ categories:
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
+<a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
+
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
   <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
@@ -37,6 +39,7 @@ categories:
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kinks & Tickles</a><br>
+  <a href="https://youtu.be/tFQ7KxajRg8">Koshechka, Pirate Queen</a><br>
   <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Lemonade</a><br>
 <a href="https://youtu.be/5DGYQ5tHVKQ">Let's Pretend*</a><br>
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
