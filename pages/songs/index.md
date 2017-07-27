@@ -56,7 +56,7 @@ categories:
    <a href="https://youtu.be/GpVycO3qD4Q">The L Word*</a><br>
   <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Lemonade</a><br>
   <a href="https://www.youtube.com/watch?v=QYsAunmdxAU">Left Behind*</a><br>
-<a href="https://youtu.be/5DGYQ5tHVKQ">Let's Pretend*</a><br>
+<a href="https://youtu.be/yDRvgxD2JyI">Let's Pretend*</a><br>
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
 <a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
