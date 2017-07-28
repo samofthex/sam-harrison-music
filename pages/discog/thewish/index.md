@@ -22,12 +22,12 @@ Buy Links:<br>
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
   <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br><br>
   Lying On Your Bed (Music Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tmn6Moxiw5M" frameborder="0" allowfullscreen></iframe><br> <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tmn6Moxiw5M" frameborder="0" allowfullscreen></iframe><br> 
   Let's Pretend (Animated Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yDRvgxD2JyI" frameborder="0" allowfullscreen></iframe><br> <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yDRvgxD2JyI" frameborder="0" allowfullscreen></iframe><br> 
    Ketmaine Kim (Live Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qe0MWBvZl5A" frameborder="0" allowfullscreen></iframe><br> <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qe0MWBvZl5A" frameborder="0" allowfullscreen></iframe><br> 
      Rockstar (Live Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zstZae9SFGI" frameborder="0" allowfullscreen></iframe><br> <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zstZae9SFGI" frameborder="0" allowfullscreen></iframe><br> 
      Let's Pretend (Live Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5DGYQ5tHVKQ" frameborder="0" allowfullscreen></iframe><br> <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5DGYQ5tHVKQ" frameborder="0" allowfullscreen></iframe><br> 
