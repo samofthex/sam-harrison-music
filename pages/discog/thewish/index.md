@@ -22,4 +22,6 @@ Buy Links:<br>
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
   <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br><br>
   Lying On Your Bed (Music Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tmn6Moxiw5M" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tmn6Moxiw5M" frameborder="0" allowfullscreen></iframe><br> <br>
+  Let's Pretend (Animated Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yDRvgxD2JyI" frameborder="0" allowfullscreen></iframe><br> <br>
