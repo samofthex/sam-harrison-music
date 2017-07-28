@@ -16,7 +16,7 @@ categories:
  <a href="https://youtu.be/yDRvgxD2JyI">2. Let's Pretend*</a><br>
  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">3. Ketamine Kim</a><br>
  <a href="https://youtu.be/Tmn6Moxiw5M">4. Lying on Your Bed*</a><br>
- <a href="https://youtu.be/yDRvgxD2JyI">5. Rockstar*</a><br>
+ <a href="https://youtu.be/padIFy7WP5k">5. Rockstar*</a><br>
 
 Buy Links:<br>
   <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
