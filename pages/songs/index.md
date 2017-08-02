@@ -22,6 +22,7 @@ categories:
 <a href="https://www.youtube.com/watch?v=B_l6jh4y2sM">The Charlatan*</a><br>
 <a href="https://youtu.be/Qlum8PiD8lw">Cheese On Toast*</a><br>
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
+<a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
@@ -45,9 +46,11 @@ categories:
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="https://www.youtube.com/watch?v=1NwS1Ebb8-s">I Feel Like Jeremy Corbyn*</a><br>
 <a href="https://youtu.be/Hb0kHBryApk">The Imposter*</a><br>
+<a href="https://youtu.be/EmUjCMmrhOY">In the End (I Let Her Take Control)*</a> < my first 'music video!'<br>
 <a href="https://youtu.be/DIbetXWhsYQ">Innocence Song*</a><br>
 <a href="https://youtu.be/uDboi2GO7Mc">Instant Noodles*</a><br>
 <a href="https://youtu.be/w6Lwj_k5woU">Jackie D*</a><br>
+<a href="https://youtu.be/nQ7hXwR3SGg">Jane Doe*</a><br>
 <a href="https://youtu.be/u2Y9kdNbKhg">Jen's Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
@@ -70,6 +73,7 @@ categories:
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
+<a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit*</a><br>
 <a href="https://youtu.be/nC_1PHvv4v8">Salome*</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
