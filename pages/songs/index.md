@@ -28,6 +28,7 @@ categories:
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
+<a href="https://youtu.be/k4Jl7bu1t7Y">Drama Queen*</a><br>
 <a href="https://youtu.be/4dhIjAe8h1c">The Dream Song*</a><br>
 <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://youtu.be/OeMMpBmCI8I">Emily*</a><br>
@@ -51,7 +52,7 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
- <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kinks & Tickles</a><br>
+ <a href="https://youtu.be/lDR38hQd1J4">Kinks & Tickles</a><br>
   <a href="https://youtu.be/tFQ7KxajRg8">Koshechka, Pirate Queen*</a><br>
    <a href="https://youtu.be/GpVycO3qD4Q">The L Word*</a><br>
   <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Lemonade</a><br>
@@ -79,6 +80,7 @@ categories:
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
+<a href="https://youtu.be/IFh4xUz74IY">Sing Baby Sing*</a><br>
 <a href="https://youtu.be/svz8T0zjqjw">Smile*</a><br>
 <a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
 <a href="https://youtu.be/q03ZkePc_k0">Subscribe Song*</a><br>
