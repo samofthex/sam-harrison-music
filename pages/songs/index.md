@@ -67,10 +67,10 @@ categories:
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
 <a href="https://youtu.be/xEyFe7wwdbk">Music Women & Wine*</a><br>
- <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Oxana</a><br>
+ <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Oxana*</a><br>
  <a href="https://youtu.be/HqFzWuamPdU">Pepper's Ghost*</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray*</a><br>
-<a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies *</a><br>
+<a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies*</a><br>
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
 <a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
