@@ -89,6 +89,7 @@ categories:
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
 <a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
+<a href="https://youtu.be/4OMTLOEpYqo">The Wind *</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
 <a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
 <a href="https://youtu.be/I2RMlIEexhY">You Cant Resist It *</a><br>
