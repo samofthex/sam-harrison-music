@@ -10,7 +10,7 @@ categories:
     - design 
 ---
 <!--more-->
-<a href="https://itunes.apple.com/us/album/id784573815">A Tiger Named Tamara</a><br>
+<a href="https://www.youtube.com/watch?v=e-ECBNarjMU&feature=youtu.be">A Tiger Named Tamara*</a><br>
 <a href="https://youtu.be/1KsYno1_i2Y">Anastasiia's Lullaby (Song to help you sleep)*</a><br>
  <a href="https://youtu.be/ccnQQqgBffM">Babylon Express*</a><br>
  <a href="https://youtu.be/WKmRCFuqpUM">Better Than Me*</a><br>
@@ -70,7 +70,7 @@ categories:
 <a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit*</a><br>
-<a href="https://youtu.be/0v8bAcP_V5o">Salome*</a><br>
+<a href="https://youtu.be/nC_1PHvv4v8">Salome*</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
 <a href="https://youtu.be/YjZ-SZuZvC8">Sell-Out Song*</a><br>
 <a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
