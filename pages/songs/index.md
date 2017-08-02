@@ -23,7 +23,7 @@ categories:
 <a href="https://youtu.be/Qlum8PiD8lw">Cheese On Toast*</a><br>
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
-<a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Credit</a><br>
+<a href="https://soundcloud.com/samharrisonmusic/credit-rough-mix">Credit</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
@@ -34,10 +34,11 @@ categories:
 <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://youtu.be/OeMMpBmCI8I">Emily*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
+<a href="https://soundcloud.com/samharrisonmusic/fubsy-eyes-mix-3">Fubsy Eyes *</a><br>
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
 <a href="https://youtu.be/wX5XT4RO9s8">Good Time*</a><br>
 <a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love*</a><br>
-<a href="https://itunes.apple.com/us/album/yes-hard-feelings/id478052570">Good Unclean Fun</a><br>
+<a href="https://soundcloud.com/samharrisonmusic/good-unclean-fun-explicit">Good Unclean Fun*</a><br>
 <a href="https://youtu.be/fFsNwcpCrH0">Half a Hero*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Happiness</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
@@ -55,7 +56,7 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
- <a href="https://youtu.be/lDR38hQd1J4">Kinks & Tickles</a><br>
+ <a href="https://youtu.be/lDR38hQd1J4">Kinks & Tickles*</a><br>
   <a href="https://youtu.be/tFQ7KxajRg8">Koshechka, Pirate Queen*</a><br>
    <a href="https://youtu.be/GpVycO3qD4Q">The L Word*</a><br>
   <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Lemonade</a><br>
@@ -71,7 +72,7 @@ categories:
  <a href="https://youtu.be/HqFzWuamPdU">Pepper's Ghost*</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray*</a><br>
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies*</a><br>
-<a href="https://youtu.be/pxrg42Vw7EQ">Remember*</a><br>
+<a href="https://soundcloud.com/samharrisonmusic/remember">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
 <a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit*</a><br>
@@ -91,7 +92,7 @@ categories:
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Subterfuge</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas*</a><br>
-<a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Trash Mountain</a><br>
+<a href="https://soundcloud.com/samharrisonmusic/trash-mountain">Trash Mountain*</a><br>
 <a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
 <a href="https://youtu.be/4OMTLOEpYqo">The Wind *</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
