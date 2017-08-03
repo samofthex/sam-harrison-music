@@ -27,7 +27,7 @@ And I want to be like Jeremy<br>
 I march in the CND parade<br>
 and I feel like Jeremy Corbyn<br>
 I buy my groceries from Fairtrade<br>
-and I feel like Jeremy Corbyn<br><br>
+and I feel like Jeremy Corbyn<br>
 
 I’d rather put my faith behind a socialist solution<br>
 Than some self entitled millionaire who bought his place at Eton<br>
@@ -35,7 +35,7 @@ I believe in public healthcare<br>
 I believe in state welfare<br>
 I’m sick of first world poverty<br>
 And I think I’m gonna vote for Jeremy<br>
-Jeremy, Jeremy, Jeremy, Jeremy C<br><br>
+Jeremy, Jeremy, Jeremy, Jeremy C<br>
 
 (Solo)<br>
 <br>
@@ -48,7 +48,7 @@ I believe in single mothers<br>
 I believe in Wooly jumpers<br>
 John McDonnell is really quite pleasing<br>
 I like his people’s quantitate easing<br>
-Quantitate easing, quantitate easing, quantitate easing, quantitate easing<br><br>
+Quantitate easing, quantitate easing, quantitate easing, quantitate easing<br>
 
 I stand up for what I believe in<br>
 and I feel like Jeremy Corbyn<br>
@@ -64,8 +64,6 @@ Buy Links:<br>
 <br>
 I Feel Like Jeremy Corbyn (Music Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1NwS1Ebb8-s" frameborder="0" allowfullscreen></iframe><br>
-  Body of an Immigrant (WARNING: DISTRESSING IMAGES in this music video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/umUKoQZD3ls" frameborder="0" allowfullscreen></iframe><br>
   I Feel Like Jeremy Corbyn (live @ Strange Living Festival):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/stHicMaWv_g" frameborder="0" allowfullscreen></iframe><br>
 
