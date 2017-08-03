@@ -14,7 +14,7 @@ categories:
 <a href="https://youtu.be/1KsYno1_i2Y">Anastasiia's Lullaby (Song to help you sleep)*</a><br>
  <a href="https://youtu.be/ccnQQqgBffM">Babylon Express*</a><br>
  <a href="https://youtu.be/WKmRCFuqpUM">Better Than Me*</a><br>
-   <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Blue Murder*</a><br>
+   <a href="https://youtu.be/Zzyx5YHkYEQ">Blue Murder*</a><br>
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up*</a><br>
@@ -24,7 +24,7 @@ categories:
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/credit-rough-mix">Credit</a><br>
-<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Darkness*</a><br>
+<a href="https://youtu.be/GcEeFouiq0w">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
@@ -40,7 +40,7 @@ categories:
 <a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/good-unclean-fun-explicit">Good Unclean Fun*</a><br>
 <a href="https://youtu.be/fFsNwcpCrH0">Half a Hero*</a><br>
- <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Happiness</a><br>
+ <a href="https://youtu.be/sC91etyLdLI">Happiness</a><br>
 <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
 <a href="https://youtu.be/QtD6LdpgI8A">Holy Dancer*</a><br>
@@ -55,20 +55,21 @@ categories:
 <a href="https://youtu.be/u2Y9kdNbKhg">Jen's Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
- <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Kiddo</a><br>
- <a href="https://youtu.be/lDR38hQd1J4">Kinks & Tickles*</a><br>
+ <a href="https://youtu.be/-l-UjBN_NJ4">Kiddo</a><br>
+ <a href="https://youtu.be/x5LghONf27s">Kinks & Tickles*</a><br>
   <a href="https://youtu.be/tFQ7KxajRg8">Koshechka, Pirate Queen*</a><br>
    <a href="https://youtu.be/GpVycO3qD4Q">The L Word*</a><br>
-  <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Lemonade</a><br>
+  <a href="https://youtu.be/WSEHDA9i908">Lemonade</a><br>
   <a href="https://www.youtube.com/watch?v=QYsAunmdxAU">Left Behind*</a><br>
 <a href="https://youtu.be/yDRvgxD2JyI">Let's Pretend*</a><br>
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
 <a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
+<a href="https://youtu.be/pTQau9qTrRI">Marco Polo*</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
 <a href="https://youtu.be/xEyFe7wwdbk">Music Women & Wine*</a><br>
- <a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Oxana*</a><br>
+ <a href="https://youtu.be/Mkpo5tnKkok">Oxana*</a><br>
  <a href="https://youtu.be/HqFzWuamPdU">Pepper's Ghost*</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray*</a><br>
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies*</a><br>
@@ -77,19 +78,19 @@ categories:
 <a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit*</a><br>
 <a href="https://youtu.be/nC_1PHvv4v8">Salome*</a><br>
-<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Satisfaction Blues</a><br>
+<a href="https://youtu.be/47A6TSc5V0Y">Satisfaction Blues</a><br>
 <a href="https://youtu.be/YjZ-SZuZvC8">Sell-Out Song*</a><br>
 <a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
 <a href="https://youtu.be/RU9xW6M8WoA">Sexy Baby Blues*</a><br>
 <a href="https://youtu.be/XR3S80yDGvY">Shawty & the Yayo*</a><br>
-<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">She's Easy</a><br>
+<a href="https://youtu.be/aZeal6O40uE">She's Easy</a><br>
 <a href="https://youtu.be/rwKUEaKdkAs">She's So Depressed *</a><br>
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
 <a href="https://youtu.be/IFh4xUz74IY">Sing Baby Sing*</a><br>
 <a href="https://youtu.be/svz8T0zjqjw">Smile*</a><br>
 <a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
 <a href="https://youtu.be/q03ZkePc_k0">Subscribe Song*</a><br>
-<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">Subterfuge</a><br>
+<a href="https://youtu.be/vOxALcpE_Ag">Subterfuge</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/trash-mountain">Trash Mountain*</a><br>
