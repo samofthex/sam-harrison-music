@@ -3,7 +3,7 @@ header:
    image_fullwidth: "ifeellikejeremycorbynbanner.jpg"
 layout: page
 show_meta: false
-title: I Feel Like Jeremy Corbyn (Lyrics)
+title: I Feel Like Jeremy Corbyn (Lyrics + Video)
 subheadline: "2016"
 teaser: "This internet ditty, recorded in one  day, went on to reach 50,000 hits, and Sam got to perform it in front of Jeremy Corbyn and John McDonnell themselves! It's been performed by musicians across the UK, including Bristol's Red  Notes Choir, and raised $100 for refugee charities..."
 tags:
