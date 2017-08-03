@@ -41,7 +41,7 @@ categories:
 <a href="https://soundcloud.com/samharrisonmusic/good-unclean-fun-explicit">Good Unclean Fun*</a><br>
 <a href="https://youtu.be/fFsNwcpCrH0">Half a Hero*</a><br>
  <a href="https://youtu.be/sC91etyLdLI">Happiness</a><br>
-<a href="https://www.youtube.com/watch?v=4T5B_NnM_z8">The Hawk</a><br>
+<a href="https://youtu.be/vJAWt7MCrkE">The Hawk</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
 <a href="https://youtu.be/QtD6LdpgI8A">Holy Dancer*</a><br>
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
