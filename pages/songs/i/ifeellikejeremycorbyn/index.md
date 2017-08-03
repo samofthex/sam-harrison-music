@@ -15,14 +15,14 @@ categories:
 I eat my sandwiches on the train<br>
 and I feel like Jeremy Corbyn<br>
 I ride my bicycle in the rain<br>
-and I feel like Jeremy Corbyn<br><br>
+and I feel like Jeremy Corbyn<br>
 
 I’m sick of politician who have never worked a day in their lives<br>
 Changing their opinions with the turning of the tides<br>
 I believe in Kier Hardie<br>
 I believe in Clem Attlee<br>
 I believe in society<br>
-And I want to be like Jeremy<br><br>
+And I want to be like Jeremy<br>
 
 I march in the CND parade<br>
 and I feel like Jeremy Corbyn<br>
