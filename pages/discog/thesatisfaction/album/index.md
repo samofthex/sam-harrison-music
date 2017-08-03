@@ -10,18 +10,18 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://youtu.be/Mkpo5tnKkok">1. Oxana</a><br>
- <a href="https://youtu.be/vJAWt7MCrkE">2. The Hawk</a><br>
- <a href="https://youtu.be/-l-UjBN_NJ4">3. Kiddo</a><br>
- <a href="https://youtu.be/aZeal6O40uE">4. She's Easy</a><br>
- <a href="https://youtu.be/sC91etyLdLI">5. Happiness</a><br>
-  <a href="https://youtu.be/WSEHDA9i908">6. Lemonade</a><br>
-  <a href="https://youtu.be/x5LghONf27s">7. Kinks & Tickles</a><br>
-  <a href="https://youtu.be/vOxALcpE_Ag">8. Subterfuge</a><br>
-  <a href="https://youtu.be/47A6TSc5V0Y">9. Satisfaction Blues</a><br>
-  <a href="https://youtu.be/pTQau9qTrRI">10. Marco Polo</a><br>
-  <a href="https://youtu.be/Zzyx5YHkYEQ">11. Blue Murder</a><br>
-  <a href="https://youtu.be/GcEeFouiq0w">12. Darkness</a><br><br>
+ <a href="https://youtu.be/Mkpo5tnKkok">1. Oxana*</a><br>
+ <a href="https://youtu.be/vJAWt7MCrkE">2. The Hawk*</a><br>
+ <a href="https://youtu.be/-l-UjBN_NJ4">3. Kiddo*</a><br>
+ <a href="https://youtu.be/aZeal6O40uE">4. She's Easy*</a><br>
+ <a href="https://youtu.be/sC91etyLdLI">5. Happiness*</a><br>
+  <a href="https://youtu.be/WSEHDA9i908">6. Lemonade*</a><br>
+  <a href="https://youtu.be/x5LghONf27s">7. Kinks & Tickles*</a><br>
+  <a href="https://youtu.be/vOxALcpE_Ag">8. Subterfuge*</a><br>
+  <a href="https://youtu.be/47A6TSc5V0Y">9. Satisfaction Blues*</a><br>
+  <a href="https://youtu.be/pTQau9qTrRI">10. Marco Polo*</a><br>
+  <a href="https://youtu.be/Zzyx5YHkYEQ">11. Blue Murder*</a><br>
+  <a href="https://youtu.be/GcEeFouiq0w">12. Darkness*</a><br><br>
 
 Buy Links:<br>
 This album is not available to purchase, but you can listen to the album in full below ;)<br>
