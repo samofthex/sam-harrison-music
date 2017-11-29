@@ -24,7 +24,7 @@ categories:
   <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">Surrounded by Autism & Comforting Lights (2011)</a><br><br>
    with The Satisfaction:<br>
    <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/album/">The Satisfaction (2009)</a><br>
-   </a><br><br>
+   </a><br>
    Demo Albums:<br>
    Melodic Revolutions(2005)</a><br>
    Liqourice Park (2006)</a><br>
@@ -34,7 +34,7 @@ categories:
    The Chad Varah Story (2008)</a><br>
    
    
-<br><br><br>
+<br>
 Production Credits:<br><br>
 The Breakfast Club - Car Crashes & Part Time Lesbians<br>
 The Breakfast Club - Surrounded by Autism & Comforting Lights<br>
