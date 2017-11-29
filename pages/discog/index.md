@@ -24,6 +24,14 @@ categories:
   <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">Surrounded by Autism & Comforting Lights (2011)</a><br><br>
    with The Satisfaction:<br>
    <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/album/">The Satisfaction (2009)</a><br>
+   </a><br><br>
+   Demo Albums:<br>
+   Melodic Revolutions(2005)</a><br>
+   Liqourice Park (2006)</a><br>
+   Domino Souls (2007)</a><br>
+   Noel (The Rock Opera)</a><br>
+   Forbidden Fruit</a><br>
+   The Chad Varah Story</a><br>
    
    
 <br><br><br>
