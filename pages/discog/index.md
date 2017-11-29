@@ -52,4 +52,4 @@ Hex - World of Confusion<br>
 Hex - Dark Side EP<br><br><br>
   
 
-Source: [The Society of Strange Living Top Secret HQ](https://www.youtube.com/watch?v=z5NtUWZCbQ4)
+Source: [The Society of Strange Living Top Secret HQ](https://youtu.be/viif2vhaSUM)
