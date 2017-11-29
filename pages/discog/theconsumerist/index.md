@@ -22,7 +22,7 @@ categories:
 Buy Links:<br>
   <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">iTunes</a><br>
    <a href="https://www.amazon.co.uk/I-Feel-Like-Jeremy-Corbyn/dp/B01IOLI08U">Amazon</a><br>
-    <a href="https://play.google.com/store/music/album/Sam_Harrison_I_Feel_Like_Jeremy_Corbyn?id=B3j4u355unne4233gywstkogyqa">Google Play</a><br>
+    <a href="https://play.google.com/store/music/album?id=Bijknuyth53lgutmv5kxizli25m&tid=song-Tklxgwm4deb2os36pghckvj547u">Google Play</a><br>
      <a href="http://www.deezer.com/us/album/46281582">Deezer</a><br>
      <a href="https://open.spotify.com/album/3qBha98n0OMwP4xAwMkm3s">Spotify</a><br>
 <br>
