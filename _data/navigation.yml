@@ -18,6 +18,8 @@
     url: "/pages/Gallery/"
   - title: "songs"
     url: "/pages/songs/" 
+  - title: "Films"
+    url: "/pages/movies/"
   - title: "Landing Page"
     url: "/samlander/"
 
@@ -27,6 +29,8 @@
   dropdown:
   - title: "Discography"
     url: "/pages/discog/"
+  - title: "Filmography"
+    url: "/pages/movies/"
   - title: "Songs"
     url: "/pages/songs/"
 
