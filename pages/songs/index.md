@@ -29,7 +29,7 @@ categories:
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
 <a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
-<a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Don't Think</a><br>
+<a href="https://youtu.be/WWcIWTS2Wmo">Don't Think*</a><br>
 <a href="https://youtu.be/k4Jl7bu1t7Y">Drama Queen*</a><br>
 <a href="https://youtu.be/4dhIjAe8h1c">The Dream Song*</a><br>
 <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
