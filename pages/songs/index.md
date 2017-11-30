@@ -46,7 +46,7 @@ categories:
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
 <a href="https://youtu.be/QtD6LdpgI8A">Holy Dancer*</a><br>
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
-<a href="https://www.youtube.com/watch?v=1NwS1Ebb8-s">I Feel Like Jeremy Corbyn*</a><br>
+<a href="https://www.samharrisonmusic.com/pages/songs/i/ifeellikejeremycorbyn/">I Feel Like Jeremy Corbyn*</a><br>
 <a href="https://youtu.be/Hb0kHBryApk">The Imposter*</a><br>
 <a href="https://youtu.be/EmUjCMmrhOY">In the End (I Let Her Take Control)*</a> < my first 'music video!'<br>
 <a href="https://youtu.be/DIbetXWhsYQ">Innocence Song*</a><br>
