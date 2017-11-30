@@ -81,7 +81,7 @@ categories:
 <a href="https://youtu.be/nC_1PHvv4v8">Salome*</a><br>
 <a href="https://youtu.be/47A6TSc5V0Y">Satisfaction Blues*</a><br>
 <a href="https://youtu.be/YjZ-SZuZvC8">Sell-Out Song*</a><br>
-<a href="https://youtu.be/nVVNT1262FY">Seven Nation Corbyn*</a><br>
+<a href="http://samharrisonmusic.com/pages/songs/s/sevennationcorbyn/">Seven Nation Corbyn*</a><br>
 <a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
 <a href="https://youtu.be/RU9xW6M8WoA">Sexy Baby Blues*</a><br>
 <a href="https://youtu.be/XR3S80yDGvY">Shawty & the Yayo*</a><br>
