@@ -18,7 +18,7 @@ categories:
  <a href="https://youtu.be/Q-BxIYCpXXk">Live @ the Collection</a> - 2015<br>
  <a href="https://youtu.be/BrtIanK7zK0">The Society's Guide to Strange Living Prt. 1</a> - 2016<br>
  <a href="https://youtu.be/6JWy3F1onm0">The Breakfast Club's Olympic Tour Diary</a> - 2012<br>
- TOAK Sessions - 2015 (Temporarily Withdrawn)
+ TOAK Sessions (Temporarily Withdrawn) - 2015 
 
 <br>
  The Wish live @ the Jolly Brewer:<br>
