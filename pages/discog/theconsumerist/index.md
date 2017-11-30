@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "consumeristbanner.jpg"
+   image_fullwidth: "photoheader.jpg"
 layout: page
 show_meta: false
 title: The Consumerist Prt. 1
