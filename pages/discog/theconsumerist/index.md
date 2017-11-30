@@ -12,7 +12,7 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">1. Don't Think</a><br>
+ <a href="https://youtu.be/WWcIWTS2Wmo">1. Don't Think</a><br>
  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">2. Credit</a><br>
  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">3. Trash Mountain</a><br>
  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">4. Evicted</a><br>
