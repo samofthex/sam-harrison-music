@@ -25,9 +25,9 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 <a href="https://youtu.be/JK2jhnZVMZI">THE MARMALADIES</a> - The fantastic songwriting skills of Lauren Davies & Hannah Mook start off the night with their original song 'Cover' (punderful) with beautiful harmony backing from Hannah against Lauren's rich lead vocal. It set the high standard for the whole night.<br>
 
 08:20
-<a href="https://youtu.be/qxd_jckMoUI">LAUREN & CALLUM</a> - Lauren & Callum's talents perfectly compliment each other as they rip through two perfect covers of contempary pop, absolutely blowing the roof of as always. Lauren is still making music, and has just released her debut single <a href="https://youtu.be/odbiqkA2-lQ">'Paint the Skies'</a> 
-     - 2015<br>
-    - 2014<br>
+<a href="https://www.facebook.com/laurenrycroftmusician/">LAUREN & CALLUM</a> - Lauren & Callum's talents perfectly compliment each other as they rip through two perfect covers of contempary pop, absolutely blowing the roof of as always. Lauren is still making music, and has just released her debut single <a href="https://youtu.be/odbiqkA2-lQ">'Paint the Skies'</a> 
+
+
  <a href="https://youtu.be/Q-BxIYCpXXk">Live @ the Collection</a>  - 2015<br>
  <a href="https://youtu.be/BrtIanK7zK0">The Society's Guide to Strange Living Prt. 1</a>   - 2016<br>
  <a href="https://youtu.be/6JWy3F1onm0">The Breakfast Club's Olympic Tour Diary</a>  - 2012<br>
