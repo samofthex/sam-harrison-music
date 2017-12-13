@@ -30,6 +30,9 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 14.30
 <a href="https://www.facebook.com/laurenrycrofusician/">EXPERIMENTAL SONIC MACHINES</a> - The music of Mr Peter Rollings is completely unique - partly because of his unique personality and delivery, partly because of incredible home made musical instruments! He also makes wonderful, unique artwork, with a psychadelic theme - on display at Lincoln's 10 Decimal Place. The people of Lincoln love Experimental Sonic Machines, but professional reptile Simon Cowell didn't seem to appreciate them quite as much as we do. On Pete's Britain's Got Talent audition he's treated not so nicely by Mr Cowell and his team - in fact they were incredibly rude. But don't worry! You can see Pete's incredible performance art here, with music better sound and visual than the tele. I love Pete's music, and I'd one million times rather work with him than Mr Cowell. Do you feel the same? x
 
+27:58
+
+34:42
 
 
 
