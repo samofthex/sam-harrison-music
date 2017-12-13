@@ -15,7 +15,6 @@ categories:
 <br>
  The Wish live @ the Jolly Brewer:<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/JK2jhnZVMZI" frameborder="0" allowfullscreen></iframe><br>
- 
  <a href="https://youtu.be/JK2jhnZVMZI">The Wish - live @ the Jolly Brewer</a>    - 2015<br>
  <a href="https://youtu.be/qxd_jckMoUI">The Secret Kitchen Gig</a>    - 2015<br>
  <a href="https://youtu.be/kUMhRcotOvY">John O Groat's to Lands End Tour Diary</a>   - 2014<br>
