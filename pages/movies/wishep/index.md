@@ -42,29 +42,23 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 51:00
 <a href="https://www.facebook.com/laurenrycrofusician/">TANGO (Matt Ellerby)</a> - Matt - or Tango to just about the entire universe - hosts the Jolly Brewer Open Mic, and is a hard working patron of the Lincoln music scene. He's appeared with Strange Living on bass for several gigs, including our Mudfest set wehere our washing machine door broke (rock n roll problems). His guitar and vocal skills are legendary, and here he delivers two beautiful reworkings of classics - the second maybe a little unexpected!
 
-
- <a href="https://youtu.be/Q-BxIYCpXXk">Live @ the Collection</a>  - 2015<br>
- <a href="https://youtu.be/BrtIanK7zK0">The Society's Guide to Strange Living Prt. 1</a>   - 2016<br>
- <a href="https://youtu.be/6JWy3F1onm0">The Breakfast Club's Olympic Tour Diary</a>  - 2012<br>
- TOAK Sessions (Temporarily Withdrawn)  - 2015 
+56:55
+<a href="https://www.facebook.com/samofthex/">SAM HARRISON</a>
+Set List:
+Sexy Baby Blues
+Instant Noodles
+Let's Pretend
+Whole Lotta Shakin' Going On (feat. Colin Dudman)
+Lying On Your Bed
+Rockstar (Ft. Casey Howden)
+The Imposter
+Good Times & NSA Love (ft. Steph Summerfield & Casey)
+Commercial Christmas Song (ft. Steph Summerfield, Casey Howden, Experimental Sonic Machines, Richard Sylvester & Loz Green)
+https://www.youtube.com/watch?v=Asn0sb6FpK8
 
 <br>
  The Wish live @ the Jolly Brewer:<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/JK2jhnZVMZI" frameborder="0" allowfullscreen></iframe>
  <br>
- The Secret Kitchen Gig:<br>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/qxd_jckMoUI" frameborder="0" allowfullscreen></iframe>
- <br>
- John O' Groats to Lands End Tour Diary:
- <iframe width="560" height="315" src="https://www.youtube.com/embed/kUMhRcotOvY" frameborder="0" allowfullscreen></iframe>
- <br>
- Sam Harrison live @ The Collection:
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-BxIYCpXXk" frameborder="0" allowfullscreen></iframe>
- <br>
- The Society's Guide to Strange Living Prt 1: Landed Festival
- <iframe width="560" height="315" src="https://www.youtube.com/embed/BrtIanK7zK0" frameborder="0" allowfullscreen></iframe>
- <br>
- The Breakfast Club's Olympic Tour Diary
- <iframe width="560" height="315" src="https://www.youtube.com/embed/6JWy3F1onm0" frameborder="0" allowfullscreen></iframe>
- <br>
+
 
