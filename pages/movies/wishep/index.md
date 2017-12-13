@@ -40,7 +40,7 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 <a href="https://www.facebook.com/laurenrycrofusician/">ANDREA FERGUESON</a> - Andrea would always be my first choice to play at any of my gigs. Not only is her songwriting and her voice mesmerising and inspiring to the dullest of audiences, but if it were not for Andrea, I may well not be a performer. It was at her who tempted me up onto the stage of the Golden Eagle's Open Mic Night in 2005. I owe her a great debt of gratitude, for being such a huge inspiration and encouragement. Lavish yourself with the blissfully dark 'Walking Barefoot in Berlin'. Thankyou Andrea!
 
 51:00
-<a href="https://www.facebook.com/laurenrycrofusician/">TANGO (Matt Ellerby)</a> - 
+<a href="https://www.facebook.com/laurenrycrofusician/">TANGO (Matt Ellerby)</a> - Matt - or Tango to just about the entire universe - hosts the Jolly Brewer Open Mic, and is a hard working patron of the Lincoln music scene. He's appeared with Strange Living on bass for several gigs, including our Mudfest set wehere our washing machine door broke (rock n roll problems). His guitar and vocal skills are legendary, and here he delivers two beautiful reworkings of classics - the second maybe a little unexpected!
 
 
  <a href="https://youtu.be/Q-BxIYCpXXk">Live @ the Collection</a>  - 2015<br>
