@@ -44,17 +44,17 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 
 56:55
 <a href="https://www.facebook.com/samofthex/">SAM HARRISON</a><br>
-This set features a lot of songs I didn't have footage of at the time - Sexy Baby, Instant Noodles, The Imposter & NSA Love didn't have any published versions, and I wanted to make sure they were filmed. The main aim of this gig though was to record a live Version of 'The Wish E.P.'. Unfortunately, one of the songs, Ketamine Kim, didn't record properly, and we replaced it with an improptu jam with my tutor and mentor Colin Dudman. Highlights for me were 'Sexy Baby', 'Let's Pretend', 'Whole Lotta Shakin', 'Good Times & NSA Love' and 'Commercial Christmas Song'.<br>
+This set features a lot of songs I didn't have footage of at the time - Sexy Baby, Instant Noodles, The Imposter & NSA Love didn't have any published versions, and I wanted to make sure they were filmed. The main aim of this gig though was to record a live Version of 'The Wish E.P.'. Unfortunately, one of the songs, Ketamine Kim, didn't record properly, and we replaced it with an improptu jam with my tutor and mentor Colin Dudman. Highlights for me were 'Sexy Baby', 'Let's Pretend', 'Whole Lotta Shakin', 'Good Times & NSA Love' and 'Commercial Christmas Song'.<br><br>
 Set List:<br>
-Sexy Baby Blues<br>
-Instant Noodles<br>
-Let's Pretend<br>
-Whole Lotta Shakin' Going On (feat. Colin Dudman)<br>
-Lying On Your Bed<br>
-Rockstar (Ft. Casey Howden)<br>
-The Imposter<br>
-Good Times & NSA Love (ft. Steph Summerfield & Casey)<br>
-Commercial Christmas Song (ft. Steph Summerfield, Casey Howden, Experimental Sonic Machines, Richard Sylvester & Loz Green)<br>
+<a href="https://www.facebook.com/samofthex/">Sexy Baby Blues</a><br>
+<a href="https://www.facebook.com/samofthex/">Instant Noodles</a><br>
+<a href="https://www.facebook.com/samofthex/">Let's Pretend</a><br>
+<a href="https://www.facebook.com/samofthex/">Whole Lotta Shakin' Going On </a>(feat. Colin Dudman)<br>
+<a href="https://www.facebook.com/samofthex/">Lying On Your Bed</a><br>
+<a href="https://www.facebook.com/samofthex/">Rockstar </a>(Ft. Casey Howden)<br>
+<a href="https://www.facebook.com/samofthex/">The Imposter</a><br>
+<a href="https://www.facebook.com/samofthex/">Good Times & NSA Love </a>(ft. Steph Summerfield & Casey)<br>
+<a href="https://www.facebook.com/samofthex/">Commercial Christmas Song </a>(ft. Steph Summerfield, Casey Howden, Experimental Sonic Machines, Richard Sylvester & Loz Green)<br><br>
  Sam's set from the concert:<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Asn0sb6FpK8" frameborder="0" allowfullscreen></iframe>
  <br>
