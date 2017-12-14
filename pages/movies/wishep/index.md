@@ -37,13 +37,14 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 <a href="https://soundcloud.com/richard-the-fiddler">RICHARD SYLVESTER</a> - Richards has always been a great friend, and musical educator. His skills playing traditional music on the fiddle have lead us to enjoy many a gig playing together, and he features on the songs  <a href="https://youtu.be/tWTPK-vymFQ">'Good Times & NSA Love'</a> and <a href="https://youtu.be/7zW2UKTn-gM">'Young at heart'</a>
 
 41:18
-<a href="https://youtu.be/O4vCanHtutU">ANDREA FERGUESON</a> - Andrea would always be my first choice to play at any of my gigs. Not only is her songwriting and her voice mesmerising and inspiring to the dullest of audiences, but if it were not for Andrea, I may well not be a performer. It was at her who tempted me up onto the stage of the Golden Eagle's Open Mic Night in 2005. I owe her a great debt of gratitude, for being such a huge inspiration and encouragement. Andrea also teamed up with me for this cover of <a href="https://soundcloud.com/bob-cairns">'Thunderbird' (click to hear)</a> by our good friend <a href="https://youtu.be/rtuWfQoe0eo">Bob Cairns</a>Bob Cairns who founded the Jolly Brewer Open Mic. Lavish your ears with the blissfully dark 'Walking Barefoot in Berlin'. Thankyou Andrea!
+<a href="https://youtu.be/O4vCanHtutU">ANDREA FERGUESON</a> - Andrea would always be my first choice to play at any of my gigs. Not only is her songwriting and her voice mesmerising and inspiring to the dullest of audiences, but if it were not for Andrea, I may well not be a performer. It was at her who tempted me up onto the stage of the Golden Eagle's Open Mic Night in 2005. I owe her a great debt of gratitude, for being such a huge inspiration and encouragement. Andrea also teamed up with me for this cover of <a href="https://youtu.be/rtuWfQoe0eo">'Thunderbird' (click to hear)</a> by our good friend <a href="https://soundcloud.com/bob-cairns">Bob Cairns</a>Bob Cairns who founded the Jolly Brewer Open Mic. Lavish your ears with the blissfully dark 'Walking Barefoot in Berlin'. Thankyou Andrea!
 
 51:00
 <a href="https://www.facebook.com/tangoellerbymusic/">TANGO (Matt Ellerby)</a> - Matt - or Tango to just about the entire universe - hosts the Jolly Brewer Open Mic, and is a hard working patron of the Lincoln music scene. He's appeared with Strange Living on bass for several gigs, including our Mudfest set wehere our washing machine door broke (rock n roll problems). His guitar and vocal skills are legendary, and here he delivers two beautiful reworkings of classics - the second maybe a little unexpected!
 
 56:55
 <a href="https://www.facebook.com/samofthex/">SAM HARRISON</a><br>
+This set features a lot of songs I didn't have footage of at the time - Sexy Baby, Instant Noodles, The Imposter & NSA Love didn't have any published versions, and I wanted to make sure they were filmed. The main aim of this gig though was to record a live Version of 'The Wish E.P.'. Unfortunately, one of the songs, Ketamine Kim, didn't record properly, and we replaced it with an improptu jam with my tutor and mentor Colin Dudman. Highlights for me were 'Sexy Baby', 'Let's Pretend', 'Whole Lotta Shakin', 'Good Times & NSA Love' and 'Commercial Christmas Song'.<br>
 Set List:<br>
 Sexy Baby Blues<br>
 Instant Noodles<br>
@@ -55,7 +56,7 @@ The Imposter<br>
 Good Times & NSA Love (ft. Steph Summerfield & Casey)<br>
 Commercial Christmas Song (ft. Steph Summerfield, Casey Howden, Experimental Sonic Machines, Richard Sylvester & Loz Green)<br>
  Sam's set from the concert:<br>
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Asn0sb6FpK8" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Asn0sb6FpK8" frameborder="0" allowfullscreen></iframe>
  <br>
 
 
