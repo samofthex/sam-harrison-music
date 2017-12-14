@@ -48,6 +48,7 @@ Good Effort EP <br>
 Turnaround Trio E.P.<br>
 Arnie Weavers - Apart From Their Hearts (single)<br>
 Toxic Graffiti - Yesterday's Gone EP<br>
+Sacha Maran's 'Stick' E.P. <br>
 Si Pillinger - Angels & Halos EP<br>
 Hex - World of Confusion<br>
 Hex - Dark Side EP<br><br><br>
