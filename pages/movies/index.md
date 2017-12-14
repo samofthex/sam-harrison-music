@@ -12,7 +12,7 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://youtu.be/JK2jhnZVMZI">The Wish - live @ the Jolly Brewer</a>    - 2015<br>
+ <a href="http://samharrisonmusic.com/pages/movies/wishep/index">The Wish - live @ the Jolly Brewer</a>    - 2015<br>
  <a href="https://youtu.be/qxd_jckMoUI">The Secret Kitchen Gig</a>    - 2015<br>
  <a href="https://youtu.be/kUMhRcotOvY">John O Groat's to Lands End Tour Diary</a>   - 2014<br>
  <a href="https://youtu.be/Q-BxIYCpXXk">Live @ the Collection</a>  - 2015<br>
