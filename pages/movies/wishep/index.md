@@ -43,22 +43,19 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 <a href="https://www.facebook.com/tangoellerbymusic/">TANGO (Matt Ellerby)</a> - Matt - or Tango to just about the entire universe - hosts the Jolly Brewer Open Mic, and is a hard working patron of the Lincoln music scene. He's appeared with Strange Living on bass for several gigs, including our Mudfest set wehere our washing machine door broke (rock n roll problems). His guitar and vocal skills are legendary, and here he delivers two beautiful reworkings of classics - the second maybe a little unexpected!
 
 56:55
-<a href="https://www.facebook.com/samofthex/">SAM HARRISON</a>
-Set List:
-Sexy Baby Blues
-Instant Noodles
-Let's Pretend
-Whole Lotta Shakin' Going On (feat. Colin Dudman)
-Lying On Your Bed
-Rockstar (Ft. Casey Howden)
-The Imposter
-Good Times & NSA Love (ft. Steph Summerfield & Casey)
-Commercial Christmas Song (ft. Steph Summerfield, Casey Howden, Experimental Sonic Machines, Richard Sylvester & Loz Green)
-https://www.youtube.com/watch?v=Asn0sb6FpK8
-
-<br>
- The Wish live @ the Jolly Brewer:<br>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/JK2jhnZVMZI" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.facebook.com/samofthex/">SAM HARRISON</a><br>
+Set List:<br>
+Sexy Baby Blues<br>
+Instant Noodles<br>
+Let's Pretend<br>
+Whole Lotta Shakin' Going On (feat. Colin Dudman)<br>
+Lying On Your Bed<br>
+Rockstar (Ft. Casey Howden)<br>
+The Imposter<br>
+Good Times & NSA Love (ft. Steph Summerfield & Casey)<br>
+Commercial Christmas Song (ft. Steph Summerfield, Casey Howden, Experimental Sonic Machines, Richard Sylvester & Loz Green)<br>
+ Sam's set from the concert:<br>
+ <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Asn0sb6FpK8" frameborder="0" allowfullscreen></iframe>
  <br>
 
 
