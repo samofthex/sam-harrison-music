@@ -44,7 +44,7 @@ He found the Red Wave group filming at the Jolly Brewer Open Mic, studying at Li
 
 56:55
 <a href="https://www.facebook.com/samofthex/">SAM HARRISON</a><br>
-This set features a lot of songs I didn't have footage of at the time - Sexy Baby, Instant Noodles, The Imposter & NSA Love didn't have any published versions, and I wanted to make sure they were filmed. The main aim of this gig though was to record a live Version of 'The Wish E.P.'. Unfortunately, one of the songs, Ketamine Kim, didn't record properly, and we replaced it with an improptu jam with my tutor and mentor Colin Dudman. Highlights for me were 'Sexy Baby', 'Let's Pretend', 'Whole Lotta Shakin', 'Good Times & NSA Love' and 'Commercial Christmas Song'.<br><br>
+This set features a lot of songs I didn't have footage of at the time - Sexy Baby, Instant Noodles, The Imposter & NSA Love didn't have any published versions, and I wanted to make sure they were filmed. The main aim of this gig though was to record a live Version of 'The Wish E.P.'. Unfortunately, one of the songs, Ketamine Kim, didn't record properly, and we replaced it with an improptu jam with my tutor and mentor Colin Dudman <a href="https://youtu.be/RU9xW6M8WoA">(Click to hear his 'Study to be Quiet'</a> . Highlights for me were 'Sexy Baby', 'Let's Pretend', 'Whole Lotta Shakin', 'Good Times & NSA Love' and 'Commercial Christmas Song'.<br><br>
 Set List:<br>
 <a href="https://youtu.be/RU9xW6M8WoA">Sexy Baby Blues</a><br>
 <a href="https://youtu.be/uDboi2GO7Mc">Instant Noodles</a><br>
