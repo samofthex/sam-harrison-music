@@ -20,8 +20,8 @@ categories:
   <a href="https://youtu.be/padIFy7WP5k">6. Long Long Time</a><br>
 
 Buy Links:<br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">These Don't Work Yet x</a><br>
-  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">These Don't Work Yet x</a><br><br>
+  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">These Don't Work Yet x Check back in a week! x</a><br>
+  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">These Don't Work Yet x Check back in a week! x</a><br><br>
  
 Cosmos Full EP (Rough Mixes):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/YC8jQSkqqTo" frameborder="0" allowfullscreen></iframe><br> 
