@@ -14,6 +14,7 @@ categories:
 <a href="https://www.youtube.com/watch?v=e-ECBNarjMU&feature=youtu.be">A Tiger Named Tamara*</a><br>
 <a href="https://youtu.be/1KsYno1_i2Y">Anastasiia's Lullaby (Song to help you sleep)*</a><br>
  <a href="https://youtu.be/ccnQQqgBffM">Babylon Express*</a><br>
+ <a href="https://youtu.be/tgRg8Utb7q8">Be Gentle*</a><br>
  <a href="https://youtu.be/WKmRCFuqpUM">Better Than Me*</a><br>
    <a href="https://youtu.be/Zzyx5YHkYEQ">Blue Murder*</a><br>
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
@@ -29,7 +30,7 @@ categories:
 <a href="https://youtu.be/GcEeFouiq0w">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
-<a href="https://youtu.be/hxIqUwo248U">Distant Ships*</a><br>
+<a href="https://youtu.be/wO-7Wq90Gqk">Distant Ships*</a><br>
 <a href="https://youtu.be/WWcIWTS2Wmo">Don't Think*</a><br>
 <a href="https://youtu.be/k4Jl7bu1t7Y">Drama Queen*</a><br>
 <a href="https://youtu.be/4dhIjAe8h1c">The Dream Song*</a><br>
@@ -103,8 +104,10 @@ categories:
 <a href="https://soundcloud.com/samharrisonmusic/trash-mountain">Trash Mountain*</a><br>
 <a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
 <a href="https://youtu.be/4OMTLOEpYqo">The Wind *</a><br>
+<a href="https://www.youtube.com/watch?v=YR0WRS8f1i8">Wreckheads *</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
 <a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
+<a href="https://youtu.be/Koy9ro8lGfg">XXY *</a><br>
 <a href="https://youtu.be/I2RMlIEexhY">You Cant Resist It *</a><br>
 <a href="https://youtu.be/7zW2UKTn-gM">Young At Heart *</a><br>
 <a href="https://youtu.be/tymkRUdTdF8">Zombie Radio *</a><br>
