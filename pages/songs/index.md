@@ -67,6 +67,7 @@ categories:
 <a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/pTQau9qTrRI">Marco Polo*</a><br>
+<a href="">Midnight Stomp</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
 <a href="https://youtu.be/xEyFe7wwdbk">Music Women & Wine*</a><br>
@@ -76,6 +77,7 @@ categories:
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/remember">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
+<a href="">Runaway</a><br>
 <a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit*</a><br>
 <a href="https://youtu.be/nC_1PHvv4v8">Salome*</a><br>
