@@ -55,6 +55,7 @@ categories:
 <a href="https://youtu.be/uDboi2GO7Mc">Instant Noodles*</a><br>
 <a href="https://youtu.be/w6Lwj_k5woU">Jackie D*</a><br>
 <a href="https://youtu.be/nQ7hXwR3SGg">Jane Doe*</a><br>
+<a href="https://youtu.be/LdKVpnZc9tU">Jennifer Simone*</a><br>
 <a href="https://youtu.be/u2Y9kdNbKhg">Jen's Song*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
