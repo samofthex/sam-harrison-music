@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "thewishbanner.jpg"
+   image_fullwidth: "cosmosonyourlegbanner.jpg"
 layout: page
 show_meta: false
 title: The Cosmos On Your Leg
