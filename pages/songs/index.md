@@ -25,6 +25,7 @@ categories:
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/credit-rough-mix">Credit</a><br>
+<a href="">Cut from the Bone</a><br>
 <a href="https://youtu.be/GcEeFouiq0w">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
@@ -67,6 +68,7 @@ categories:
 <a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/pTQau9qTrRI">Marco Polo*</a><br>
+<a href="">Menstrual Blood</a><br>
 <a href="">Midnight Stomp</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
