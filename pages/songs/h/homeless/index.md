@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "ifeellikejeremycorbynbanner.jpg"
+   image_fullwidth: "consumeristbanner.jpg"
 layout: page
 show_meta: false
 title: Homeless (Lyrics + Video)
@@ -15,7 +15,6 @@ categories:
 
 HOMELESS:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FiDCCZSJwEc" frameborder="0" allowfullscreen></iframe><br>
-<br>
 Can you spare a little change?<br>
 Cause underneath this blanket is a human<br>
 Can you spare a little change?<br>
