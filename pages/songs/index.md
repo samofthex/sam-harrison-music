@@ -47,7 +47,7 @@ categories:
 <a href="https://youtu.be/fFsNwcpCrH0">Half a Hero*</a><br>
  <a href="https://youtu.be/sC91etyLdLI">Happiness*</a><br>
 <a href="https://youtu.be/vJAWt7MCrkE">The Hawk*</a><br>
-<a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Homeless</a><br>
+<a href="http://samharrisonmusic.com/pages/songs/h/homeless">Homeless</a><br>
 <a href="https://youtu.be/QtD6LdpgI8A">Holy Dancer*</a><br>
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="http://samharrisonmusic.com/pages/songs/i/ifeellikejeremycorbyn/">I Feel Like Jeremy Corbyn*</a><br>
