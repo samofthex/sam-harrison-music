@@ -19,7 +19,8 @@ categories:
    <a href="https://youtu.be/Zzyx5YHkYEQ">Blue Murder*</a><br>
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
-<a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up*</a><br>
+<a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up *</a><br>
+<a href="https://youtu.be/dbshcYbsftw">Butterfly Me (demo) *</a><br>
 <a href="https://youtu.be/aa3fQ4DJp2c">Ciaran's Hair *</a><br>
 <a href="https://www.youtube.com/watch?v=B_l6jh4y2sM">The Charlatan*</a><br>
 <a href="https://youtu.be/Qlum8PiD8lw">Cheese On Toast*</a><br>
@@ -37,6 +38,7 @@ categories:
 <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://youtu.be/OeMMpBmCI8I">Emily*</a><br>
 <a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
+<a href="https://youtu.be/1gEY9TRis0A">Fear (demo) *</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/fubsy-eyes-mix-3">Fubsy Eyes *</a><br>
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
 <a href="https://youtu.be/wX5XT4RO9s8">Good Time*</a><br>
@@ -102,6 +104,7 @@ categories:
 <a href="https://youtu.be/q03ZkePc_k0">Subscribe Song*</a><br>
 <a href="https://youtu.be/vOxALcpE_Ag">Subterfuge*</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
+<a href="https://youtu.be/fpKMnmqolJM">Tantric Sex *</a><br>
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/trash-mountain">Trash Mountain*</a><br>
 <a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
@@ -111,8 +114,8 @@ categories:
 <a href="https://youtu.be/pMAToTakLBI">Wonder of the Year *</a><br>
 <a href="https://youtu.be/Koy9ro8lGfg">XXY *</a><br>
 <a href="https://youtu.be/I2RMlIEexhY">You Cant Resist It *</a><br>
+<a href="https://youtu.be/sJf8rxufOQQ">You Don't Own Me (demo) *</a><br>
 <a href="https://youtu.be/7zW2UKTn-gM">Young At Heart *</a><br>
 <a href="https://youtu.be/tymkRUdTdF8">Zombie Radio *</a><br>
-
 
 
