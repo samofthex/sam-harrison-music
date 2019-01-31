@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "strangeliving.jpg"
+   image_fullwidth: "strangelivingsbddbanner.jpg"
 layout: page
 show_meta: false
 title: Let's Go! (Lyrics + Video)
