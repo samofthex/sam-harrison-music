@@ -1,11 +1,11 @@
 ---
 header:
-   image_fullwidth: "strangeliving.jpg"
+   image_fullwidth: "consumeristbanner.jpg"
 layout: page
 show_meta: false
-title: Let's Go! (Lyrics + Video)
-subheadline: "2019"
-teaser: "A song about escaping modern life - becoming a bit of a theme for Sam. Also, about escaping into nature and living in a van, two of Sam's fantasies."
+title: Homeless (Lyrics + Video)
+subheadline: "2016"
+teaser: "From the musical 'The Consumerist', this song is from the perspective of a homeless man - inspired by a quote from Charle's Dicken's 'Bleak House', 'Children of the dust shine equally'."
 tags:
     - post format
 categories:
@@ -13,71 +13,60 @@ categories:
 ---
 <!--more-->
 
-LET'S GO:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YgszUsuD19A" frameborder="0" allowfullscreen></iframe><br>
-I’ve been working hard<br>
-I’ve travelled many miles<br>
-I earned a lot of money<br>
-But it didn’t make me smile<br>
-Barclay’s and Lloyds<br>
-And HSBC<br>
-All the money in the world<br>
-And you wont catch me<br>
+HOMELESS:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FiDCCZSJwEc" frameborder="0" allowfullscreen></iframe><br>
+Can you spare a little change?<br>
+Cause underneath this blanket is a human<br>
+Can you spare a little change?<br>
+Can you see me?<br>
+Could you need me?<br>
+Cause god I need you now<br><br>
+
+If you looked into my eyes<br>
+Could you ever meet me as an equal<br>
+If I unraveled my life<br>
+Could you trust me?<br>
+Could you hold me?<br>
+Cause god I need you now<br>
 <br>
-I’m going where there’s no phone signal and no facebook<br>
-There’ll be no McDonalds and I won’t give a fuck<br>
-There’ll be deep clean rivers and sweet fresh air<br>
-And if you climb up on my back then I will take you there<br>
+We are the children of the dust<br>
+And we know you<br>
+And we feel you<br>
+But still you walk on by<br>
+We are the children of the dust<br>
+And we’re fading<br>
+And we’re breaking<br>
+And this cold will dull our shine<br>
+On this piercing wretched night<br>
+This cold will dull my shine<br>
 <br>
-The wind up in the trees<br>
-Will ease your troubled brain<br>
-And the water on my skin<br>
-Will wash away my pain<br>
-We wont need our clothes<br>
-And we won’t need our phones<br>
-We’ll curl up in the night<br>
-And warm each others bones<br>
+If I took off all my clothes<br>
+Could you ever see me as a person?<br>
+Shrivelled skin and shrunken bones<br>
+Would me tears<br>
+Speak my years?<br>
+Could you ever grant me a home?<br>
 <br>
-I’m going where there’s no phone signal and no facebook<br>
-There’ll be no McDonalds and I won’t give a fuck<br>
-There’ll be deep clean rivers and sweet fresh air<br>
-And if you climb up on my back then I will take you there<br>
+Could I ever start again?<br>
+Cause I’m thinner and I’m feinter than an angel<br>
+I can barely move my hands<br>
+My mistake’s<br>
+Rolling snakes<br>
+Would I scare you if I called you my friend?<br>
 <br>
-Twitter will survive<br>
-Without you and me<br>
-There’s plenty more hatefish<br>
-In the hashtag sea<br>
-Facebook wont miss us<br>
-When it shares more lies<br>
-We’ll get our notification<br>
-From our mouths and eyes<br>
+We are the children of the dust...<br>
 <br>
-I’m going where there’s no phone signal and no facebook<br>
-There’ll be no McDonalds and I won’t give a fuck<br>
-There’ll be deep clean rivers and sweet fresh air<br>
-And if you climb up on my back then I will take you there<br>
-<br>
-Donald J Trump<br>
-Will loose his appeal<br>
-And Theresa May<br>
-Will go back to her wheatfield<br>
-Still we won’t go back<br>
-When our friends hear our song<br>
-They’ll pack all their bags<br>
-And then they’ll come along<br>
-<br>
-There’ll be no more Tescos<br>
-And no Starbucks<br>
-There’ll be no Daily Mail<br>
-And I wont give a fuck<br>
-There’ll be deep clean rivers and sweet fresh air<br>
-And if you climb up in my Kombi I will take you there<br>
-<br>
+On this piercing wretched night<br>
+This cold will kill my light<br>
+<br><br>
+
 Buy Links:<br>
-  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">This Doesn't Currently Work</a><br>
-   <a href="https://www.amazon.co.uk/Consumerist-Pt-1-Sam-Harrison/dp/B074SW4XFG/">This Doesn't Currently Work</a><br>
-    <a href="https://play.google.com/store/music/album?id=Bijknuyth53lgutmv5kxizli25m&tid=song-Tklxgwm4deb2os36pghckvj547u">This Doesn't Currently Work</a><br>
-     <a href="http://www.deezer.com/us/album/46281582">This Doesn't Currently Work</a><br>
-     <a href="https://open.spotify.com/album/3qBha98n0OMwP4xAwMkm3s">This Doesn't Currently Work</a><br>
+  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">iTunes</a><br>
+   <a href="https://www.amazon.co.uk/Consumerist-Pt-1-Sam-Harrison/dp/B074SW4XFG/">Amazon</a><br>
+    <a href="https://play.google.com/store/music/album?id=Bijknuyth53lgutmv5kxizli25m&tid=song-Tklxgwm4deb2os36pghckvj547u">Google Play</a><br>
+     <a href="http://www.deezer.com/us/album/46281582">Deezer</a><br>
+     <a href="https://open.spotify.com/album/3qBha98n0OMwP4xAwMkm3s">Spotify</a><br>
 <br>
 
+ Homeless (Original Demo):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IJfBDAVjjGw" frameborder="0" allowfullscreen></iframe><br>
