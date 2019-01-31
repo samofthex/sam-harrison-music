@@ -67,7 +67,7 @@ categories:
    <a href="https://youtu.be/GpVycO3qD4Q">The L Word*</a><br>
   <a href="https://youtu.be/WSEHDA9i908">Lemonade*</a><br>
   <a href="https://www.youtube.com/watch?v=QYsAunmdxAU">Left Behind*</a><br>
-  <a href="https://youtu.be/YgszUsuD19A">Let's Go*</a><br>
+  <a href="http://samharrisonmusic.com/pages/songs/l/lets-go/index.md">Let's Go*</a><br>
 <a href="https://youtu.be/yDRvgxD2JyI">Let's Pretend*</a><br>
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
 <a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
