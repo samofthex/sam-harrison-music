@@ -17,17 +17,14 @@ categories:
  <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">3. Bodies</a><br>
  <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">4. Instant Noodles</a><br>
  
-
-
 Buy Links:<br>
    <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">iTunes</a><br><br>
  Jennifer Simone (Vizualiser):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yoPn97u8-lI" frameborder="0" allowfullscreen></iframe><br> 
-  Let's Pretend (Animated Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yDRvgxD2JyI" frameborder="0" allowfullscreen></iframe><br> 
-   Ketmaine Kim (Live Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qe0MWBvZl5A" frameborder="0" allowfullscreen></iframe><br> 
-     Rockstar (Live Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zstZae9SFGI" frameborder="0" allowfullscreen></iframe><br> 
-     Let's Pretend (Live Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5DGYQ5tHVKQ" frameborder="0" allowfullscreen></iframe><br> 
+ Instant Noodles (Vizualiser):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ib9eI6CPxic" frameborder="0" allowfullscreen></iframe><br> 
+ Jennifer Simone (Live Studio Video) - Same & Beth:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mPz0_GCjOME" frameborder="0" allowfullscreen></iframe><br> 
+ Instant Noodles - Sam Harrison (Live @ the Jolly Brewer):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uDboi2GO7Mc" frameborder="0" allowfullscreen></iframe><br> 
+ 
