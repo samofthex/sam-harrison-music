@@ -1,28 +1,28 @@
 ---
 header:
-   image_fullwidth: "thewishbanner.jpg"
+   image_fullwidth: "energyefficient.jpg"
 layout: page
 show_meta: false
-title: The Wish
-subheadline: "2013"
-teaser: "The Wish was recorded on a 1960's  Scully 8-Track Tape Machine, using old school recording techniques. Available on Vinyl..."
+title: Energy Efficient EP
+subheadline: "2017"
+teaser: "The Society of Strange Living's Debut E.P., made in Sam's home studio. It features trumpet from Joe Davies. Dan Collins and Bethany Durrant joined the band mid record, just in time to make it super awesome! The washing machine cover art "
 tags:
     - post format
 categories:
     - design 
 ---
 <!--more-->
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">1. Intro</a><br>
- <a href="https://youtu.be/yDRvgxD2JyI">2. Let's Pretend*</a><br>
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">3. Ketamine Kim</a><br>
- <a href="https://youtu.be/Tmn6Moxiw5M">4. Lying on Your Bed*</a><br>
- <a href="https://youtu.be/padIFy7WP5k">5. Rockstar*</a><br>
+ <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">1. The Pack</a><br>
+ <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">2. Jennifer Simone</a><br>
+ <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">3. Bodies</a><br>
+ <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">4. Instant Noodles</a><br>
+ 
+
 
 Buy Links:<br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">Bandcamp</a><br>
-  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">iTunes</a><br><br>
-  Lying On Your Bed (Music Video):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tmn6Moxiw5M" frameborder="0" allowfullscreen></iframe><br> 
+   <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">iTunes</a><br><br>
+ Jennifer Simone (Vizualiser):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yoPn97u8-lI" frameborder="0" allowfullscreen></iframe><br> 
   Let's Pretend (Animated Video):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yDRvgxD2JyI" frameborder="0" allowfullscreen></iframe><br> 
    Ketmaine Kim (Live Video):<br>
