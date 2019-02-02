@@ -31,13 +31,15 @@ categories:
 <br>
    Demo Albums:<br>
    Melodic Revolutions (2005)<br>
-   Liqourice Park (2006)<br>
+     Liqourice Park (2006)<br>
    Domino Souls (2006)<br>
    Noel (the musical - 2007)<br>
    Forbidden Fruit (2007)<br>
    The Chad Varah Story (2008)<br>
-   
-   
+   Lead Wings (2004)<br>
+   Billy J. Single (2005)<br>
+   Girl Dya Wanna (2006)<br>
+ 
 <br>
 Production Credits:<br><br>
 The Breakfast Club - Car Crashes & Part Time Lesbians<br>
