@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Liquorice Park
 subheadline: "2006"
-teaser: "'Aged 16, I made my third homebrew album. My writing was getting weirder, including a three part suite about being bullied at school, a song for Ukrainian feral child Oxana Malayam, anti-fur political songs, a continuation of my obsession with angels, and an a capella vocal piece about the world being taken over by fish. Did I mention I was a very strange child? My favourite on this record is 'Licking Wounds', a minute long song about talking to a girl I fancied on MSN messenger in the middle of the night.  I guess that's a song only a 16 year old teen boy could write...'"
+teaser: "'Aged 16, I made my third homebrew album. My writing was getting weirder, including a three part suite about being bullied at school, a song for Ukrainian feral child Oxana Malaya, anti-fur political songs, a continuation of my obsession with angels, and an a capella vocal piece about the world being taken over by fish. Did I mention I was a very strange child? My favourite on this record is 'Licking Wounds', a minute long song about talking to a girl I fancied on MSN messenger in the middle of the night.  I guess that's a song only a 16 year old teen boy could write...'"
 tags:
     - post format
 categories:
