@@ -38,7 +38,7 @@ categories:
    The Chad Varah Story (2008)<br>
    Lead Wings (2004)<br>
    Billy J. Single (2005)<br>
-   Girl Dya Wanna (2006)<br>
+   Girl Dya Wanna Single (2006)<br>
  
 <br>
 Production Credits:<br><br>
