@@ -30,8 +30,8 @@ categories:
    <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/album/">The Satisfaction (2009)</a><br>
 <br>
    Demo Albums:<br>
-   Melodic Revolutions (2005)<br>
-     Liqourice Park (2006)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/Melodic Revolutions/">Melodic Revolutions (2005)</a><br>
+   <a href="http://samharrisonmusic.com/pages/discog/Liquorice Park/">Liqourice Park (2006)</a><br>
    Domino Souls (2006)<br>
    Noel (the musical - 2007)<br>
    Forbidden Fruit (2007)<br>
@@ -42,8 +42,8 @@ categories:
  
 <br>
 Production Credits:<br><br>
-The Breakfast Club - Car Crashes & Part Time Lesbians<br>
-The Breakfast Club - Surrounded by Autism & Comforting Lights<br>
+<a href="http://samharrisonmusic.com/pages/discog/breakfastclub/carcrashes/">The Breakfast Club - Car Crashes & Part Time Lesbians</a><br>
+<a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">The Breakfast Club - Surrounded by Autism & Comforting Lights</a><br>
 Nick William - Self Telepathy<br>
 Sunshine Poet - Colour Surround<br>
 Tom Cairns - The Stand EP<br>
