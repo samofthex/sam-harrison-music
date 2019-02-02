@@ -3,7 +3,7 @@ layout: page
 title: "Video"
 teaser: ""
 header:
-    image_fullwidth: "bannermedia1.jpg"
+    image_fullwidth: "Bannermedia1.jpg"
     permalink: /blog/
 ---
 
