@@ -30,7 +30,7 @@ categories:
    <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/album/">The Satisfaction (2009)</a><br>
 <br>
    Demo Albums:<br>
-   <a href="http://samharrisonmusic.com/pages/discog/melodicrevolutions/">Melodic Revolutions (2005)</a><br>
+   <a href="http://samharrisonmusic.com/pages/discog/melodic_revolutions/">Melodic Revolutions (2005)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/liquoricepark/">Liqourice Park (2006)</a><br>
    Domino Souls (2006)<br>
    Noel (the musical - 2007)<br>
