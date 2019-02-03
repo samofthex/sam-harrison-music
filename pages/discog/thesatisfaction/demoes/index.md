@@ -19,7 +19,7 @@ Buy Links:<br>
 This album is not available to purchase, but you can listen to the album in full below ;)<br>
 <br>
 The Satisfaction EP - Listen in full!:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4T5B_NnM_z8" frameborder="0" allowfullscreen></iframe><br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WzGmy7rr8iU" frameborder="0" allowfullscreen></iframe><br>
 Kinks & Tickles Demo (Recording @ Fortress Pics):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lDR38hQd1J4" frameborder="0" allowfullscreen></iframe><br>
  Darkness (Rehearshal Video):<br>
