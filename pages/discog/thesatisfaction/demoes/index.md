@@ -10,10 +10,10 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://youtu.be/Mkpo5tnKkok">1. Oxana*</a><br>
-  <a href="https://youtu.be/WSEHDA9i908">6. Lemonade*</a><br>
-  <a href="https://youtu.be/x5LghONf27s">7. Kinks & Tickles*</a><br>
-  <a href="https://youtu.be/Zzyx5YHkYEQ">11. Blue Murder*</a><br>
+ <a href="https://youtu.be/WzGmy7rr8iU">1. Oxana*</a><br>
+  <a href="https://youtu.be/WzGmy7rr8iU">6. Lemonade*</a><br>
+  <a href="https://youtu.be/WzGmy7rr8iU">7. Kinks & Tickles*</a><br>
+  <a href="https://youtu.be/WzGmy7rr8iU">11. Blue Murder*</a><br>
 
 Buy Links:<br>
 This album is not available to purchase, but you can listen to the album in full below ;)<br>
