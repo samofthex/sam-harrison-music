@@ -12,16 +12,17 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">1. Midnight Stomp</a><br>
- <a href="https://youtu.be/yDRvgxD2JyI">2. Runaway</a><br>
- <a href="https://longhairedmusic.bandcamp.com/album/the-wish">3. Menstrual Blood</a><br>
- <a href="https://youtu.be/Tmn6Moxiw5M">4. Cut from the Bone</a><br>
- <a href="https://youtu.be/padIFy7WP5k">5. Zombie Radio</a><br>
-  <a href="https://youtu.be/padIFy7WP5k">6. Long Long Time</a><br>
+ <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">1. Midnight Stomp</a><br>
+ <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">2. Runaway</a><br>
+ <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">3. Menstrual Blood</a><br>
+ <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">4. Cut from the Bone</a><br>
+ <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">5. Zombie Radio</a><br>
+  <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">6. Long Long Time</a><br>
 
 Buy Links:<br>
-  <a href="https://longhairedmusic.bandcamp.com/album/the-wish">These Don't Work Yet x Check back in a week! x</a><br>
-  <a href="https://itunes.apple.com/us/album/the-wish-ep/id688008076">These Don't Work Yet x Check back in a week! x</a><br><br>
+  <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/"></a><br>
+  <a href="https://open.spotify.com/album/4tDuJ9djDp7cHvtqZloPco">Spotify</a><br>
+<br>
  
 Cosmos Full EP (Rough Mixes):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/YC8jQSkqqTo" frameborder="0" allowfullscreen></iframe><br> 
