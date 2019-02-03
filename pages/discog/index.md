@@ -35,7 +35,7 @@ categories:
    Domino Souls (2006)<br>
    Noel (the musical - 2007)<br>
    Forbidden Fruit (2007)<br>
-   The Chad Varah Story (2008)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/chadvarahstory/">The Chad Varah Story (2008)<br>
    Lead Wings (2004)<br>
    Billy J. Single (2005)<br>
    Girl Dya Wanna Single (2006)<br>
