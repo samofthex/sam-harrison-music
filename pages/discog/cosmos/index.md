@@ -20,7 +20,7 @@ categories:
   <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">6. Long Long Time</a><br>
 
 Buy Links:<br>
-  <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/"></a><br>
+  <a href="https://www.amazon.com/Cosmos-Your-Leg-Sam-Harrison/dp/B07N89RHBX/">Amazon</a><br>
   <a href="https://open.spotify.com/album/4tDuJ9djDp7cHvtqZloPco">Spotify</a><br>
 <br>
  
