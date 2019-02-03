@@ -13,7 +13,6 @@ categories:
 ---
 <!--more-->
  <a href="http://samharrisonmusic.com/pages/discog/cosmos/">The Cosmos On Your Leg (2019)</a><br>
-  <a href="http://samharrisonmusic.com/pages/discog/energyefficientep/">Energy Efficient E.P. - Society of Strange Living (2018)</a><br>
  <a href="http://samharrisonmusic.com/pages/discog/theconsumerist/">The Consumerist Prt. 1 (2017)</a><br>
   <a href="http://samharrisonmusic.com/pages/discog/thewish/">The Wish (2013)</a><br>
  <a href="http://samharrisonmusic.com/pages/discog/yeshardfeelings/">Yes Hard Feelings (2011)</a><br>
