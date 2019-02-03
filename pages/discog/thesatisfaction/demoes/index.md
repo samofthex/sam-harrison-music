@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "thesatisfactionepbanner.jpg"
+   image_fullwidth: "satisfactiondemoepbanner.jpg"
 title: The Satisfaction
 subheadline: "2008"
 teaser: "'The Satisfaction's dirty little Demo E.P. - We were all 18 years old, recording in our back room, no idea what we were doing. Listening back to this E.P., it's not too bad! I know it gained us a fan, who we cherished - we would never find a second! :D'"
