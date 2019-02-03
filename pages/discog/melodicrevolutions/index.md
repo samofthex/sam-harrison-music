@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "melodicrevolutions.jpg"
+   image_fullwidth: "melodicrevolutionsbanner.jpg"
 layout: page
 show_meta: false
 title: Melodic Revolutions
