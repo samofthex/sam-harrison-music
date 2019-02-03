@@ -33,9 +33,9 @@ categories:
    <a href="http://samharrisonmusic.com/pages/discog/melodicrevolutions/">Melodic Revolutions (2005)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/liquoricepark/">Liqourice Park (2006)</a><br>
    Domino Souls (2006)<br>
-   <a href="http://samharrisonmusic.com/pages/discog/noel/">Noel (the musical - 2007)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/noel/">Noel (the musical - 2007)</a><br>
    Forbidden Fruit (2007)<br>
-   <a href="http://samharrisonmusic.com/pages/discog/chadvarahstory/">The Chad Varah Story (2008)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/chadvarahstory/">The Chad Varah Story (2008)</a><br>
    Lead Wings (2004)<br>
    Billy J. Single (2005)<br>
    Girl Dya Wanna Single (2006)<br>
