@@ -33,7 +33,7 @@ categories:
    <a href="http://samharrisonmusic.com/pages/discog/melodicrevolutions/">Melodic Revolutions (2005)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/liquoricepark/">Liqourice Park (2006)</a><br>
    Domino Souls (2006)<br>
-   Noel (the musical - 2007)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/noel/">Noel (the musical - 2007)<br>
    Forbidden Fruit (2007)<br>
    <a href="http://samharrisonmusic.com/pages/discog/chadvarahstory/">The Chad Varah Story (2008)<br>
    Lead Wings (2004)<br>
