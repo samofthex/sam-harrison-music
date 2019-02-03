@@ -28,6 +28,7 @@ categories:
   <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">Surrounded by Autism & Comforting Lights (2011)</a><br><br>
    with The Satisfaction:<br>
    <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/album/">The Satisfaction (2009)</a><br>
+   <a href="http://samharrisonmusic.com/pages/discog/thesatisfaction/demoes/">Sketchy Sounds Demo E.P. (2008)</a><br>
 <br>
    Demo Albums:<br>
    <a href="http://samharrisonmusic.com/pages/discog/melodicrevolutions/">Melodic Revolutions (2005)</a><br>
