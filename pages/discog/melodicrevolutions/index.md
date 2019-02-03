@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Melodic Revolutions
 subheadline: "2005"
-teaser: "'Aged 15, I made my second home-brew bedroom studio album. Although adults encouraged me with my ideas, I recorded everything and played all the instruments myself. This is I think my favourite of all the demo albums, because it's pretty weird and experimental, but kind of coherant. Nobody was there to tell me what right or wrong was, so I did what felt right, and with help with of a copy of Cubase from my big bro and some funky plug ins, I decided it was time for me to become an indie record label. Some of the stuff I was writing sounded distinctly unteenage..."
+teaser: "'Aged 15, I made my second home-brew bedroom studio album. Although adults did encouraged me with my ideas, I recorded everything and played all the instruments myself, learning by fiddling. This is I think my favourite of all the demo albums, because it's pretty weird and experimental, but kind of coherant. Nobody was there to tell me what right or wrong was, so I did what felt right, and with help with of a copy of Cubase from my big bro and some funky plug ins, I decided it was time for me to become an indie record label. Some of the stuff I was writing sounded distinctly unteenage..."
 tags:
     - post format
 categories:
