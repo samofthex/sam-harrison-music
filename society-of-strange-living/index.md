@@ -59,7 +59,7 @@ gallery:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cRWOtI9tDh8" frameborder="0" allowfullscreen></iframe>
 ## About the band...
 
-> The Society of Strange Living are: Sam Harrison, Danny Krash, Paul Dumbell & Bethany Durrant - Commited to making really different and interesting new music, the band are laying down the last tracks on their debut EP, expected March 2017. Although they've only been together for a year and a  bit, they've already played countless gigs, played Landed Festival, Mudfest and even put on their own 'Strange Living Festival', a two day jaunt raising money to care for refugees living in the Dunkirk camps. Recently adding local artist, singer and general bad-ass Bethany Durrant to the surreal clan, SOSL are heading to your town soon, so get on board the never ending party train! xxx
+> The Society of Strange Living are: Sam Harrison, Bethany Durrant, Dan Collins and Danny Krash - We play crazy catchy songs, featuring three part vocal harmonies, off the wall lyrics and percussion on Ginger, the world’s only ‘Washing Machine Drum Kit’. Our debut E.P. 'Energy Efficient' came out last year, to positive acclaim. We've been together for a couple of years and have played countless gigs, played Landed Festival, Mudfest, Nexus and even put on their own 'Strange Living Festival', a two day jaunt raising money to care for refugees living in the Dunkirk camps. With Ginger, our washing machine drum-kit, we grab people’s curiosity, but they stay for the songs, the positivity and the atmosphere. From a solar powered yurt to the biggest stage, we’ll give give our audience a strange a beautiful glow, that comes as a guarentee!  xxx
 
 
 
