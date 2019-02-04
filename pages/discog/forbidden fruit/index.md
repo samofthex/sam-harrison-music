@@ -30,10 +30,10 @@ categories:
   <a href="">15. Lemon Street</a><br>
   <a href="">16. Sheep</a><br>
   <a href="">17. T.V. Song (Cathode ray)</a><br>
-  <a href="">18. </a><br>
+  <a href="">18. Close of the Circus</a><br>
   <a href="">19. Massacre of a Million Hearts</a><br>
   <a href="">20. Who Do You Reckon You Are</a><br>
-  <a href="">21. Kiddeo</a><br>
+  <a href="">21. Kiddo</a><br>
   <a href="">22. Fairchild</a><br>
   <a href="">23. Splicing Minds</a><br>
   <a href="">24. Children of Britain</a><br>
@@ -45,14 +45,8 @@ categories:
 
 
 Buy Links:<br>
-  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">iTunes</a><br>
-   <a href="https://www.amazon.co.uk/Consumerist-Pt-1-Sam-Harrison/dp/B074SW4XFG/">Amazon</a><br>
-    <a href="https://play.google.com/store/music/album?id=Bijknuyth53lgutmv5kxizli25m&tid=song-Tklxgwm4deb2os36pghckvj547u">Google Play</a><br>
-     <a href="http://www.deezer.com/us/album/46281582">Deezer</a><br>
-     <a href="https://open.spotify.com/album/3qBha98n0OMwP4xAwMkm3s">Spotify</a><br>
+  <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">Sadly, this album isn't available to buy - but please buy some of our other lovely records! x Just click this link x</a><br>
+
 <br>
  Kickstarter Video:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nUOizyHPPg4" frameborder="0" allowfullscreen></iframe>
-<br>
- 'Don't Think' Video:<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WWcIWTS2Wmo" frameborder="0" allowfullscreen></iframe>
