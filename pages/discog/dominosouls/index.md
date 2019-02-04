@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "dominosousbanner.jpg"
+   image_fullwidth: "dominosoulsbanner.jpg"
 layout: page
 show_meta: false
 title: Domino Souls
