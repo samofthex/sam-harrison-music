@@ -25,9 +25,9 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/Koy9ro8lG
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/viif2vhaSUM"
-    contentURL: "https://www.youtube.com/watch?v=viif2vhaSUM"
-    thumbnailUrl: "http://img.youtube.com/vi/viif2vhaSUM/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/Koy9ro8lGfg"
+    contentURL: "https://www.youtube.com/watch?v=Koy9ro8lGfg"
+    thumbnailUrl: "http://img.youtube.com/vi/Koy9ro8lGfg/maxresdefault.jpg"
 gallery:
     - image_url: society-of-strange-living/societyofstrangelivingpic1.jpg
       caption: Great images by Unsplash.com
