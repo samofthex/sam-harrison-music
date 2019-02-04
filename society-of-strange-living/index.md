@@ -55,8 +55,8 @@ gallery:
       caption: Great images by Unsplash.com      
 ---
 <!--more-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OYtxwzHIaPM" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5xWSVdK4qZk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/viif2vhaSUM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRWOtI9tDh8" frameborder="0" allowfullscreen></iframe>
 ## About the band...
 
 > The Society of Strange Living are: Sam Harrison, Danny Krash, Paul Dumbell & Bethany Durrant - Commited to making really different and interesting new music, the band are laying down the last tracks on their debut EP, expected March 2017. Although they've only been together for a year and a  bit, they've already played countless gigs, played Landed Festival, Mudfest and even put on their own 'Strange Living Festival', a two day jaunt raising money to care for refugees living in the Dunkirk camps. Recently adding local artist, singer and general bad-ass Bethany Durrant to the surreal clan, SOSL are heading to your town soon, so get on board the never ending party train! xxx
