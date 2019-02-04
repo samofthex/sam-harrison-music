@@ -57,15 +57,18 @@ gallery:
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viif2vhaSUM" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cRWOtI9tDh8" frameborder="0" allowfullscreen></iframe><br>
-## About the band...
-
-> The Society of Strange Living are: Sam Harrison, Bethany Durrant, Dan Collins and Danny Krash - We play crazy catchy songs, featuring three part vocal harmonies, off the wall lyrics and percussion on Ginger, the world’s only ‘Washing Machine Drum Kit’. Our debut E.P. 'Energy Efficient' came out last year, to positive acclaim. We've been together for a couple of years and have played countless gigs, played Landed Festival, Mudfest, Nexus and even put on their own 'Strange Living Festival', a two day jaunt raising money to care for refugees living in the Dunkirk camps. With Ginger, our washing machine drum-kit, we grab people’s curiosity, but they stay for the songs, the positivity and the atmosphere. From a solar powered yurt to the biggest stage, we’ll give give our audience a strange a beautiful glow, that comes as a guarentee!  xxx<br><br>
 
 Buy Links:<br>
    <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">iTunes</a><br>
       <a href="https://www.amazon.com/Energy-Efficient-Explicit-Society-Strange/dp/B07G4P7QVQ/">Amazon</a><br><br>
  Jennifer Simone (Vizualiser):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yoPn97u8-lI" frameborder="0" allowfullscreen></iframe><br> 
+
+## About the band...
+
+> The Society of Strange Living are: Sam Harrison, Bethany Durrant, Dan Collins and Danny Krash - We play crazy catchy songs, featuring three part vocal harmonies, off the wall lyrics and percussion on Ginger, the world’s only ‘Washing Machine Drum Kit’. Our debut E.P. 'Energy Efficient' came out last year, to positive acclaim. We've been together for a couple of years and have played countless gigs, played Landed Festival, Mudfest, Nexus and even put on their own 'Strange Living Festival', a two day jaunt raising money to care for refugees living in the Dunkirk camps. With Ginger, our washing machine drum-kit, we grab people’s curiosity, but they stay for the songs, the positivity and the atmosphere. From a solar powered yurt to the biggest stage, we’ll give give our audience a strange a beautiful glow, that comes as a guarentee!  xxx<br><br>
+
+
 
 
 {% include gallery %}
