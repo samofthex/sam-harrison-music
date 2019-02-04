@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "Liquorice Park.jpg"
+   image_fullwidth: "liquoriceparkbanner.jpg"
 layout: page
 show_meta: false
 title: Liquorice Park
