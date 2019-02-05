@@ -34,9 +34,9 @@ categories:
    <a href="http://samharrisonmusic.com/pages/discog/liquoricepark/">Liqourice Park (2006)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/dominosouls/">Domino Souls (2006)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/noel/">Noel (the musical - 2007)</a><br>
-   Forbidden Fruit (2007)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/forbiddenfruit/">Forbidden Fruit (2007)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/chadvarahstory/">The Chad Varah Story (2008)</a><br>
-   Lead Wings (2004)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/leadwings/">Lead Wings (2004)</a><br>
    Billy J. Single (2005)<br>
    Girl Dya Wanna Single (2006)<br>
  
