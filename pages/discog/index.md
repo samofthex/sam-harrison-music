@@ -37,8 +37,8 @@ categories:
    <a href="http://samharrisonmusic.com/pages/discog/forbiddenfruit/">Forbidden Fruit (2007)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/chadvarahstory/">The Chad Varah Story (2008)</a><br>
    <a href="http://samharrisonmusic.com/pages/discog/leadwings/">Lead Wings (2004)</a><br>
-   Billy J. Single (2005)<br>
-   Girl Dya Wanna Single (2006)<br>
+   <a href="http://samharrisonmusic.com/pages/discog/girldyawanna/">Girl Dya Wanna Single (2006)</a><br>
+    Billy J. Single (2005)<br>
  
 <br>
 Production Credits:<br><br>
