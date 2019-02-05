@@ -44,7 +44,7 @@ categories:
 Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/carcrashes/">The Breakfast Club - Car Crashes & Part Time Lesbians</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">The Breakfast Club - Surrounded by Autism & Comforting Lights</a><br>
-Nick William - Self Telepathy<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/nickwilliam/">Nick William - Self Telepathy</a><br>
 Sunshine Poet - Colour Surround<br>
 Tom Cairns - The Stand EP<br>
 Helen Francis - live @ Xclamation Music EP<br>
