@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "consumeristbanner.jpg"
+   image_fullwidth: "forbiddenfruitbanner.jpg"
 layout: page
 show_meta: false
 title: Forbidden Fruit
