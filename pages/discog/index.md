@@ -46,13 +46,13 @@ Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/breakfastclub/surroundedbyautism/">The Breakfast Club - Surrounded by Autism & Comforting Lights</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/nickwilliam/">Nick William - Self Telepathy</a><br>
 Sunshine Poet - Colour Surround<br>
-Tom Cairns - The Stand EP<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/tomcairns/thestand/">Tom Cairns - The Stand EP</a><br>
 Helen Francis - live @ Xclamation Music EP<br>
 Steph Summerfield EP<br>
 Red Light Return EP <br>
 Good Effort EP <br>
 Turnaround Trio E.P.<br>
-Arnie Weavers - Apart From Their Hearts (single)<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 Toxic Graffiti - Yesterday's Gone EP<br>
 Sacha Maran's 'Stick' E.P. <br>
 Si Pillinger - Angels & Halos EP<br>
