@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Tom Cairns - The Stand
 subheadline: "2017"
-teaser: "Tom & I made this E.P. shortly after 
+teaser: "Tom & I made this E.P. shortly after Tom performed for the Guerilla Concert Movie <a href="https://youtu.be/qxd_jckMoUI">'The Secret Kitchen Gig'. We recorded four of Tom's favourite songs, and I added some sparkly overdubs. The resulting E.P. is very beautiful. My personal favourite is the haunting 'The Game'.  </a>. 
 tags:
     - post format
 categories:
@@ -21,22 +21,13 @@ BUY LINKS:
 
 It's a great E.P. Folks, support Tom & Get It! Xxx
 Buy Links:<br>
-   <a href="https://itunes.apple.com/us/album/energy-efficient-ep/1420456984">iTunes</a><br>
-      <a href="https://www.amazon.com/Energy-Efficient-Explicit-Society-Strange/dp/B07G4P7QVQ/">Amazon</a><br><br>
- Jennifer Simone (Vizualiser):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yoPn97u8-lI" frameborder="0" allowfullscreen></iframe><br> 
- Instant Noodles (Vizualiser):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ib9eI6CPxic" frameborder="0" allowfullscreen></iframe><br> 
- Jennifer Simone (Live Studio Video) - Same & Beth:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mPz0_GCjOME" frameborder="0" allowfullscreen></iframe><br> 
- Instant Noodles - Sam Harrison (Live @ the Jolly Brewer):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uDboi2GO7Mc" frameborder="0" allowfullscreen></iframe><br> 
- 
-
-https://www.amazon.co.uk/Stand-Tom-Cairns/dp/B01LBUPWQE
-
-
-
-<br>
-Nick Joined me at my Collection Showcase Gig, and performed a beautiful rendition of 'Return to Oz' by the Scissor Sisters with me. Thanks Nick! x<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/i3KqpjYqrLo" frameborder="0" allowfullscreen></iframe>
+   <a href="https://itunes.apple.com/gb/album/stand-ep/1147581329">iTunes</a><br>
+      <a href="https://www.amazon.co.uk/Stand-Tom-Cairns/dp/B01LBUPWQE">Amazon</a><br><br>
+      
+      
+The Secret Kitchen Gig:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qxd_jckMoUI" frameborder="0" allowfullscreen></iframe><br> 
+The Stand - Tom Cairns @ the Secret Kitchen Gig:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qxd_jckMoUI" frameborder="0" allowfullscreen></iframe><br> 
+Follow Me - Tom Cairns @ the Secret Kitchen Gig:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vzc_NW66o1k" frameborder="0" allowfullscreen></iframe><br> 
