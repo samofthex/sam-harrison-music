@@ -5,8 +5,8 @@ layout: page
 show_meta: false
 title: Arnie Weavers - Apart From Their Hearts
 subheadline: "200"
-teaser: "This album was my first location recording, made at Nick's house with his beautiful piano. Despite a midnight run in with some Russian vodka, Nick, Woody (Andrew Wood) & I made a record that I absolutely love, and I'm so proud of it. Nick's music is extremely special, and at least we managed to preserve 11 tracks..."
-tags:
+teaser: "'Arnie and I met at the Golden Eagle Open Mic Night, when I was 17/18 years old. He had the most beautiful song, 'Apart from their Hearts', which we produced together in the studio. We became firm friends, and even made a shortlived band together, called 'Ku-Ko'. I drew the compass on the cover, which is stuck to my bedroom wall to this day.'"
+tags
     - post format
 categories:
     - design 
