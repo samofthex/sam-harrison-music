@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Energy Efficient EP
 subheadline: "2017"
-teaser: "The Society of Strange Living's Debut E.P., made in Sam's home studio. It features trumpet from Joe Davies. Dan Collins and Bethany Durrant joined the band mid record, just in time to make it super awesome! The washing machine cover art is a tribute to Ginger, our wachine drum kit."
+teaser: "The Society of Strange Living's Debut E.P., made in Sam's home studio. It features trumpet from Joe Davies. Dan Collins and Bethany Durrant joined the band mid record, just in time to make it super awesome! The washing machine cover art is a tribute to Ginger, our wachine drum kit."</a>
 tags:
     - post format
 categories:
