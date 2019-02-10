@@ -5,7 +5,8 @@ layout: page
 show_meta: false
 title: Helen Francis - Live @ Xclamation Studios
 subheadline: "2013"
-teaser: "Helen and I started working together for a series of music and interview sessions that never really got off the ground, but it did yeild a set of beautiful recordings. Although they were only meant to be a live session, we were so pleased with the results, Helen decided to release them on a 6 track E.P. with some of the most beautiful artwork by Toni Hankinson. Helen's released some really beautiful music since too, check out the buy links to her new record 'North Parade'.  
+teaser: "Helen and I started working together for a series of music and interview sessions that never really got off the ground, but it did yeild a set of beautiful recordings. Although they were only meant to be a live session, we were so pleased with the results, Helen decided to release them on a 6 track E.P. with some of the most beautiful artwork by Toni Hankinson. Helen's released some really beautiful music since too, check out the buy links to her new record 'North Parade'."
+
 tags:
     - post format
 categories:
