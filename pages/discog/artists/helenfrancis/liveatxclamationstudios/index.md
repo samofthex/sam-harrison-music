@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "helenfrancisliveatxclamationstudiosbanner.jpg"
+   image_fullwidth: "helenfrancisxclamationstudiosbanner.jpg"
 layout: page
 show_meta: false
 title: Helen Francis - Live @ Xclamation Studios
