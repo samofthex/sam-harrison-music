@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Tom Cairns - The Stand
 subheadline: "2017"
-teaser: "Tom & I made this E.P. shortly after Tom performed for the Guerilla Concert Movie <a href="https://youtu.be/qxd_jckMoUI">'The Secret Kitchen Gig'. We recorded four of Tom's favourite songs, and I added some sparkly overdubs. The resulting E.P. is very beautiful. My personal favourite is the haunting 'The Game'." 
+teaser: "Tom & I made this E.P. shortly after Tom performed for the Guerilla Concert Movie <a href="https://youtu.be/qxd_jckMoUI">'The Secret Kitchen Gig'.</a> We recorded four of Tom's favourite songs, and I added some sparkly overdubs. The resulting E.P. is very beautiful. My personal favourite is the haunting 'The Game'." 
 tags:
     - post format
 categories:
