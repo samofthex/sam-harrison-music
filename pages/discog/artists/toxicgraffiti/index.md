@@ -5,8 +5,7 @@ layout: page
 show_meta: false
 title: Toxic Graffiti - Yesterday's Gone E.P.
 subheadline: "2007"
-teaser: "This album was my first location recording, made at Nick's house with his beautiful piano. Despite a midnight run in with some Russian vodka, Nick, Woody (Andrew Wood) & I made a record that I absolutely love, and I'm so proud of it. Nick's music is extremely special, and at least we managed to preserve 11 tracks..."
-tags:
+teaser: "Toxic Graffiti, back in 2007, we're the best local band I'd ever seen. They were my idea of a real rock 'n' roll band,"
     - post format
 categories:
     - design 
