@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Sunshine Poet - Colour Surround
 subheadline: "2008"
-teaser: "I met Springy, the Sunshine Poet, while gigging with Kensal Rise, for whom he then played guitar. As we put this album together, it became apparent that Springy never needed a second take. He could nail everything on the first go! I've not seen consistancy like it before or since. The most suprising part however was the incredible songs he created."</a>
+teaser: "I met Springy, the Sunshine Poet, while gigging with Kensal Rise, for whom he then played guitar. As we put this album together, it became apparent that Springy never needed a second take. He could nail everything on the first go! I've not seen consistancy like it before or since. The most suprising part however was the incredible songs he created." </a>
 tags:
     - post format
 categories:
