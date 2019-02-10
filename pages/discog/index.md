@@ -47,7 +47,7 @@ Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/nickwilliam/">Nick William - Self Telepathy</a><br>
 Sunshine Poet - Colour Surround<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/tomcairns/thestand/">Tom Cairns - The Stand EP</a><br>
-Helen Francis - live @ Xclamation Music EP<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/helenfrancis/liveatxclamationstudios/">Helen Francis - live @ Xclamation Music EP</a><br>
 Steph Summerfield EP<br>
 Red Light Return EP <br>
 Good Effort EP <br>
