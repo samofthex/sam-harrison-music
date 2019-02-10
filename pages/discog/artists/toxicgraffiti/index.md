@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Toxic Graffiti - Yesterday's Gone E.P.
 subheadline: "2007"
-teaser: "Toxic Graffiti, back in 2007, we're the best local band I'd ever seen. They were my idea of a real rock 'n' roll band,"
+teaser: "Toxic Graffiti, back in 2007, we're the best local band I'd ever seen. They were my idea of a real rock 'n' roll band, with super catchy hooks and a shed load of talent. They were even my age! Luckily, my horribly unreliable rig ended up doing not a bad job of capturing their tunes, and they still feel kind of passable to me now. Well, for a seventeen year old kid's bedroom studio..."
     - post format
 categories:
     - design 
