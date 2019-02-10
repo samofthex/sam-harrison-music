@@ -4,8 +4,8 @@ header:
 layout: page
 show_meta: false
 title: Arnie Weavers - Apart From Their Hearts
-subheadline: "200"
-teaser: "'Arnie and I met at the Golden Eagle Open Mic Night, when I was 17/18 years old. He had the most beautiful song, 'Apart from their Hearts', which we produced together in the studio. We became firm friends, and even made a shortlived band together, called 'Ku-Ko'. I drew the compass on the cover, which is stuck to my bedroom wall to this day.'"
+subheadline: "2008"
+teaser: "'Arnie and I met at the Golden Eagle Open Mic Night, when I was 17/18 years old. He had the most beautiful song, 'Apart from their Hearts', which we produced together in the studio. We became firm friends, and even made a shortlived band together, called 'Ku-Ko'. I drew the compass on the cover, which is stuck to my bedroom wall to this day.'"</a>
 tags
     - post format
 categories:
