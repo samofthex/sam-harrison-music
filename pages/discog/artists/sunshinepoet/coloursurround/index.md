@@ -27,10 +27,11 @@ categories:
 
 Buy Links:<br>
   <a href="">These will work soon! Xxx</a><br>
+ 
 <br>
-Louis Lane (@ Lincoln Christmas Market):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Munqey5afx8" frameborder="0" allowfullscreen></iframe><br>
-  Maggie (@ Lincoln Christmas Market):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/O1_EwWi4j94" frameborder="0" allowfullscreen></iframe><br>
- Emily (@ Maui Waui Festival):<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8p1seAQgTzE" frameborder="0" allowfullscreen></iframe><br>
+Money to be Made:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/beh26gIX6OE" frameborder="0" allowfullscreen></iframe><br>
+Burnin' Up the Midnight:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HYnOOYVcdxY" frameborder="0" allowfullscreen></iframe><br>
+Money to be Made (live outside Music Box):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1hckUJUmROU" frameborder="0" allowfullscreen></iframe><br>
