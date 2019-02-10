@@ -1,6 +1,6 @@
 ---
 header:
-   image_fullwidth: "surroundedbyautismbanner.jpg"
+   image_fullwidth: "coloursurroundbanner.jpg"
 layout: page
 show_meta: false
 title: Sunshine Poet - Colour Surround
