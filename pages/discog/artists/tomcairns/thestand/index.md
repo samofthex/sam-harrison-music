@@ -28,6 +28,6 @@ Buy Links:<br>
 The Secret Kitchen Gig:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qxd_jckMoUI" frameborder="0" allowfullscreen></iframe><br> 
 The Stand - Tom Cairns @ the Secret Kitchen Gig:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qxd_jckMoUI" frameborder="0" allowfullscreen></iframe><br> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1akSKo8MMII" frameborder="0" allowfullscreen></iframe><br> 
 Follow Me - Tom Cairns @ the Secret Kitchen Gig:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vzc_NW66o1k" frameborder="0" allowfullscreen></iframe><br> 
