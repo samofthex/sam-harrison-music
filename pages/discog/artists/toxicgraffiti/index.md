@@ -11,15 +11,15 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://www.reverbnation.com/nickwilliam/songs">1. Yesterday's Gone</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">2. Till I Get You</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">3. Piece of Me</a><br>
- Extras:
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">4. Ain't Enough</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">5. Out of Line</a><br>
- <a href="https://www.reverbnation.com/nickwilliam/songs">6. Drinking Song</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">7. My Jane</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">8. Animal (no vocals)</a><br>
+ <a href="">1. Yesterday's Gone</a><br>
+ <a href="">2. Till I Get You</a><br>
+ <a href="">3. Piece of Me</a><br>
+ Extras:<br>
+ <a href="">4. Ain't Enough</a><br>
+ <a href="">5. Out of Line</a><br>
+ <a href="">6. Drinking Song</a><br>
+ <a href="">7. My Jane</a><br>
+ <a href="">8. Animal (no vocals)</a><br>
 
 BUY LINKS:
 
