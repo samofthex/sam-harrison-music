@@ -8,7 +8,7 @@ header:
 show_meta: false
 title: "The Society of Strange Living"
 subheadline: "Introducing..."
-teaser: "Music starting to sound the same to you? Relax, here's a band with a new take on just about everything. Strange by name and nature - not only is their drum kit made from a washing machine, these lovely guys are about the most rock 'n' roll people you'll meet, on or off stage. "<br>
+teaser: "Music starting to sound the same to you? Relax, here's a band with a new take on just about everything. Strange by name and nature - not only is their drum kit made from a washing machine, these lovely guys are about the most rock 'n' roll people you'll meet, on or off stage. "</a><br>
 tags:
     - post format
 categories:
