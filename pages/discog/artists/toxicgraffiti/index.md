@@ -13,7 +13,7 @@ categories:
 <!--more-->
  <a href="">1. Yesterday's Gone</a><br>
  <a href="">2. Till I Get You</a><br>
- <a href="">3. Piece of Me</a><br>
+ <a href="https://www.youtube.com/embed/BAEQupGFgbA">3. Piece of Me</a><br>
  Extras:<br>
  <a href="">4. Ain't Enough</a><br>
  <a href="">5. Out of Line</a><br>
