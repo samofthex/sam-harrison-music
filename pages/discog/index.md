@@ -49,7 +49,7 @@ Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/tomcairns/thestand/">Tom Cairns - The Stand EP</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/helenfrancis/liveatxclamationstudios/">Helen Francis - live @ Xclamation Music EP</a><br>
 Steph Summerfield EP<br>
-<a href="http://samharrisonmusic.com/pages/discog/artists/redlightreturn/">Red Light Return EP </a><br>
+<a href="http://samharrisonmusic.com/pages/discog/redlightreturn/">Red Light Return EP </a><br>
 Good Effort EP <br>
 Turnaround Trio E.P.<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
