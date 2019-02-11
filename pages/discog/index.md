@@ -55,9 +55,8 @@ Turnaround Trio E.P.<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
 Sacha Maran's 'Stick' E.P. <br>
-Si Pillinger - Angels & Halos EP<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/sipillinger/">Si Pillinger - Angels & Halos EP</a><br>
 Hex - World of Confusion<br>
 Hex - Dark Side EP<br><br><br>
-  
 
 Source: [The Society of Strange Living Top Secret HQ](https://youtu.be/viif2vhaSUM)
