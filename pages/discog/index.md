@@ -53,7 +53,7 @@ Red Light Return EP <br>
 Good Effort EP <br>
 Turnaround Trio E.P.<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
-Toxic Graffiti - Yesterday's Gone EP<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
 Sacha Maran's 'Stick' E.P. <br>
 Si Pillinger - Angels & Halos EP<br>
 Hex - World of Confusion<br>
