@@ -25,10 +25,6 @@ BUY LINKS:
 
 Sadly no buy links here! But if your reading this lads, I'd be happy to set up distribution x
 
-
-https://www.reverbnation.com/nickwilliam
-
 <br>
 Toxic Graffiti - No More (Aerosmith cover)<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BAEQupGFgbA" frameborder="0" allowfullscreen></iframe>
-
