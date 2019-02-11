@@ -1,7 +1,7 @@
 ---
 layout: video
 header:
-    title: "Society of Strange Living"
+    title: "."
     image_fullwidth: strangelivingsbddbanner.jpg
     caption: 
     caption_url: https://unsplash.com/
