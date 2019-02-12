@@ -15,10 +15,10 @@ categories:
 <!--more-->
  <a href="">1.Forbidden Fruit</a><br>
   <a href="">2. Naked</a><br>
-  <a href="">3. The Serpant</a><br>
+  <a href="https://youtu.be/wNDb2BA5kV4">3. The Serpant</a><br>
   <a href="">4. Development Hell</a><br>
-  <a href="">5. Sell-Out Song</a><br>
-  <a href="">6. I'm a Rebel</a><br>
+5. Sell-Out Song</a><br>
+  <a href="https://youtu.be/z2s6kMUu-G8">6. I'm a Rebel</a><br>
   <a href="">7. I Think I'm falling In Love</a><br>
   <a href="">8. Crossfire</a><br>
   <a href="">9. Brain Drain</a><br>
@@ -39,7 +39,7 @@ categories:
   <a href="">24. Children of Britain</a><br>
   <a href="">25. Why Can't I Sleep?</a><br>
   <a href="">26. Nothing to Say</a><br>
-  <a href="">27. Date With My Creator</a><br>
+  <a href="https://www.youtube.com/watch?v=gtC7DQfbHfg">27. Date With My Creator</a><br>
   <a href="">28. Moodnight My Sweatheart</a><br>
   
 
@@ -48,5 +48,5 @@ Buy Links:<br>
   <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">Sadly, this album isn't available to buy - but please buy some of our other lovely records! x Just click this link x</a><br>
 
 <br>
- Kickstarter Video:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nUOizyHPPg4" frameborder="0" allowfullscreen></iframe>
+ Date With My Creator (Video):<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gtC7DQfbHfg" frameborder="0" allowfullscreen></iframe>
