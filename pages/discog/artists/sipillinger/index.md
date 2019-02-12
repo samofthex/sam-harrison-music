@@ -12,13 +12,14 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://youtu.be/1akSKo8MMII">1. Under the Dellusion</a><br>
- <a href="https://youtu.be/MMD5sldk0MA">2. Photograph</a><br>
- <a href="https://youtu.be/WCWsNjY5dvc">3. Hypothetically Speaking</a><br>
- <a href="https://youtu.be/0i0LSQizwJY">4. Angels & Halos</a><br>
+ <a href="https://youtu.be/vcLIVgxVL5U">1. Under the Dellusion</a><br>
+ <a href="https://youtu.be/vcLIVgxVL5U">2. Photograph</a><br>
+ <a href="https://youtu.be/vcLIVgxVL5U">3. Hypothetically Speaking</a><br>
+ <a href="https://youtu.be/vcLIVgxVL5U">4. Angels & Halos</a><br>
  
 BUY LINKS:
 No buy Links, Sorry!
       
-Listen Links Coming Soon:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qxd_jckMoUI" frameborder="0" allowfullscreen></iframe><br> 
+E.P. Listen Links:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vcLIVgxVL5U" frameborder="0" allowfullscreen></iframe><br> 
+
