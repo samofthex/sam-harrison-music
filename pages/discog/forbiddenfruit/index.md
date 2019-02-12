@@ -22,15 +22,15 @@ categories:
   <a href="">7. I Think I'm falling In Love</a><br>
   <a href="">8. Crossfire</a><br>
   <a href="">9. Brain Drain</a><br>
-  <a href="">10. The Wind</a><br>
+  <a href="https://youtu.be/4OMTLOEpYqo">10. The Wind</a><br>
   <a href="">11. Bronco Child</a><br>
   <a href="">12. Special Place</a><br>
   <a href="">13. I Value My Pride</a><br>
   <a href="">14. Spiral of Depression</a><br>
   <a href="">15. Lemon Street</a><br>
-  <a href="">16. Sheep</a><br>
+  <a href="https://www.youtube.com/watch?v=sr-K_8Qb5dw">16. Sheep</a><br>
   <a href="">17. T.V. Song (Cathode ray)</a><br>
-  <a href="">18. Close of the Circus</a><br>
+  <a href="https://www.youtube.com/watch?v=t9DrKlakm_k">18. Close of the Circus</a><br>
   <a href="">19. Massacre of a Million Hearts</a><br>
   <a href="">20. Who Do You Reckon You Are</a><br>
   <a href="">21. Kiddo</a><br>
