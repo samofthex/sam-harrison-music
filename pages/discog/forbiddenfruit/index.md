@@ -13,14 +13,14 @@ categories:
     - design 
 ---
 <!--more-->
-  <a href="">1.Forbidden Fruit</a><br>
-  <a href="">2. Naked</a><br>
+  1.Forbidden Fruit<br>
+  2. Naked<br>
   <a href="https://youtu.be/wNDb2BA5kV4">3. The Serpant</a><br>
-  <a href="">4. Development Hell</a><br>
-  <a href="">5. Sell-Out Song</a><br>
+  4. Development Hell<br>
+  5. Sell-Out Song<br>
   <a href="https://youtu.be/z2s6kMUu-G8">6. I'm a Rebel</a><br>
-  <a href="">7. I Think I'm falling In Love</a><br>
-  <a href="">8. Crossfire</a><br>
+  7. I Think I'm falling In Love<br>
+  8. Crossfire<br>
   <a href="">9. Brain Drain</a><br>
   <a href="https://youtu.be/4OMTLOEpYqo">10. The Wind</a><br>
   <a href="">11. Bronco Child</a><br>
