@@ -13,34 +13,34 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="">1.Forbidden Fruit</a><br>
-  <a href="">2. Naked</a><br>
+1.Forbidden Fruit</a><br>
+2. Naked</a><br>
   <a href="https://youtu.be/wNDb2BA5kV4">3. The Serpant</a><br>
-  <a href="">4. Development Hell</a><br>
+4. Development Hell</a><br>
 5. Sell-Out Song</a><br>
   <a href="https://youtu.be/z2s6kMUu-G8">6. I'm a Rebel</a><br>
-  <a href="">7. I Think I'm falling In Love</a><br>
-  <a href="">8. Crossfire</a><br>
-  <a href="">9. Brain Drain</a><br>
-  <a href="">10. The Wind</a><br>
-  <a href="">11. Bronco Child</a><br>
-  <a href="">12. Special Place</a><br>
-  <a href="">13. I Value My Pride</a><br>
-  <a href="">14. Spiral of Depression</a><br>
-  <a href="">15. Lemon Street</a><br>
-  <a href="">16. Sheep</a><br>
-  <a href="">17. T.V. Song (Cathode ray)</a><br>
-  <a href="">18. Close of the Circus</a><br>
-  <a href="">19. Massacre of a Million Hearts</a><br>
-  <a href="">20. Who Do You Reckon You Are</a><br>
-  <a href="">21. Kiddo</a><br>
-  <a href="">22. Fairchild</a><br>
-  <a href="">23. Splicing Minds</a><br>
-  <a href="">24. Children of Britain</a><br>
-  <a href="">25. Why Can't I Sleep?</a><br>
-  <a href="">26. Nothing to Say</a><br>
+7. I Think I'm falling In Love</a><br>
+8. Crossfire</a><br>
+9. Brain Drain</a><br>
+10. The Wind</a><br>
+11. Bronco Child</a><br>
+12. Special Place</a><br>
+13. I Value My Pride</a><br>
+14. Spiral of Depression</a><br>
+15. Lemon Street</a><br>
+16. Sheep</a><br>
+17. T.V. Song (Cathode ray)</a><br>
+18. Close of the Circus</a><br>
+19. Massacre of a Million Hearts</a><br>
+20. Who Do You Reckon You Are</a><br>
+21. Kiddo</a><br>
+22. Fairchild</a><br>
+23. Splicing Minds</a><br>
+24. Children of Britain</a><br>
+25. Why Can't I Sleep?</a><br>
+26. Nothing to Say</a><br>
   <a href="https://www.youtube.com/watch?v=gtC7DQfbHfg">27. Date With My Creator</a><br>
-  <a href="">28. Moodnight My Sweatheart</a><br>
+28. Moodnight My Sweatheart</a><br>
   
 
 
