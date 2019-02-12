@@ -27,7 +27,7 @@ categories:
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/credit-rough-mix">Credit</a><br>
-<a href="">Cut from the Bone</a><br>
+<a href="https://youtu.be/HI0svqx24a8">Cut from the Bone</a><br>
 <a href="https://youtu.be/GcEeFouiq0w">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
@@ -52,6 +52,7 @@ categories:
 <a href="https://www.youtube.com/watch?v=Wq8W71ehpqg">I Can't Work a Miricle*</a><br>
 <a href="http://samharrisonmusic.com/pages/songs/i/ifeellikejeremycorbyn/">I Feel Like Jeremy Corbyn*</a><br>
 <a href="https://youtu.be/Hb0kHBryApk">The Imposter*</a><br>
+<a href="https://youtu.be/z2s6kMUu-G8">I'm a Rebel*</a><br>
 <a href="https://youtu.be/EmUjCMmrhOY">In the End (I Let Her Take Control)*</a> < my first 'music video!'<br>
 <a href="https://youtu.be/DIbetXWhsYQ">Innocence Song*</a><br>
 <a href="https://youtu.be/uDboi2GO7Mc">Instant Noodles*</a><br>
@@ -70,11 +71,11 @@ categories:
   <a href="http://samharrisonmusic.com/pages/songs/l/lets-go/index.md">Let's Go*</a><br>
 <a href="https://youtu.be/yDRvgxD2JyI">Let's Pretend*</a><br>
 <a href="https://youtu.be/gpmRDeCZoqg">Life's Kills*</a><br>
-<a href="https://youtu.be/QHZaMMNMUxs">Long Long Time*</a><br>
+<a href="https://youtu.be/wcJkhjrw_FQ">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/pTQau9qTrRI">Marco Polo*</a><br>
-<a href="">Menstrual Blood</a><br>
-<a href="">Midnight Stomp</a><br>
+<a href="https://youtu.be/GCjGgn5rgMM">Menstrual Blood</a><br>
+<a href="https://youtu.be/BrCdQrjqLjo">Midnight Stomp</a><br>
 <a href="https://youtu.be/F_Smb3X_RC4">Morbid Town*</a><br>
 <a href="https://youtu.be/MxW9Jxa8_m4">My Perfect Moment*</a><br>
 <a href="https://youtu.be/xEyFe7wwdbk">Music Women & Wine*</a><br>
@@ -84,12 +85,13 @@ categories:
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/remember">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
-<a href="">Runaway</a><br>
+<a href="https://youtu.be/Dw5hGNBpz2Q">Runaway</a><br>
 <a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
 <a href="https://youtu.be/PUREM3Me4q4">Sailor Outfit*</a><br>
 <a href="https://youtu.be/nC_1PHvv4v8">Salome*</a><br>
 <a href="https://youtu.be/47A6TSc5V0Y">Satisfaction Blues*</a><br>
 <a href="https://youtu.be/YjZ-SZuZvC8">Sell-Out Song*</a><br>
+<a href="https://youtu.be/wNDb2BA5kV4">The Serpent*</a><br>
 <a href="http://samharrisonmusic.com/pages/songs/s/sevennationcorbyn/">Seven Nation Corbyn*</a><br>
 <a href="https://youtu.be/pbFoi5kUXLs">Sex Games*</a><br>
 <a href="https://youtu.be/RU9xW6M8WoA">Sexy Baby Blues*</a><br>
@@ -116,6 +118,6 @@ categories:
 <a href="https://youtu.be/I2RMlIEexhY">You Cant Resist It *</a><br>
 <a href="https://youtu.be/sJf8rxufOQQ">You Don't Own Me (demo) *</a><br>
 <a href="https://youtu.be/7zW2UKTn-gM">Young At Heart *</a><br>
-<a href="https://youtu.be/tymkRUdTdF8">Zombie Radio *</a><br>
+<a href="https://youtu.be/PBwdtFgtKgs">Zombie Radio *</a><br>
 
 
