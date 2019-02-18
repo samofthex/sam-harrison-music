@@ -1,9 +1,9 @@
 ---
 header:
-   image_fullwidth: "nickwilliambanner.jpg"
+   image_fullwidth: "goodeffortbanner.jpg"
 layout: page
 show_meta: false
-title: Nick William - Self Telepathy
+title: Good Effort - E.P.
 subheadline: "2011"
 teaser: "This album was my first location recording, made at Nick's house with his beautiful piano. Despite a midnight run in with some Russian vodka, Nick, Woody (Andrew Wood) & I made a record that I absolutely love, and I'm so proud of it. Nick's music is extremely special, and at least we managed to preserve 11 tracks..."
 tags:
@@ -12,17 +12,9 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://www.reverbnation.com/nickwilliam/songs">1. The Words</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">2. Infinitum</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">3. Faceless Bride</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">4. The World Outside</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">5. Me</a><br>
- <a href="https://www.reverbnation.com/nickwilliam/songs">6. Smile</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">7. No Words to Describe</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">8. Prayer</a><br>
- <a href="https://www.reverbnation.com/nickwilliam/songs">9. Change Your World</a><br>
- <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">10. If the World Ended Today</a><br>
- <a href="https://www.reverbnation.com/nickwilliam/songs">11. Now It's You</a><br>
+ <a href="https://www.reverbnation.com/nickwilliam/songs">1. Something Near</a><br>
+ <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">2. Nowhere I'd Rather Be</a><br>
+ <a href="https://www.amazon.com/Self-Telepathy-Nick-William/dp/B004QOATWU">3. Answers</a><br>
 
 BUY LINKS:
 
