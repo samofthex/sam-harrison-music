@@ -50,7 +50,7 @@ Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/helenfrancis/liveatxclamationstudios/">Helen Francis - live @ Xclamation Music EP</a><br>
 Steph Summerfield EP<br>
 <a href="http://samharrisonmusic.com/pages/discog/redlightreturn/">Red Light Return EP </a><br>
-<a href="http://samharrisonmusic.com/pages/discog/goodeffort/">Good Effort EP <br>
+<a href="http://samharrisonmusic.com/pages/discog/goodeffort/">Good Effort EP </a><br>
 Turnaround Trio E.P.<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
