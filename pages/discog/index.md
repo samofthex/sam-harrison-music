@@ -51,13 +51,15 @@ Production Credits:<br><br>
 Steph Summerfield EP<br>
 <a href="http://samharrisonmusic.com/pages/discog/redlightreturn/">Red Light Return EP </a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/goodeffort/">Good Effort EP </a><br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/rebeccavaughan/">Rebecca Vaughan - Lover's Goodbye E.P.</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/turnaroundtrio/">Turnaround Trio E.P.</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
-Sacha Maran's 'Stick' E.P. <br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/sachamaran/">Sacha Maran's 'Stick' E.P. <br>
 Remote Control E.P.<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/sipillinger/">Si Pillinger - Angels & Halos EP</a><br>
 Hex - World of Confusion<br>
-Hex - Dark Side EP<br><br><br>
+Hex - Dark Side EP<br>
+My memory is a bit wonky with some of the details. If the history is inaccurate here, please correct me, I'll fix it :)<br><br><br>
 
 Source: [The Society of Strange Living Top Secret HQ](https://youtu.be/viif2vhaSUM)
