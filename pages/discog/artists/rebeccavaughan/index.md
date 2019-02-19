@@ -26,8 +26,5 @@ Becky's BBC Introducing Session:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iR6jxl1OAZ4" frameborder="0" allowfullscreen></iframe><br> 
 Let Her Go live @ The Burton Arms: (now a Pizza Hut!)<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TpAZmEVCloA" frameborder="0" allowfullscreen></iframe><br> 
-Heart to Heart:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qFc5_7Ay3hM" frameborder="0" allowfullscreen></iframe><br> 
-  
-  
-
+A Place in France @ Cotyso Studios, Manchester:<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lWjR1ghxQjQ" frameborder="0" allowfullscreen></iframe><br> 
