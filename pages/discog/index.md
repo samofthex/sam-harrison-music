@@ -52,7 +52,7 @@ Steph Summerfield EP<br>
 <a href="http://samharrisonmusic.com/pages/discog/redlightreturn/">Red Light Return EP </a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/goodeffort/">Good Effort EP </a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/rebeccavaughan/">Rebecca Vaughan - Lover's Goodbye E.P.</a><br>
-James Sherrard - Hometaping<br>
+James Sherrard - Hometaping (2010)<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/turnaroundtrio/">Turnaround Trio E.P.</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
