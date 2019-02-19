@@ -55,7 +55,7 @@ Steph Summerfield EP<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/turnaroundtrio/">Turnaround Trio E.P.</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
-<a href="http://samharrisonmusic.com/pages/discog/artists/sachamaran/">Sacha Maran's 'Stick' E.P. <br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/sachamaran/">Sacha Maran's 'Stick' E.P.</a><br>
 Remote Control E.P.<br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/sipillinger/">Si Pillinger - Angels & Halos EP</a><br>
 Hex - World of Confusion<br>
