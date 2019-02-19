@@ -51,7 +51,7 @@ Production Credits:<br><br>
 Steph Summerfield EP<br>
 <a href="http://samharrisonmusic.com/pages/discog/redlightreturn/">Red Light Return EP </a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/goodeffort/">Good Effort EP </a><br>
-Turnaround Trio E.P.<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/turnaroundtrio/">Turnaround Trio E.P.</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
 Sacha Maran's 'Stick' E.P. <br>
