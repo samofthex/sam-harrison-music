@@ -57,10 +57,10 @@ Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/arnieweavers/">Arnie Weavers - Apart From Their Hearts (single)</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/toxicgraffiti/">Toxic Graffiti - Yesterday's Gone EP</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/sachamaran/">Sacha Maran's 'Stick' E.P.</a><br>
-<a href="http://samharrisonmusic.com/pages/discog/artists/remotecontrol/">Remote Control E.P.<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/remotecontrol/">Remote Control E.P.</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/sipillinger/">Si Pillinger - Angels & Halos EP</a><br>
-Hex - World of Confusion<br>
-Hex - Dark Side EP<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/hex/worldofconfusion/">Hex - World of Confusion</a><br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/hex/mydarkside/">Hex - Dark Side EP</a><br>
 My memory is a bit wonky with some of the details. If the history is inaccurate here, please correct me, I'll fix it :)<br><br><br>
 
 Source: [The Society of Strange Living Top Secret HQ](https://youtu.be/viif2vhaSUM)
