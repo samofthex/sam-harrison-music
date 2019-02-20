@@ -48,7 +48,7 @@ Production Credits:<br><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/sunshinepoet/coloursurround/">Sunshine Poet - Colour Surround</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/tomcairns/thestand/">Tom Cairns - The Stand EP</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/helenfrancis/liveatxclamationstudios/">Helen Francis - live @ Xclamation Music EP</a><br>
-Steph Summerfield EP<br>
+<a href="http://samharrisonmusic.com/pages/discog/artists/stephsummerfield/">Steph Summerfield - Scarlet EP</a><br>
 <a href="http://samharrisonmusic.com/pages/discog/redlightreturn/">Red Light Return EP </a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/goodeffort/">Good Effort EP </a><br>
 <a href="http://samharrisonmusic.com/pages/discog/artists/rebeccavaughan/">Rebecca Vaughan - Lover's Goodbye E.P.</a><br>
