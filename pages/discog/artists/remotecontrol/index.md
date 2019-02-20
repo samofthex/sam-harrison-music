@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Remote Control - Sod the Bastard E.P.
 subheadline: "2008"
-teaser: "Tom's and Leanne's is a love story pretty damn beautiful - and they're still together! Back when we were teens, they did a session with me we did this session together. 
+teaser: "Tom's and Leanne's is a love story pretty damn beautiful - and they're still together! Back when we were teens, they did a session with me we did this session together. "
 tags:
     - post format
 categories:
