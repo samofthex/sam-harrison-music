@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Rebecca Vaughan - Lover's Goodbye E.P.
 subheadline: "2011"
-teaser: "Rebecca Vaughan's writing is some of the most beautiful every to grace my mixing desk. Becky's style was moving so quickly at the time that these demos never saw the light of day. Maybe with her permission I can share them with you some day. Becky found success very quickly recording more professional E.P.s in London studios, with more polished modern production. She also had a hugely sucessful BBC Introducing session I'll post below. Our session is such a beautiful secret for me, as only I get to hear them - but they contain the songs that I heard live so many times and and represent so many good times to me. Check out her new material in the buy links! Xxx" 
+teaser: "Rebecca Vaughan's writing is some of the most beautiful every to grace my mixing desk. Becky's style was moving so quickly at the time that these demos never saw the light of day. Maybe with her permission I can share them with you some day. Becky found success very quickly recording more professional E.P.s in London studios, with more polished modern production. She also had a hugely sucessful BBC Introducing session I'll post below. Our session is such a beautiful secret for me, as only I get to hear them - but they contain the songs that I heard live at so many gigs and represent so many good times to me. Check out her new material in the buy links! Xxx" 
 tags:
     - post format
 categories:
