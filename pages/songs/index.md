@@ -102,6 +102,7 @@ categories:
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
 <a href="https://youtu.be/IFh4xUz74IY">Sing Baby Sing*</a><br>
 <a href="https://youtu.be/svz8T0zjqjw">Smile*</a><br>
+<a href="https://youtu.be/5I-OpvqMn1A">Special Place*</a><br>
 <a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
 <a href="https://youtu.be/q03ZkePc_k0">Subscribe Song*</a><br>
 <a href="https://youtu.be/vOxALcpE_Ag">Subterfuge*</a><br>
