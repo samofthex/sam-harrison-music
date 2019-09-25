@@ -25,5 +25,5 @@ Buy Links:<br>
    
 <br>
  Kickstarter Video:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nUOizyHPPg4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=J_gJp-tTXrU&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
 <br>
