@@ -15,7 +15,7 @@ categories:
 <!--more-->
  <a href="https://youtu.be/7fsSkqxxP5g">1. Little Girl</a><br>
  <a href="https://youtu.be/7fsSkqxxP5g">2. Dan Dare</a><br>
- <a href="https://youtu.be/7fsSkqxxP5g">3. Somebody Else</a><br>d.
+ <a href="https://youtu.be/7fsSkqxxP5g">3. Somebody Else</a><br>
  <a href="https://youtu.be/7fsSkqxxP5g">4. Talk to Chad</a><br>
  <a href="https://youtu.be/7fsSkqxxP5g">5. Three Cheers</a><br>
 
