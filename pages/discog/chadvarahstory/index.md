@@ -24,6 +24,6 @@ Buy Links:<br>
   <a href="">Sadly, we have no buy links for this record, although Samaritans have sold CDs of the children's performance at their international conferences!</a><br>
    
 <br>
- Kickstarter Video:<br>
+ Full Album:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=J_gJp-tTXrU&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
 <br>
