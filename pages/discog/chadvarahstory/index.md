@@ -13,17 +13,17 @@ categories:
     - design 
 ---
 <!--more-->
- <a href="https://youtu.be/7fsSkqxxP5g">1. Little Girl</a><br>
- <a href="https://youtu.be/7fsSkqxxP5g">2. Dan Dare</a><br>
- <a href="https://youtu.be/7fsSkqxxP5g">3. Somebody Else</a><br>
- <a href="https://youtu.be/7fsSkqxxP5g">4. Talk to Chad</a><br>
- <a href="https://youtu.be/7fsSkqxxP5g">5. Three Cheers</a><br>
+ <a href="https://youtu.be/gCcvoH6AiiE">1. Little Girl</a><br>
+ <a href="https://youtu.be/HMfV_pLztAU">2. Dan Dare</a><br>
+ <a href="https://youtu.be/CElgMgvnCkw">3. Somebody Else</a><br>
+ <a href="https://youtu.be/RuLN11-QKtY">4. Talk to Chad</a><br>
+ <a href="https://www.youtube.com/watch?v=Yi2nq9fcQo8">5. Three Cheers</a><br>
 
 
 Buy Links:<br>
   <a href="">Sadly, we have no buy links for this record, although Samaritans have sold CDs of the children's performance at their international conferences!</a><br>
    
 <br>
- Full Album:<br>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=J_gJp-tTXrU&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+Full Album:<br>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=J_gJp-tTXrU&feature=youtu.be" frameborder="0"allowfullscreen></iframe>
 <br>
