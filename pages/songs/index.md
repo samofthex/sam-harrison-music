@@ -39,7 +39,7 @@ categories:
 <a href="https://youtu.be/4dhIjAe8h1c">The Dream Song*</a><br>
 <a href="https://youtu.be/NfinPxvVUSE">Elusive Love*</a><br>
 <a href="https://youtu.be/OeMMpBmCI8I">Emily*</a><br>
-<a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Evicted</a><br>
+<a href="https://youtu.be/0jSFzDQtprQ">Evicted</a><br>
 <a href="https://youtu.be/1gEY9TRis0A">Fear (demo) *</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/fubsy-eyes-mix-3">Fubsy Eyes *</a><br>
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
@@ -62,7 +62,7 @@ categories:
 <a href="https://youtu.be/nQ7hXwR3SGg">Jane Doe*</a><br>
 <a href="https://youtu.be/LdKVpnZc9tU">Jennifer Simone*</a><br>
 <a href="https://youtu.be/u2Y9kdNbKhg">Jen's Song*</a><br>
-<a href="https://www.kickstarter.com/projects/samharrison/the-consumerist-a-mini-musical-album">Journey</a><br>
+<a href="https://youtu.be/-cmNs3sILdU">Journey</a><br>
 <a href="https://youtu.be/Qe0MWBvZl5A">Ketamine Kim*</a><br>
  <a href="https://youtu.be/-l-UjBN_NJ4">Kiddo*</a><br>
  <a href="https://youtu.be/x5LghONf27s">Kinks & Tickles*</a><br>
