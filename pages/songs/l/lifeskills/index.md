@@ -12,7 +12,8 @@ categories:
     - design 
 ---
 <!--more-->
-LIFE'S KILLS:<br>
+
+LIFES KILLS:<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FiDCCZSJwEc" frameborder="0" allowfullscreen></iframe><br>
 Congratulations here’s your badge<br>
 My boy you’ve reached 18 at last<br>
@@ -58,7 +59,9 @@ Of the poison you dropped in my ear<br>
 So lets say that I follow your plan<br>
 Become a grade A plastic man<br>
 One day I’ll grow old and die<br>
-Hating myself and wondering why<br><br><br>
+Hating myself and wondering why<br>
+<br><br>
+
 Buy Links:<br>
   <a href="https://itunes.apple.com/us/album/the-consumerist-pt-1-ep/id1271421915">iTunes</a><br>
    <a href="https://www.amazon.co.uk/Consumerist-Pt-1-Sam-Harrison/dp/B074SW4XFG/">Amazon</a><br>
@@ -69,3 +72,4 @@ Buy Links:<br>
 
  Homeless (Original Demo):<br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IJfBDAVjjGw" frameborder="0" allowfullscreen></iframe><br>
+  
