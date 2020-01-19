@@ -20,6 +20,7 @@ categories:
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up *</a><br>
+<a href="https://youtu.be/SVKeXt9B6s0">Bronco Child *</a><br>">Bronco Child *</a><br>
 <a href="https://youtu.be/dbshcYbsftw">Butterfly Me (demo) *</a><br>
 <a href="https://youtu.be/aa3fQ4DJp2c">Ciaran's Hair *</a><br>
 <a href="https://www.youtube.com/watch?v=B_l6jh4y2sM">The Charlatan*</a><br>
@@ -28,6 +29,7 @@ categories:
 <a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/credit-rough-mix">Credit</a><br>
 <a href="https://youtu.be/HI0svqx24a8">Cut from the Bone</a><br>
+<a href="https://youtu.be/HMfV_pLztAU">Dan Dare</a><br>
 <a href="https://youtu.be/GcEeFouiq0w">Darkness*</a><br>
 <a href="https://youtu.be/gtC7DQfbHfg">Date With My Creator*</a><br>
 <a href="https://youtu.be/qj9gBHH-DLo">Deamons*</a><br>
@@ -71,6 +73,7 @@ categories:
   <a href="http://samharrisonmusic.com/pages/songs/l/lets-go/index.md">Let's Go*</a><br>
 <a href="https://youtu.be/yDRvgxD2JyI">Let's Pretend*</a><br>
 <a href="http://samharrisonmusic.com/pages/songs/l/lifeskills/index.md">Life's Kills*</a><br>
+<a href="https://youtu.be/gCcvoH6AiiE">Little Girl</a><br>
 <a href="https://youtu.be/wcJkhjrw_FQ">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
 <a href="https://youtu.be/pTQau9qTrRI">Marco Polo*</a><br>
@@ -102,15 +105,20 @@ categories:
 <a href="https://youtu.be/ydXzz7c-Cy8">Showdown*</a><br>
 <a href="https://youtu.be/IFh4xUz74IY">Sing Baby Sing*</a><br>
 <a href="https://youtu.be/svz8T0zjqjw">Smile*</a><br>
+<a href="https://youtu.be/CElgMgvnCkw">Somebody Else</a><br>
 <a href="https://youtu.be/5I-OpvqMn1A">Special Place*</a><br>
 <a href="https://youtu.be/AUVOprKQeyA">The Sphinx*</a><br>
 <a href="https://youtu.be/q03ZkePc_k0">Subscribe Song*</a><br>
 <a href="https://youtu.be/vOxALcpE_Ag">Subterfuge*</a><br>
 <a href="https://youtu.be/fuddPhawaec">Sue *</a><br>
+<a href="https://youtu.be/RuLN11-QKtY">Talk to Chad</a><br>
 <a href="https://youtu.be/fpKMnmqolJM">Tantric Sex *</a><br>
+<a href="https://youtu.be/Yi2nq9fcQo8">Three Cheers</a><br>
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas*</a><br>
+<a href="https://youtu.be/hidGBMOFeYg">Trapped in a Phone</a><br>
 <a href="https://soundcloud.com/samharrisonmusic/trash-mountain">Trash Mountain*</a><br>
 <a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
+<a href="https://youtu.be/7RIyGHUsBh4">Why Can't I Sleep?</a><br>
 <a href="https://youtu.be/4OMTLOEpYqo">The Wind *</a><br>
 <a href="https://www.youtube.com/watch?v=YR0WRS8f1i8">Wreckheads *</a><br>
 <a href="https://www.youtube.com/watch?v=5DdnnBnYoeE">Writers of Rhyme *</a><br>
