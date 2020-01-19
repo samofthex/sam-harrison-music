@@ -72,7 +72,7 @@ categories:
   <a href="https://www.youtube.com/watch?v=QYsAunmdxAU">Left Behind*</a><br>
   <a href="http://samharrisonmusic.com/pages/songs/l/lets-go/index.md">Let's Go*</a><br>
 <a href="https://youtu.be/yDRvgxD2JyI">Let's Pretend*</a><br>
-<a href="http://samharrisonmusic.com/pages/songs/l/lifeskills/index.md">Life's Kills*</a><br>
+<a href="https://youtu.be/-0NRfY5VmKk">Life's Kills*</a><br>
 <a href="https://youtu.be/gCcvoH6AiiE">Little Girl</a><br>
 <a href="https://youtu.be/wcJkhjrw_FQ">Long Long Time*</a><br>
 <a href="https://youtu.be/Tmn6Moxiw5M">Lying on Your Bed*</a><br>
