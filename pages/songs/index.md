@@ -17,7 +17,7 @@ categories:
  <a href="https://youtu.be/tgRg8Utb7q8">Be Gentle*</a><br>
  <a href="https://youtu.be/WKmRCFuqpUM">Better Than Me*</a><br>
    <a href="https://youtu.be/Zzyx5YHkYEQ">Blue Murder*</a><br>
-<a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies*</a><br>
+<a href="https://youtu.be/jew7b0ds_YI">Bodies*</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up *</a><br>
 <a href="https://youtu.be/SVKeXt9B6s0">Bronco Child *</a><br>
@@ -45,7 +45,7 @@ categories:
 <a href="https://youtu.be/vKRi4HDoTyE">Girl What I am in Love With *</a><br>
 <a href="https://youtu.be/wX5XT4RO9s8">Good Time*</a><br>
 <a href="https://youtu.be/tWTPK-vymFQ">Good Times & NSA Love*</a><br>
-<a href="https://soundcloud.com/samharrisonmusic/good-unclean-fun-explicit">Good Unclean Fun*</a><br>
+<a href="https://www.youtube.com/watch?v=FzFVZklreo4">Good Unclean Fun*</a><br>
 <a href="https://youtu.be/fFsNwcpCrH0">Half a Hero*</a><br>
  <a href="https://youtu.be/sC91etyLdLI">Happiness*</a><br>
 <a href="https://youtu.be/vJAWt7MCrkE">The Hawk*</a><br>
@@ -87,7 +87,7 @@ categories:
  <a href="https://youtu.be/HqFzWuamPdU">Pepper's Ghost*</a><br>
  <a href="https://youtu.be/kZ-ENajQhMg">Pray, Pray, Pray*</a><br>
 <a href="https://youtu.be/T9Ca9r9wjVQ">Pushing Up the Daisies*</a><br>
-<a href="https://soundcloud.com/samharrisonmusic/remember">Remember*</a><br>
+<a href="https://youtu.be/0Emi2IG4Rl8">Remember*</a><br>
 <a href="https://youtu.be/zstZae9SFGI">Rockstar*</a><br>
 <a href="https://youtu.be/Dw5hGNBpz2Q">Runaway</a><br>
 <a href="https://youtu.be/aFWs9E4GMdo">Running At My Back (Prts I II & III)*</a><br>
@@ -117,7 +117,7 @@ categories:
 <a href="https://youtu.be/Yi2nq9fcQo8">Three Cheers</a><br>
 <a href="https://youtu.be/YDEcuETojw4">Too Much Wine at Christmas*</a><br>
 <a href="https://youtu.be/hidGBMOFeYg">Trapped in a Phone</a><br>
-<a href="https://soundcloud.com/samharrisonmusic/trash-mountain">Trash Mountain*</a><br>
+<a href="https://youtu.be/SQlxwhEJNZ0">Trash Mountain*</a><br>
 <a href="https://youtu.be/0fMKMUZLLLY">Were All Gonna Die Today *</a><br>
 <a href="https://youtu.be/7RIyGHUsBh4">Why Can't I Sleep?</a><br>
 <a href="https://youtu.be/4OMTLOEpYqo">The Wind *</a><br>
