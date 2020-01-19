@@ -17,7 +17,7 @@ categories:
  <a href="https://youtu.be/tgRg8Utb7q8">Be Gentle*</a><br>
  <a href="https://youtu.be/WKmRCFuqpUM">Better Than Me*</a><br>
    <a href="https://youtu.be/Zzyx5YHkYEQ">Blue Murder*</a><br>
-<a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
+<a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies*</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up *</a><br>
 <a href="https://youtu.be/SVKeXt9B6s0">Bronco Child *</a><br>
@@ -27,7 +27,7 @@ categories:
 <a href="https://youtu.be/Qlum8PiD8lw">Cheese On Toast*</a><br>
 <a href="https://www.youtube.com/6PBrOIzBkG8">Commercial Christmas Song*</a><br>
 <a href="https://youtu.be/t9DrKlakm_k">Close of the Circus*</a><br>
-<a href="https://soundcloud.com/samharrisonmusic/credit-rough-mix">Credit</a><br>
+<a href="https://youtu.be/qYQ30g_icCU">Credit</a><br>
 <a href="https://youtu.be/HI0svqx24a8">Cut from the Bone</a><br>
 <a href="https://youtu.be/HMfV_pLztAU">Dan Dare</a><br>
 <a href="https://youtu.be/GcEeFouiq0w">Darkness*</a><br>
