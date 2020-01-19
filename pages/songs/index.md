@@ -20,7 +20,7 @@ categories:
 <a href="https://itunes.apple.com/us/album/live-at-long-haired-music/id680255215">Bodies</a><br>
 <a href="https://www.youtube.com/watch?v=umUKoQZD3ls">Body  of an Immigrant*</a><br>
 <a href="https://youtu.be/hSCAlEAoMeE">Bottle It Up *</a><br>
-<a href="https://youtu.be/SVKeXt9B6s0">Bronco Child *</a><br>">Bronco Child *</a><br>
+<a href="https://youtu.be/SVKeXt9B6s0">Bronco Child *</a><br>
 <a href="https://youtu.be/dbshcYbsftw">Butterfly Me (demo) *</a><br>
 <a href="https://youtu.be/aa3fQ4DJp2c">Ciaran's Hair *</a><br>
 <a href="https://www.youtube.com/watch?v=B_l6jh4y2sM">The Charlatan*</a><br>
