@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 title: Life's Kills (Lyrics + Video)
 subheadline: "2009"
-teaser: "'From my first published album 'Yes Hard Feelings', life's kills is a message to a fictional careers advisor basically saying that I couldn't be satisfied with a typical life. I was 17/18 writing this, so it's very moody."
+teaser: "From my first published album 'Yes Hard Feelings', life's kills is a message to a fictional careers advisor basically saying that I couldn't be satisfied with a typical life. I was 17/18 writing this, so it's very moody."
 tags:
     - post format
 categories:
