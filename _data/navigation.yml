@@ -40,10 +40,12 @@
   dropdown:
   - title: "Gig Diary"
     url: "/gigs/"
-  - title: "Society of Strange Living"
-    url: "/society-of-strange-living/"
+ - title: "69 Cities"
+    url: "/69cities/"
   - title: "The Breakfast Club"
-    url: "/pages/discog/breakfastclub/petrolmoney/"
+    url: "/pages/discog/breakfastclub/petrolmoney/
+ - title: "Society of Strange Living"
+    url: "/society-of-strange-living/"
   - title: "The Satisfaction"
     url: "/pages/discog/thesatisfaction/album/"
 
